@@ -6,13 +6,13 @@ C:\Server\neo4j-community-3.5.11\bin\neo4j-admin import --ignore-missing-nodes=t
 --nodes:segment "fixedData/SegmentNode.csv" ^
 --relationships:classified_as "classifiedasEdge/part-00000" ^
 --nodes:order "orderNode/part-00000" ^
---relationships:buys "buysEdge/part-00000"  ^
---nodes:date "fixedData/dateNode.csv"  ^
---relationships:in_date "indateEdge/part-00000"  ^
---nodes:product "productNode/part-00000"  ^
+--relationships:buys "buysEdge/part-00000" ^
+--nodes:date "fixedData/dateNode.csv" ^
+--relationships:in_date "indateEdge/part-00000" ^
+--nodes:product "productNode/part-00000" ^
 --relationships:contains "containsEdge/part-00000" ^
---relationships:supplied_by "suppliedbyEdge/part-00000" ^
---relationships:belongs_to "belongstoEdge/part-00000" > "output.txt" 
 --nodes:category "fixedData/category_node.csv" ^
---nodes:farmer "fixedData/farmer_node.csv"  ^
+--nodes:farmer "fixedData/farmer_node.csv" ^
+--relationships:supplied_by "suppliedbyEdge/part-00000" ^
+--relationships:belongs_to "belongstoEdge/part-00000" > "output.txt"
 
