@@ -66,22 +66,6 @@ public class OnlineOrders {
 
         headersuppliedbyedge.union(suppliedbyEdge).repartition(1).saveAsTextFile("src/main/resources/suppliedbyEdge");
 
-        //Products node
-        JavaRDD<String> productNode = dataRDDcache.mapToPair(l -> new Tuple2<String,String>(l.split(",")[1]
-                , l.split(",")[2]))
-                .distinct()
-                .reduceByKey((x,s) -> x.isEmpty() || x.length()== 0 ? s : x)
-                .map(f-> "P" + f._1+";" +f._2);
-        JavaRDD<String> headerproductnode = spark.parallelize(Arrays.asList(":ID;nameproduct:string"));
-
-        headerproductnode.union(productNode).repartition(1).saveAsTextFile("src/main/resources/productNode");
-
-        //belongsto edge
-        JavaRDD<String> belongstoEdge = dataRDDcache.map(l->l.split(",")[1]).distinct()
-                .map(f-> "P" + f+";" + "CAT" + rand.nextInt(4));
-        JavaRDD<String> headerbelongstoedge = spark.parallelize(Arrays.asList(":START_ID;:END_ID"));
-
-        headerbelongstoedge.union(belongstoEdge).repartition(1).saveAsTextFile("src/main/resources/belongstoEdge");
 
         //contains edge
         JavaRDD<String> containsEdge = dataRDDcache

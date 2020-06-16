@@ -1,0 +1,85 @@
+ProductID,ProductName,Type
+10002,Apricots,Fruit
+10080,Avocados,Fruit
+10120,Cherries,Fruit
+10125,Lemons,Fruit
+10133,Clementines,Fruit
+10134,Kiwis,Fruit
+10135,Mandarins,Fruit
+11001,Watermelons,Fruit
+15030,Satsumas,Fruit
+15034,Pears,Fruit
+15036,Plums,Fruit
+15039,Strawberries,Fruit
+16008,Grapes,Fruit
+16010,Oranges,Fruit
+16011,Melons,Fruit
+16012,Nectarines,Fruit
+16014,Peaches,Fruit
+16015,Apples Braeburn,Fruit
+16016,Apples Boskoop,Fruit
+16033,Apples Cox,Fruit
+16043,Apples Elstar,Fruit
+16045,Apples Fuji,Fruit
+16046,Apples Gala,Fruit
+16048,Apples Golden,Fruit
+16049,Apples Granny,Fruit
+16052,Apples Idared,Fruit
+16053,Apples Jonagold,Fruit
+16054,Apples Red,Fruit
+16216,Apples Shampion,Fruit
+16218,Asparagus,Vegetable
+16219,Beans,Vegetable
+16225,Carrots,Vegetable
+16235,Cauliflowers,Vegetable
+16236,Courgettes,Vegetable
+16237,Cucumbers,Vegetable
+16238,Mushrooms,Vegetable
+16254,Eggplants,Vegetable
+16259,Garlic,Vegetable
+17001,Leeks,Vegetable
+17003,Lettuces,Vegetable
+17021,Onions,Vegetable
+17038,Peppers,Vegetable
+17096,Tomatoes Round,Vegetable
+17174,Tomatoes Trusses,Vegetable
+18007,Tomatoes Cherry,Vegetable
+20615,Cabbages,Vegetable
+20616,Bread Wheat,Vegetal
+20617,Feed Wheat,Vegetal
+20618,Feed Barley,Vegetal
+20619,Malting Barley,Vegetal
+20622,Durum Wheat,Vegetal
+20652,Bread Rye,Vegetal
+20653,Feed Rye,Vegetal
+20654,Feed Maize,Vegetal
+20655,Feed Oats,Vegetal
+20657,Milling Oats,Vegetal
+20658,Extra Virgin Olive Oil,Vegetal
+20659,Virgin Olive Oil,Vegetal
+20661,Lampante Olive Oil,Vegetal
+20662,White Sugar,Vegetal
+20663,Male Bovines,Animal
+20664,Young Bovines,Animal
+20665,Young Bulls,Animal
+20666,Steers,Animal
+20667,Cows,Animal
+20668,Heifers,Animal
+20669,Chicken,Animal
+20670,Eggs,Animal
+20671,Lamb Heavy,Animal
+20674,Lamb Light,Animal
+20675,Piglets,Animal
+20676,Pigmeat Class S,Animal
+20677,Pigmeat Class E,Animal
+20678,Pigmeat Class R,Animal
+20679,Raw Milk,Dairy
+20681,SMP,Dairy
+20682,WMP,Dairy
+20684,Whey Powder,Dairy
+20685,Butter,Dairy
+20686,Butter Oil,Dairy
+20689,Cheddar,Dairy
+20694,Edam,Dairy
+20695,Gouda,Dairy
+20696,Emmental,Dairy

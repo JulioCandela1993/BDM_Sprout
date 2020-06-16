@@ -1,51 +1,51 @@
 :ID;farmername:string;location:string;experience:int
-F0;Monet;Cabrera d'Anoia;3
-F1;Warhol;Sant Llorenç Savall;3
-F2;Vettriano;Figaró-Montmany;3
-F3;Cassatt;Santa Maria de Palautordera;4
-F4;Donatello;Canyelles;3
-F5;Gauguin;Olvan;8
-F6;Escher;Badia del Vallès;2
-F7;Vincent;Monistrol de Montserrat;0
-F8;Durer;Sant Sadurní d'Anoia;2
-F9;Kahlo;Capolat;2
-F10;Ansel Adams;Santa Fe del Penedès;0
-F11;Durer;Les Masies de Voltregà;0
-F12;Rembrandt;Cabrera d'Anoia;3
-F13;Dali;Sant Llorenç Savall;3
-F14;Paul Klee;Figaró-Montmany;3
-F15;Michelangelo;Santa Maria de Palautordera;4
-F16;Botticelli;Canyelles;3
-F17;Klimt;Olvan;8
-F18;Cezanne;Badia del Vallès;2
-F19;Durer;Monistrol de Montserrat;0
-F20;Kahlo;Sant Sadurní d'Anoia;2
-F21;Escher;Capolat;2
-F22;Da Vinci;Santa Fe del Penedès;0
-F23;Pollock;Les Masies de Voltregà;0
-F24;Magritte;La Llagosta;2
-F25;Raphael;Cabrera d'Anoia;3
-F26;Escher;Sant Llorenç Savall;3
-F27;Diego Rivera;Figaró-Montmany;3
-F28;Escher;Santa Maria de Palautordera;4
-F29;El Greco;Canyelles;3
-F30;Joan Miro;Olvan;8
-F31;Manet;Badia del Vallès;2
-F32;Cezanne;Monistrol de Montserrat;0
-F33;Kandinsky;Sant Sadurní d'Anoia;2
-F34;Edward Hopper;Capolat;2
-F35;Picasso;Santa Fe del Penedès;0
-F36;Kandinsky;Les Masies de Voltregà;0
-F37;Pollock;Cabrera d'Anoia;3
-F38;Raphael;Sant Llorenç Savall;3
-F39;Manet;Figaró-Montmany;3
-F40;Edward Hopper;Santa Maria de Palautordera;4
-F41;Rubens;Canyelles;3
-F42;Paul Klee;Olvan;8
-F43;Escher;Badia del Vallès;2
-F44;Titian;Monistrol de Montserrat;0
-F45;Dali;Sant Sadurní d'Anoia;2
-F46;Rubens;Capolat;2
-F47;Donatello;Santa Fe del Penedès;0
-F48;Kahlo;Les Masies de Voltregà;0
-F49;Degas;La Llagosta;2
+F0;El Greco;Malla;5
+F1;Dali;Sant Agustí de Lluçanès;4
+F2;El Greco;Mediona;9
+F3;Kahlo;Sagàs;7
+F4;Diego Rivera;Sant Bartomeu del Grau;6
+F5;Da Vinci;Tavèrnoles;4
+F6;Joan Miro;Malla;5
+F7;Raphael;Sant Agustí de Lluçanès;4
+F8;Joan Miro;Mediona;9
+F9;Joan Miro;Sagàs;7
+F10;Munch;Sant Bartomeu del Grau;6
+F11;Titian;Tavèrnoles;4
+F12;Kandinsky;Malla;5
+F13;Durer;Sant Agustí de Lluçanès;4
+F14;Raphael;Mediona;9
+F15;Degas;Sagàs;7
+F16;Vincent;Sant Bartomeu del Grau;6
+F17;Magritte;Tavèrnoles;4
+F18;Raphael;Malla;5
+F19;Ansel Adams;Sant Agustí de Lluçanès;4
+F20;Raphael;Mediona;9
+F21;Raphael;Sagàs;7
+F22;Warhol;Sant Bartomeu del Grau;6
+F23;Raphael;Tavèrnoles;4
+F24;Picasso;Cabrils;2
+F25;Seurat;Malla;5
+F26;Matisse;Sant Agustí de Lluçanès;4
+F27;Kahlo;Mediona;9
+F28;Kahlo;Sagàs;7
+F29;Pissarro;Sant Bartomeu del Grau;6
+F30;Picasso;Tavèrnoles;4
+F31;Dali;Malla;5
+F32;Diego Rivera;Sant Agustí de Lluçanès;4
+F33;Vincent;Mediona;9
+F34;Raphael;Sagàs;7
+F35;El Greco;Sant Bartomeu del Grau;6
+F36;Picasso;Tavèrnoles;4
+F37;Pissarro;Malla;5
+F38;Monet;Sant Agustí de Lluçanès;4
+F39;Pissarro;Mediona;9
+F40;Magritte;Sagàs;7
+F41;Cezanne;Sant Bartomeu del Grau;6
+F42;Bernini;Tavèrnoles;4
+F43;Munch;Malla;5
+F44;Diego Rivera;Sant Agustí de Lluçanès;4
+F45;Picasso;Mediona;9
+F46;Magritte;Sagàs;7
+F47;Seurat;Sant Bartomeu del Grau;6
+F48;Rubens;Tavèrnoles;4
+F49;Da Vinci;Cabrils;2

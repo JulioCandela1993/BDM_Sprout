@@ -1,0 +1,4373 @@
+:ID;name:string;age:int;gender:string
+C15488;Durer;28;Male
+C14515;Seurat;31;Male
+C17844;Raphael;46;Male
+C14436;Kandinsky;0;Male
+C17749;Warhol;89;Male
+C16762;Kahlo;70;Male
+C15213;Titian;73;Male
+C14766;Renoir;12;Male
+C17422;Edward Hopper;98;Male
+C14216;Ansel Adams;51;Male
+C17169;Rembrandt;85;Male
+C15978;Pollock;32;Male
+C16353;Michelangelo;14;Male
+C15280;Vincent;48;Male
+C13170;Ansel Adams;19;Male
+C14463;Joan Miro;94;Male
+C13983;Magritte;18;Male
+C16603;Caravaggio;69;Male
+C12447;Pissarro;76;Male
+C12993;Rothko;91;Male
+C15024;Manet;10;Male
+C17765;Degas;59;Male
+C17789;Winslow Homer;76;Male
+C17268;Bernini;0;Male
+C13598;Raphael;32;Male
+C14124;Rubens;93;Male
+C17040;Ansel Adams;27;Male
+C18085;Michelangelo;87;Male
+C12528;Pissarro;41;Male
+C18270;Raphael;20;Male
+C15253;Pollock;51;Male
+C13220;Kandinsky;56;Male
+C17901;Vettriano;17;Male
+C17914;Manet;97;Male
+C13949;Monet;41;Male
+C14698;Ansel Adams;73;Male
+C15921;Ansel Adams;28;Male
+C17279;Rothko;2;Male
+C16412;Da Vinci;43;Male
+C17486;Escher;91;Male
+C13321;Pissarro;44;Male
+C12386;Raphael;62;Male
+C17512;Bernini;78;Male
+C17341;Winslow Homer;6;Male
+C17767;Joan Miro;70;Male
+C12915;Titian;69;Male
+C17389;Picasso;42;Male
+C14793;Rembrandt;16;Male
+C15158;Winslow Homer;60;Male
+C15101;Dali;76;Male
+C16498;Kandinsky;74;Male
+C17181;Rembrandt;21;Male
+C17372;El Greco;56;Male
+C13927;Michelangelo;54;Male
+C16726;Michelangelo;11;Male
+C17011;Degas;4;Male
+C18034;Kahlo;43;Male
+C18221;Warhol;97;Male
+C18252;Rembrandt;80;Male
+C15004;Munch;46;Male
+C14362;Da Vinci;46;Male
+C15262;Kahlo;36;Male
+C14272;Matisse;24;Male
+C18218;Gauguin;16;Male
+C15840;Titian;71;Male
+C17574;Pollock;69;Male
+C14632;Munch;81;Male
+C15239;Rothko;0;Male
+C15628;Manet;28;Male
+C12649;Magritte;3;Male
+C13682;Seurat;32;Male
+C15073;Winslow Homer;79;Male
+C17349;Winslow Homer;32;Male
+C12557;Bernini;9;Male
+C14087;Klimt;91;Male
+C14562;Rothko;26;Male
+C16652;Cassatt;63;Male
+C15343;Dali;23;Male
+C12526;Raphael;10;Male
+C14647;Gauguin;99;Male
+C17242;Renoir;67;Male
+C15680;Edward Hopper;79;Male
+C17668;Warhol;83;Male
+C14201;El Greco;36;Male
+C14889;Renoir;94;Male
+C17897;Rothko;4;Male
+C17163;Vettriano;94;Male
+C12652;Caravaggio;96;Male
+C16823;Bernini;71;Male
+C12454;El Greco;15;Male
+C16641;Raphael;32;Male
+C16841;Paul Klee;38;Male
+C14652;Picasso;13;Male
+C16241;El Greco;90;Male
+C17534;Manet;80;Male
+C17064;Seurat;70;Male
+C16124;Picasso;47;Male
+C14788;Da Vinci;23;Male
+C13743;Paul Klee;29;Male
+C16609;Magritte;45;Male
+C16081;Renoir;18;Male
+C17158;Da Vinci;13;Male
+C14522;Da Vinci;76;Male
+C17671;Escher;17;Male
+C12953;Ansel Adams;94;Male
+C14416;Escher;50;Male
+C16832;Kandinsky;44;Male
+C12375;Manet;0;Male
+C14494;Caravaggio;43;Male
+C16494;Gauguin;49;Male
+C14012;Michelangelo;29;Male
+C14128;Joan Miro;99;Male
+C16483;Magritte;56;Male
+C12812;Paul Klee;75;Male
+C15950;Pollock;39;Male
+C16036;Durer;83;Male
+C17569;Kahlo;98;Male
+C12689;Cezanne;5;Male
+C12955;El Greco;93;Male
+C16601;Seurat;56;Male
+C13299;Manet;38;Male
+C12924;Caravaggio;9;Male
+C17451;Chagall;41;Male
+C13778;Da Vinci;9;Male
+C18144;Winslow Homer;10;Male
+C15754;Klimt;55;Male
+C14414;Rubens;99;Male
+C14920;Gauguin;87;Male
+C14780;Raphael;15;Male
+C16201;Diego Rivera;58;Male
+C15897;Manet;59;Male
+C12719;Ansel Adams;74;Male
+C14474;Chagall;3;Male
+C15246;Picasso;20;Male
+C15398;Pollock;98;Male
+C15938;Paul Klee;70;Male
+C14489;Caravaggio;70;Male
+C15363;Donatello;71;Male
+C17211;Raphael;25;Male
+C15314;Raphael;39;Male
+C15527;Rothko;11;Male
+C13178;Escher;23;Male
+C13396;Durer;60;Male
+C14546;Titian;41;Male
+C14377;Paul Klee;97;Male
+C13963;Degas;86;Male
+C12830;Pollock;10;Male
+C12638;Rembrandt;0;Male
+C12560;Seurat;24;Male
+C14566;Durer;14;Male
+C12546;Kandinsky;85;Male
+C14304;Kahlo;0;Male
+C14250;Bernini;54;Male
+C16571;Winslow Homer;89;Male
+C12847;Botticelli;49;Male
+C16203;Titian;71;Male
+C18009;Winslow Homer;16;Male
+C15365;Manet;10;Male
+C15958;Rembrandt;86;Male
+C15952;Botticelli;64;Male
+C13422;Dali;94;Male
+C14784;Vincent;76;Male
+C12582;Raphael;90;Male
+C14517;Pissarro;13;Male
+C16179;Vincent;14;Male
+C17228;Rothko;41;Male
+C15655;Caravaggio;59;Male
+C14656;Manet;65;Male
+C12359;Munch;57;Male
+C16359;El Greco;62;Male
+C16924;Seurat;50;Male
+C16720;Kandinsky;40;Male
+C17109;Picasso;74;Male
+C17594;Cezanne;14;Male
+C17402;Manet;93;Male
+C14966;Vincent;11;Male
+C15271;Michelangelo;72;Male
+C12984;Renoir;53;Male
+C12685;Dali;64;Male
+C13158;Michelangelo;48;Male
+C12377;Monet;58;Male
+C15028;Seurat;46;Male
+C15514;Magritte;77;Male
+C14221;Ansel Adams;8;Male
+C15886;Botticelli;43;Male
+C14847;Paul Klee;8;Male
+C15372;Vettriano;3;Male
+C16135;Botticelli;53;Male
+C16591;Paul Klee;72;Male
+C13972;Pissarro;7;Male
+C17523;Michelangelo;48;Male
+C15987;Degas;67;Male
+C17628;Munch;12;Male
+C15424;Munch;11;Male
+C15543;Renoir;34;Male
+C13699;Monet;78;Male
+C17026;Warhol;66;Male
+C13358;Donatello;96;Male
+C13295;Chagall;38;Male
+C18010;Warhol;73;Male
+C14195;Klimt;42;Male
+C12966;Magritte;5;Male
+C12517;Donatello;15;Male
+C14289;Escher;23;Male
+C14483;Caravaggio;94;Male
+C16034;Renoir;73;Male
+C15763;Rembrandt;24;Male
+C16049;Diego Rivera;99;Male
+C13831;Chagall;9;Male
+C16715;Edward Hopper;43;Male
+C18122;Cassatt;13;Male
+C14834;Degas;78;Male
+C17031;Botticelli;70;Male
+C14409;Titian;82;Male
+C17686;Raphael;78;Male
+C16454;Picasso;48;Male
+C17134;Durer;35;Male
+C17785;Kandinsky;75;Male
+C14821;El Greco;78;Male
+C15738;Monet;23;Male
+C16689;Vettriano;54;Male
+C17334;Renoir;87;Male
+C16744;Kandinsky;62;Male
+C12551;Winslow Homer;62;Male
+C14014;Gauguin;1;Male
+C13576;Ansel Adams;29;Male
+C15237;Durer;19;Male
+C16919;Manet;42;Male
+C17709;Pollock;22;Male
+C13844;Rothko;15;Male
+C15051;Gauguin;40;Male
+C14476;Kandinsky;4;Male
+C14265;Michelangelo;77;Male
+C13763;Pollock;17;Male
+C14052;Pollock;97;Male
+C15723;Caravaggio;55;Male
+C12452;Durer;9;Male
+C13325;Pissarro;96;Male
+C17646;Cezanne;32;Male
+C16722;Kandinsky;32;Male
+C17398;Pollock;98;Male
+C14539;Dali;90;Male
+C15554;Rubens;41;Male
+C13936;Diego Rivera;40;Male
+C12544;Caravaggio;50;Male
+C16188;Kandinsky;45;Male
+C14164;Picasso;4;Male
+C13332;Degas;29;Male
+C14508;Rubens;64;Male
+C16302;Picasso;80;Male
+C15668;Paul Klee;40;Male
+C14096;Raphael;1;Male
+C14865;Michelangelo;46;Male
+C18188;Manet;17;Male
+C12423;Bernini;60;Male
+C13507;Gauguin;4;Male
+C14557;Caravaggio;10;Male
+C14034;Ansel Adams;28;Male
+C12744;Cassatt;89;Male
+C12647;Titian;61;Male
+C13790;Degas;31;Male
+C14764;Caravaggio;81;Male
+C17291;Raphael;40;Male
+C13828;Magritte;22;Male
+C16153;Rembrandt;6;Male
+C15053;Seurat;6;Male
+C17408;Rembrandt;22;Male
+C14487;Seurat;73;Male
+C16139;Bernini;92;Male
+C17620;Kandinsky;60;Male
+C14421;Monet;14;Male
+C13747;Renoir;98;Male
+C17758;Kahlo;65;Male
+C14287;Rothko;97;Male
+C12834;Escher;24;Male
+C16849;Pollock;23;Male
+C15976;Chagall;7;Male
+C15466;Kahlo;11;Male
+C12492;Cezanne;90;Male
+C13877;Ansel Adams;94;Male
+C13941;Rothko;29;Male
+C14836;Vincent;40;Male
+C15198;Paul Klee;60;Male
+C13657;Raphael;50;Male
+C14333;Kahlo;59;Male
+C18223;Gauguin;86;Male
+C14346;Kahlo;85;Male
+C15822;Munch;78;Male
+C16357;El Greco;90;Male
+C17572;Munch;73;Male
+C17970;Botticelli;21;Male
+C14021;Winslow Homer;95;Male
+C15714;Diego Rivera;61;Male
+C12658;Escher;87;Male
+C17604;Kandinsky;67;Male
+C15648;Cassatt;1;Male
+C14155;Michelangelo;34;Male
+C14001;Ansel Adams;48;Male
+C16805;Klimt;19;Male
+C14700;Pissarro;57;Male
+C12940;Rembrandt;75;Male
+C17727;Winslow Homer;41;Male
+C17125;Dali;6;Male
+C17769;Michelangelo;30;Male
+C12579;Warhol;62;Male
+C12845;Vettriano;23;Male
+C13811;Pollock;42;Male
+C17581;Cassatt;62;Male
+C16157;Caravaggio;64;Male
+C14104;Degas;69;Male
+C18041;Kahlo;96;Male
+C14810;Renoir;7;Male
+C15866;Bernini;91;Male
+C16016;Monet;67;Male
+C12373;Diego Rivera;81;Male
+C16140;Winslow Homer;59;Male
+C14863;Pollock;34;Male
+C16469;Paul Klee;29;Male
+C15570;Michelangelo;62;Male
+C15046;Vincent;14;Male
+C17521;Kahlo;61;Male
+C14117;Pissarro;0;Male
+C16812;Cassatt;73;Male
+C12991;Kandinsky;99;Male
+C13064;Manet;99;Male
+C17947;Degas;51;Male
+C15257;Escher;52;Male
+C12461;Kandinsky;87;Male
+C12878;Degas;28;Male
+C15091;Picasso;15;Male
+C18094;Rubens;20;Male
+C15167;Renoir;2;Male
+C14481;Klimt;62;Male
+C14513;Gauguin;5;Male
+C16526;Ansel Adams;82;Male
+C17259;Dali;94;Male
+C15701;Pissarro;3;Male
+C17585;Cassatt;42;Male
+C15394;Kandinsky;7;Male
+C12809;Bernini;86;Male
+C16078;Raphael;84;Male
+C15673;Renoir;18;Male
+C17118;Vincent;52;Male
+C13589;Vincent;4;Male
+C14867;Kahlo;56;Male
+C17576;Matisse;37;Male
+C15664;Magritte;57;Male
+C18030;Durer;0;Male
+C15066;Raphael;31;Male
+C17499;Edward Hopper;78;Male
+C15493;Dali;74;Male
+C14762;Ansel Adams;21;Male
+C15839;Durer;56;Male
+C15910;Gauguin;73;Male
+C17703;Paul Klee;98;Male
+C13404;Durer;46;Male
+C12434;Chagall;59;Male
+C15572;Bernini;45;Male
+C16247;Renoir;84;Male
+C12364;Diego Rivera;98;Male
+C13145;Cassatt;36;Male
+C17183;Gauguin;67;Male
+C12694;Seurat;90;Male
+C16742;Degas;65;Male
+C15444;Rubens;64;Male
+C13873;Ansel Adams;18;Male
+C16942;Rubens;25;Male
+C17495;Bernini;72;Male
+C16506;Michelangelo;90;Male
+C16364;Kandinsky;8;Male
+C14047;Winslow Homer;99;Male
+C14173;Kahlo;71;Male
+C17037;Renoir;14;Male
+C18005;Michelangelo;27;Male
+C14351;Vettriano;51;Male
+C15048;Klimt;17;Male
+C14984;Winslow Homer;34;Male
+C13741;Bernini;37;Male
+C16283;Diego Rivera;71;Male
+C16339;Edward Hopper;80;Male
+C16148;Vettriano;74;Male
+C17297;Botticelli;82;Male
+C17633;Manet;57;Male
+C17549;Ansel Adams;76;Male
+C13451;Pissarro;30;Male
+C14036;Donatello;68;Male
+C15251;Bernini;92;Male
+C17660;Kahlo;15;Male
+C14759;Edward Hopper;47;Male
+C12919;Durer;3;Male
+C16500;Rubens;35;Male
+C16407;Rembrandt;44;Male
+C16982;Winslow Homer;71;Male
+C18001;Warhol;80;Male
+C12883;Renoir;19;Male
+C16205;Klimt;49;Male
+C12702;Pollock;19;Male
+C17002;Pollock;0;Male
+C15172;Escher;73;Male
+C17480;Titian;38;Male
+C15507;Joan Miro;82;Male
+C16623;Raphael;67;Male
+C15903;Pollock;30;Male
+C13824;El Greco;12;Male
+C15556;Ansel Adams;63;Male
+C17006;Matisse;3;Male
+C13394;Kandinsky;43;Male
+C15644;Joan Miro;51;Male
+C14988;Pissarro;84;Male
+C15136;Magritte;33;Male
+C13132;Vincent;35;Male
+C12942;Raphael;64;Male
+C14968;Edward Hopper;19;Male
+C18232;Caravaggio;28;Male
+C13848;Botticelli;64;Male
+C17987;Caravaggio;18;Male
+C12797;Magritte;55;Male
+C15125;Degas;45;Male
+C15985;Vincent;51;Male
+C16272;Kahlo;80;Male
+C14089;Da Vinci;36;Male
+C17370;Munch;40;Male
+C13787;Rubens;7;Male
+C14702;Michelangelo;64;Male
+C13929;El Greco;64;Male
+C15347;Seurat;41;Male
+C13066;Da Vinci;84;Male
+C18120;Seurat;84;Male
+C15484;Vincent;77;Male
+C13352;Da Vinci;26;Male
+C13697;Bernini;54;Male
+C15699;Bernini;26;Male
+C12791;Manet;31;Male
+C17325;Kandinsky;21;Male
+C15222;Durer;33;Male
+C16418;Gauguin;54;Male
+C17431;Durer;27;Male
+C13226;Rembrandt;58;Male
+C13253;Titian;24;Male
+C14591;Paul Klee;16;Male
+C14335;Escher;83;Male
+C17994;Donatello;88;Male
+C15097;Cezanne;73;Male
+C13956;Da Vinci;92;Male
+C13329;Escher;29;Male
+C17444;El Greco;85;Male
+C13730;Kahlo;91;Male
+C14386;Botticelli;91;Male
+C13279;Durer;32;Male
+C15518;Durer;55;Male
+C16160;Magritte;20;Male
+C13011;Warhol;43;Male
+C12362;Rubens;14;Male
+C17440;Cassatt;9;Male
+C17912;Monet;95;Male
+C16337;Renoir;46;Male
+C17286;Rubens;47;Male
+C13600;Da Vinci;44;Male
+C16885;Titian;78;Male
+C12384;Manet;95;Male
+C12676;Paul Klee;82;Male
+C17329;Degas;40;Male
+C16180;Rothko;81;Male
+C13501;Diego Rivera;39;Male
+C14937;Diego Rivera;86;Male
+C16144;Picasso;79;Male
+C14205;Joan Miro;6;Male
+C14432;Dali;49;Male
+C12775;Da Vinci;69;Male
+C17107;Picasso;13;Male
+C12683;Picasso;1;Male
+C14861;Manet;90;Male
+C15510;Ansel Adams;86;Male
+C13426;Gauguin;17;Male
+C15947;Rembrandt;69;Male
+C16933;Pollock;75;Male
+C12506;Matisse;26;Male
+C13732;Diego Rivera;8;Male
+C12885;Manet;57;Male
+C13354;Joan Miro;51;Male
+C14658;Renoir;79;Male
+C17958;Cassatt;76;Male
+C13871;Ansel Adams;45;Male
+C14379;Cassatt;84;Male
+C13758;Kandinsky;8;Male
+C16045;Donatello;84;Male
+C16755;Pollock;89;Male
+C15291;Winslow Homer;30;Male
+C17679;Vincent;33;Male
+C15152;Degas;91;Male
+C13167;Manet;3;Male
+C16788;Diego Rivera;1;Male
+C16162;Vincent;72;Male
+C13334;Diego Rivera;15;Male
+C12566;Seurat;34;Male
+C12418;Da Vinci;98;Male
+C13976;Gauguin;98;Male
+C15820;Edward Hopper;29;Male
+C16838;Kandinsky;34;Male
+C14371;El Greco;12;Male
+C14223;Monet;43;Male
+C17075;Chagall;95;Male
+C13062;Pissarro;39;Male
+C13819;Bernini;76;Male
+C12494;Durer;61;Male
+C12814;Degas;89;Male
+C13826;Cassatt;71;Male
+C12997;Magritte;30;Male
+C16212;Warhol;95;Male
+C15303;Ansel Adams;53;Male
+C13666;Rembrandt;11;Male
+C14894;Da Vinci;82;Male
+C16308;Escher;6;Male
+C12728;Gauguin;50;Male
+C15062;Diego Rivera;15;Male
+C16038;Renoir;56;Male
+C13095;Magritte;67;Male
+C17004;Warhol;93;Male
+C13651;Titian;58;Male
+C14757;Botticelli;57;Male
+C13130;Rothko;36;Male
+C16450;Diego Rivera;91;Male
+C15206;Da Vinci;41;Male
+C14881;Pollock;44;Male
+C13040;Magritte;49;Male
+C15581;Vincent;46;Male
+C13211;Gauguin;20;Male
+C15622;Caravaggio;53;Male
+C14502;Escher;55;Male
+C13240;Escher;23;Male
+C15653;Pissarro;89;Male
+C16847;Rubens;20;Male
+C13035;Vincent;55;Male
+C16678;Durer;93;Male
+C15563;Edward Hopper;65;Male
+C13046;Winslow Homer;78;Male
+C16458;Vincent;8;Male
+C16809;Da Vinci;61;Male
+C15178;Ansel Adams;99;Male
+C16243;Pissarro;32;Male
+C15130;Rembrandt;71;Male
+C15660;Monet;13;Male
+C17024;Klimt;53;Male
+C17190;Durer;5;Male
+C17552;Da Vinci;1;Male
+C14447;Joan Miro;83;Male
+C13781;Vincent;79;Male
+C12856;El Greco;23;Male
+C15565;Kahlo;3;Male
+C14177;Klimt;3;Male
+C15974;Pissarro;65;Male
+C16096;Kandinsky;78;Male
+C17561;Munch;6;Male
+C16414;Winslow Homer;25;Male
+C14801;Monet;22;Male
+C14825;Durer;49;Male
+C14995;Diego Rivera;43;Male
+C13323;Dali;82;Male
+C16696;Winslow Homer;3;Male
+C13804;Titian;57;Male
+C17682;Titian;9;Male
+C12841;Chagall;89;Male
+C14210;Rothko;80;Male
+C14830;Caravaggio;29;Male
+C17932;Pollock;90;Male
+C14731;Botticelli;34;Male
+C17406;Cassatt;0;Male
+C13284;Paul Klee;96;Male
+C16276;Pollock;56;Male
+C15318;Da Vinci;15;Male
+C17152;Rothko;97;Male
+C15350;Kahlo;34;Male
+C12944;Klimt;73;Male
+C16917;Seurat;11;Male
+C14689;Winslow Homer;57;Male
+C18018;Seurat;94;Male
+C17309;Bernini;90;Male
+C17978;Rubens;9;Male
+C16999;Escher;11;Male
+C16892;El Greco;20;Male
+C12403;Magritte;80;Male
+C16025;Warhol;22;Male
+C12904;Raphael;18;Male
+C12548;Vincent;4;Male
+C12654;Pollock;71;Male
+C14258;Magritte;3;Male
+C14081;Manet;88;Male
+C14229;Vettriano;51;Male
+C14300;Winslow Homer;99;Male
+C14841;Cezanne;66;Male
+C15132;Picasso;64;Male
+C17547;Rubens;67;Male
+C16881;Ansel Adams;89;Male
+C16119;Joan Miro;83;Male
+C14276;Dali;81;Male
+C12449;Bernini;66;Male
+C16795;Chagall;72;Male
+C14113;Escher;82;Male
+C13549;Durer;12;Male
+C14227;Renoir;14;Male
+C16889;Seurat;0;Male
+C15266;Joan Miro;84;Male
+C14803;Degas;61;Male
+C17589;Ansel Adams;28;Male
+C18269;Degas;68;Male
+C12450;Pissarro;56;Male
+C13866;Renoir;26;Male
+C12577;Rothko;19;Male
+C15068;Magritte;87;Male
+C17048;El Greco;53;Male
+C16595;Cassatt;84;Male
+C16737;Winslow Homer;53;Male
+C13248;Degas;42;Male
+C13703;Michelangelo;98;Male
+C17464;Winslow Homer;54;Male
+C16863;Titian;57;Male
+C14326;Rubens;1;Male
+C16681;El Greco;30;Male
+C12380;Paul Klee;89;Male
+C18212;Monet;28;Male
+C13268;Degas;88;Male
+C15220;Joan Miro;66;Male
+C13561;Magritte;95;Male
+C15075;Escher;98;Male
+C14645;Munch;54;Male
+C13631;Rubens;28;Male
+C16843;Picasso;46;Male
+C16779;Gauguin;24;Male
+C12793;Rubens;68;Male
+C13327;Pissarro;58;Male
+C14344;Paul Klee;80;Male
+C14582;Seurat;73;Male
+C15967;Winslow Homer;8;Male
+C16546;Edward Hopper;8;Male
+C17864;El Greco;51;Male
+C17800;Rothko;74;Male
+C17695;Vettriano;49;Male
+C17101;Cassatt;67;Male
+C15804;Warhol;94;Male
+C16926;Magritte;63;Male
+C13208;Renoir;11;Male
+C15815;Warhol;67;Male
+C15415;Rembrandt;47;Male
+C15826;Rothko;47;Male
+C16427;Rembrandt;56;Male
+C14054;Joan Miro;44;Male
+C16887;Picasso;49;Male
+C13192;Bernini;32;Male
+C15033;Monet;62;Male
+C12656;Klimt;30;Male
+C14829;Bernini;39;Male
+C15598;Munch;37;Male
+C14935;Monet;49;Male
+C15464;Manet;67;Male
+C15907;Dali;43;Male
+C17556;Rothko;18;Male
+C16315;Cassatt;76;Male
+C16409;Rembrandt;22;Male
+C16311;Winslow Homer;9;Male
+C14111;Kandinsky;34;Male
+C12520;Seurat;59;Male
+C15240;Michelangelo;25;Male
+C16256;Degas;44;Male
+C13109;Degas;39;Male
+C17640;Matisse;16;Male
+C18205;Monet;3;Male
+C13185;Raphael;71;Male
+C17381;Monet;43;Male
+C13918;Joan Miro;16;Male
+C12665;El Greco;5;Male
+C13499;Da Vinci;49;Male
+C14854;Chagall;22;Male
+C16399;Pollock;71;Male
+C18281;Matisse;79;Male
+C17404;Pissarro;70;Male
+C16764;Renoir;69;Male
+C14870;Picasso;71;Male
+C14368;Degas;36;Male
+C15325;Paul Klee;74;Male
+C16313;Da Vinci;34;Male
+C15705;Raphael;61;Male
+C15035;Donatello;71;Male
+C17044;Magritte;40;Male
+C14584;Degas;33;Male
+C14092;Munch;9;Male
+C17941;Matisse;8;Male
+C17949;Chagall;33;Male
+C17651;Klimt;91;Male
+C12957;Vincent;72;Male
+C17015;Matisse;15;Male
+C16735;Donatello;32;Male
+C17761;Rembrandt;42;Male
+C12641;Cassatt;86;Male
+C18229;El Greco;96;Male
+C15419;Winslow Homer;57;Male
+C13118;Paul Klee;90;Male
+C16128;Edward Hopper;61;Male
+C16366;El Greco;45;Male
+C14027;Donatello;49;Male
+C14067;Munch;8;Male
+C14108;Cassatt;45;Male
+C17516;Escher;29;Male
+C13569;Gauguin;84;Male
+C13389;Cezanne;36;Male
+C16759;Rothko;33;Male
+C13635;Dali;73;Male
+C17095;Vettriano;87;Male
+C13271;El Greco;17;Male
+C16773;Raphael;79;Male
+C13273;Klimt;61;Male
+C14085;Dali;18;Male
+C14953;Diego Rivera;89;Male
+C13101;Renoir;23;Male
+C13750;Cezanne;80;Male
+C17705;Manet;26;Male
+C14601;Degas;98;Male
+C13080;Escher;85;Male
+C17811;Cassatt;78;Male
+C12715;Kandinsky;48;Male
+C18135;Kahlo;49;Male
+C15783;Michelangelo;13;Male
+C13189;Rothko;69;Male
+C13925;Da Vinci;13;Male
+C14997;Donatello;98;Male
+C12672;Rothko;50;Male
+C13134;Rembrandt;58;Male
+C15916;Joan Miro;78;Male
+C16775;Paul Klee;9;Male
+C13974;Seurat;70;Male
+C12827;Rubens;21;Male
+C16182;Matisse;73;Male
+C14045;Da Vinci;0;Male
+C13772;Rothko;47;Male
+C12407;El Greco;99;Male
+C16258;Diego Rivera;31;Male
+C16858;Titian;6;Male
+C18081;Manet;75;Male
+C16676;Winslow Homer;77;Male
+C12645;Matisse;88;Male
+C16278;Warhol;52;Male
+C15901;Ansel Adams;80;Male
+C18168;Vettriano;79;Male
+C17251;Michelangelo;16;Male
+C16968;Vincent;38;Male
+C14623;Picasso;86;Male
+C17350;Degas;51;Male
+C12948;Michelangelo;76;Male
+C12818;Donatello;57;Male
+C17673;Chagall;61;Male
+C12498;Pissarro;36;Male
+C16807;Rubens;57;Male
+C17985;Michelangelo;21;Male
+C17079;Kandinsky;83;Male
+C18227;Durer;78;Male
+C13705;Chagall;62;Male
+C17714;Rothko;82;Male
+C13493;Paul Klee;70;Male
+C13727;Rubens;20;Male
+C13103;Magritte;20;Male
+C16122;Winslow Homer;52;Male
+C14315;Cassatt;72;Male
+C15154;Picasso;9;Male
+C15657;Klimt;31;Male
+C14883;Edward Hopper;76;Male
+C15505;Ansel Adams;19;Male
+C16618;Pollock;4;Male
+C16634;El Greco;89;Male
+C14618;Klimt;30;Male
+C14524;Paul Klee;37;Male
+C15044;Manet;15;Male
+C17930;Rothko;91;Male
+C15187;El Greco;1;Male
+C15118;Michelangelo;74;Male
+C15088;Seurat;91;Male
+C18225;Da Vinci;29;Male
+C18272;Dali;50;Male
+C16317;Monet;20;Male
+C12821;Paul Klee;7;Male
+C16782;Seurat;29;Male
+C12612;Escher;89;Male
+C15361;Klimt;88;Male
+C15813;Diego Rivera;38;Male
+C16533;Raphael;7;Male
+C12700;Monet;53;Male
+C17086;Renoir;54;Male
+C13529;El Greco;23;Male
+C13822;Seurat;37;Male
+C15860;Renoir;19;Male
+C15880;Winslow Homer;24;Male
+C17684;Seurat;84;Male
+C13059;Renoir;71;Male
+C14924;Rothko;12;Male
+C18184;Matisse;97;Male
+C15592;Dali;96;Male
+C16159;Klimt;55;Male
+C14423;Bernini;84;Male
+C16405;Dali;93;Male
+C17796;Dali;11;Male
+C13200;Escher;6;Male
+C13835;Picasso;82;Male
+C12610;Paul Klee;25;Male
+C13662;Picasso;50;Male
+C14661;Magritte;54;Male
+C17839;Pollock;81;Male
+C17420;Gauguin;0;Male
+C15107;Donatello;52;Male
+C16324;Titian;92;Male
+C16728;Vettriano;48;Male
+C13079;Cezanne;48;Male
+C12982;Raphael;55;Male
+C16265;Edward Hopper;3;Male
+C17637;Vincent;43;Male
+C17392;Bernini;28;Male
+C16456;Escher;89;Male
+C17873;El Greco;95;Male
+C12478;Gauguin;15;Male
+C13365;Escher;87;Male
+C15561;Matisse;92;Male
+C14744;Vincent;84;Male
+C16270;Titian;73;Male
+C12667;Kahlo;90;Male
+C18191;Degas;73;Male
+C16380;Da Vinci;90;Male
+C15332;Kahlo;3;Male
+C12740;Raphael;43;Male
+C14665;Joan Miro;97;Male
+C13369;Titian;26;Male
+C15677;Matisse;3;Male
+C18102;Donatello;97;Male
+C13408;Titian;0;Male
+C16535;Paul Klee;71;Male
+C14553;Caravaggio;61;Male
+C14915;Klimt;25;Male
+C14511;Cassatt;76;Male
+C18027;Botticelli;87;Male
+C14139;Klimt;20;Male
+C14775;Paul Klee;83;Male
+C14098;Warhol;14;Male
+C15301;Kahlo;10;Male
+C14885;Botticelli;28;Male
+C14946;Paul Klee;11;Male
+C15945;Picasso;73;Male
+C16966;Paul Klee;77;Male
+C14212;Degas;51;Male
+C16041;Raphael;51;Male
+C15385;El Greco;76;Male
+C12593;Renoir;24;Male
+C16566;Magritte;2;Male
+C15297;Gauguin;65;Male
+C15411;Manet;73;Male
+C16959;Manet;98;Male
+C16306;Winslow Homer;96;Male
+C17017;Raphael;90;Male
+C13176;Kahlo;40;Male
+C15963;Cassatt;78;Male
+C17220;Botticelli;11;Male
+C12928;Gauguin;97;Male
+C12755;Pollock;61;Male
+C18164;Picasso;74;Male
+C17400;Diego Rivera;74;Male
+C18043;Raphael;11;Male
+C12395;Kandinsky;96;Male
+C12618;Ansel Adams;20;Male
+C15185;Degas;31;Male
+C13198;Klimt;44;Male
+C14188;Joan Miro;67;Male
+C14957;Ansel Adams;1;Male
+C18160;Raphael;69;Male
+C12476;Kahlo;47;Male
+C13989;Pollock;50;Male
+C12540;Renoir;75;Male
+C12720;Botticelli;94;Male
+C16225;Paul Klee;76;Male
+C16274;Warhol;19;Male
+C13277;Raphael;43;Male
+C14456;Matisse;69;Male
+C12759;Magritte;90;Male
+C18061;Munch;28;Male
+C14140;Seurat;11;Male
+C13680;Michelangelo;94;Male
+C15228;Da Vinci;80;Male
+C17817;Pollock;26;Male
+C14234;Cassatt;34;Male
+C15671;Picasso;15;Male
+C17198;Edward Hopper;76;Male
+C17213;Pissarro;96;Male
+C17231;Da Vinci;98;Male
+C18216;Paul Klee;90;Male
+C13992;Da Vinci;8;Male
+C15457;Degas;65;Male
+C13002;Vincent;88;Male
+C13017;Rembrandt;9;Male
+C16834;Magritte;94;Male
+C14586;Vincent;86;Male
+C12489;Rubens;16;Male
+C16951;Matisse;84;Male
+C16953;Rothko;83;Male
+C17468;Klimt;49;Male
+C15316;Warhol;27;Male
+C17615;Da Vinci;93;Male
+C17866;Renoir;40;Male
+C16218;Titian;12;Male
+C15512;Renoir;21;Male
+C16207;Durer;71;Male
+C18096;Joan Miro;83;Male
+C13336;Warhol;70;Male
+C16012;Rubens;92;Male
+C12539;Bernini;84;Male
+C13310;Bernini;57;Male
+C15226;Donatello;88;Male
+C15587;Joan Miro;16;Male
+C17950;Winslow Homer;28;Male
+C17752;Pollock;41;Male
+C15747;Kahlo;19;Male
+C16401;Raphael;98;Male
+C15503;Escher;99;Male
+C16245;El Greco;18;Male
+C17385;Diego Rivera;98;Male
+C17967;Kandinsky;47;Male
+C13723;Picasso;46;Male
+C12515;Joan Miro;75;Male
+C17921;Michelangelo;11;Male
+C17969;Winslow Homer;37;Male
+C13398;Pissarro;36;Male
+C12397;Ansel Adams;23;Male
+C14159;Titian;75;Male
+C12410;Pissarro;32;Male
+C13846;Renoir;32;Male
+C14359;Magritte;28;Male
+C15374;Winslow Homer;64;Male
+C15114;Renoir;63;Male
+C16384;El Greco;88;Male
+C13297;Magritte;53;Male
+C16232;Kahlo;22;Male
+C17578;Paul Klee;19;Male
+C17354;Ansel Adams;29;Male
+C16173;El Greco;0;Male
+C16432;Caravaggio;46;Male
+C16988;Edward Hopper;38;Male
+C13242;Diego Rivera;60;Male
+C14357;Diego Rivera;31;Male
+C15864;Caravaggio;40;Male
+C17888;Michelangelo;46;Male
+C17509;Kahlo;46;Male
+C14412;Munch;27;Male
+C12735;Donatello;0;Male
+C13141;Diego Rivera;21;Male
+C15244;Donatello;75;Male
+C12409;Paul Klee;78;Male
+C12481;Caravaggio;24;Male
+C13044;Seurat;24;Male
+C16791;Diego Rivera;2;Male
+C15400;Manet;30;Male
+C17545;Bernini;48;Male
+C14609;Klimt;31;Male
+C16018;Pissarro;78;Male
+C12625;Dali;14;Male
+C14643;Pollock;26;Male
+C12722;Monet;11;Male
+C15349;Kandinsky;48;Male
+C16629;Bernini;65;Male
+C16902;Klimt;13;Male
+C15286;Raphael;36;Male
+C12913;Kahlo;61;Male
+C15835;Kandinsky;75;Male
+C12863;Rubens;34;Male
+C17114;Diego Rivera;35;Male
+C16342;Magritte;50;Male
+C13099;Michelangelo;4;Male
+C16816;Durer;3;Male
+C16120;Klimt;32;Male
+C17323;Diego Rivera;87;Male
+C18210;Rubens;93;Male
+C17321;El Greco;25;Male
+C13853;Rothko;33;Male
+C14209;Diego Rivera;9;Male
+C16869;Pissarro;34;Male
+C12872;Kahlo;20;Male
+C13899;Vincent;74;Male
+C15594;Winslow Homer;89;Male
+C15776;Renoir;49;Male
+C15981;Gauguin;97;Male
+C15523;Michelangelo;26;Male
+C16030;Rubens;55;Male
+C16753;Matisse;93;Male
+C15145;Bernini;52;Male
+C14755;Bernini;55;Male
+C15019;Renoir;71;Male
+C17554;Vincent;23;Male
+C18113;Warhol;0;Male
+C15211;Rothko;18;Male
+C12681;Donatello;98;Male
+C14959;Donatello;81;Male
+C15844;Kahlo;48;Male
+C18104;Klimt;50;Male
+C13615;Raphael;73;Male
+C14102;Diego Rivera;26;Male
+C15321;Pollock;60;Male
+C14760;Da Vinci;93;Male
+C12490;Bernini;60;Male
+C15039;Monet;70;Male
+C12524;Raphael;65;Male
+C12906;Da Vinci;86;Male
+C16214;Kahlo;59;Male
+C14607;Manet;27;Male
+C17312;Pollock;70;Male
+C17802;Kahlo;50;Male
+C13228;Magritte;82;Male
+C14119;Winslow Homer;46;Male
+C13390;Titian;61;Male
+C15480;Durer;19;Male
+C12731;Botticelli;30;Male
+C15709;Bernini;15;Male
+C12483;Raphael;98;Male
+C17459;Ansel Adams;12;Male
+C12951;Vincent;63;Male
+C15888;Pissarro;16;Male
+C18171;Renoir;39;Male
+C14241;Kahlo;94;Male
+C15965;Munch;53;Male
+C12920;Vettriano;61;Male
+C15264;Klimt;20;Male
+C15909;Botticelli;92;Male
+C12519;Pissarro;12;Male
+C15569;Pollock;77;Male
+C14029;Bernini;21;Male
+C15606;Winslow Homer;40;Male
+C15899;Manet;16;Male
+C17501;Vettriano;26;Male
+C17819;Kahlo;23;Male
+C17187;Paul Klee;10;Male
+C16177;Seurat;85;Male
+C14681;Raphael;94;Male
+C12753;Degas;84;Male
+C15031;Winslow Homer;8;Male
+C18159;Diego Rivera;12;Male
+C16449;Kahlo;53;Male
+C17956;Winslow Homer;56;Male
+C15026;Joan Miro;81;Male
+C12414;Seurat;32;Male
+C16555;Cassatt;56;Male
+C14331;Matisse;97;Male
+C16227;Klimt;39;Male
+C13639;Bernini;89;Male
+C15923;Pissarro;44;Male
+C14898;Ansel Adams;82;Male
+C14175;Vincent;55;Male
+C17105;Munch;31;Male
+C12829;Dali;48;Male
+C12917;Monet;17;Male
+C13154;Pissarro;62;Male
+C18032;Durer;98;Male
+C15659;Diego Rivera;77;Male
+C12669;Durer;78;Male
+C12609;El Greco;66;Male
+C16708;Diego Rivera;69;Male
+C12513;Degas;12;Male
+C12908;El Greco;64;Male
+C12816;Pissarro;72;Male
+C13309;Kandinsky;1;Male
+C17419;Pollock;11;Male
+C16672;Pollock;59;Male
+C13978;Pollock;10;Male
+C16083;Vincent;33;Male
+C14621;Cassatt;73;Male
+C17248;Seurat;64;Male
+C14348;Edward Hopper;22;Male
+C14669;Chagall;64;Male
+C18256;Rembrandt;31;Male
+C17222;Cassatt;54;Male
+C15646;Pollock;97;Male
+C16250;Kandinsky;95;Male
+C13767;Kandinsky;63;Male
+C14410;Vettriano;21;Male
+C12522;Seurat;14;Male
+C13895;Paul Klee;8;Male
+C14799;Winslow Homer;39;Male
+C17062;Dali;78;Male
+C17174;Paul Klee;30;Male
+C16193;Dali;32;Male
+C13091;Ansel Adams;96;Male
+C17060;Joan Miro;89;Male
+C18180;Chagall;53;Male
+C17433;Gauguin;78;Male
+C16856;Pollock;55;Male
+C14641;Manet;47;Male
+C12438;Diego Rivera;51;Male
+C12588;Picasso;25;Male
+C14180;Kandinsky;78;Male
+C12939;Cezanne;49;Male
+C17233;Warhol;93;Male
+C17514;Kandinsky;49;Male
+C14076;Dali;4;Male
+C15408;Michelangelo;41;Male
+C15626;Ansel Adams;88;Male
+C13707;Pollock;50;Male
+C13990;Warhol;5;Male
+C16210;Warhol;92;Male
+C15516;Botticelli;88;Male
+C16513;Manet;33;Male
+C16504;Winslow Homer;8;Male
+C18078;Cassatt;37;Male
+C16658;Joan Miro;90;Male
+C14083;Titian;15;Male
+C16627;Gauguin;71;Male
+C17356;Michelangelo;98;Male
+C17718;Manet;84;Male
+C14869;Rothko;68;Male
+C15329;Bernini;70;Male
+C17642;Kandinsky;53;Male
+C13969;Titian;58;Male
+C16470;Caravaggio;93;Male
+C14616;Seurat;1;Male
+C15071;Seurat;85;Male
+C15675;Manet;77;Male
+C14418;Cassatt;71;Male
+C13224;Winslow Homer;19;Male
+C13534;Renoir;50;Male
+C16076;Magritte;88;Male
+C17567;Manet;73;Male
+C15334;Kandinsky;91;Male
+C17411;Renoir;32;Male
+C14375;Chagall;27;Male
+C15204;Seurat;92;Male
+C17226;Seurat;14;Male
+C16928;Bernini;80;Male
+C17033;Kahlo;33;Male
+C14243;Warhol;1;Male
+C14452;Renoir;68;Male
+C17886;Degas;22;Male
+C13330;Matisse;86;Male
+C16638;Rubens;15;Male
+C16164;Kandinsky;85;Male
+C16784;Cassatt;71;Male
+C14779;Cassatt;38;Male
+C16829;Botticelli;45;Male
+C17835;Klimt;64;Male
+C15057;Pollock;46;Male
+C12881;Bernini;81;Male
+C13385;Raphael;16;Male
+C17653;Kahlo;75;Male
+C14713;Michelangelo;87;Male
+C12412;Cassatt;98;Male
+C12427;Cassatt;46;Male
+C16351;Warhol;62;Male
+C13954;Matisse;51;Male
+C17022;Caravaggio;8;Male
+C17608;Bernini;23;Male
+C16771;Kahlo;69;Male
+C16616;Paul Klee;96;Male
+C15882;Kahlo;52;Male
+C14715;Pollock;15;Male
+C16883;Chagall;56;Male
+C13901;Pissarro;52;Male
+C18014;Magritte;74;Male
+C14041;Raphael;5;Male
+C14555;Durer;29;Male
+C13862;El Greco;77;Male
+C13884;Michelangelo;60;Male
+C17828;Magritte;79;Male
+C13437;Matisse;6;Male
+C15402;Dali;48;Male
+C16519;Michelangelo;0;Male
+C14238;Klimt;8;Male
+C16009;Magritte;2;Male
+C17639;Escher;87;Male
+C15396;Klimt;38;Male
+C14162;Warhol;79;Male
+C13659;Pissarro;75;Male
+C12456;Bernini;78;Male
+C15288;Ansel Adams;69;Male
+C14753;Matisse;89;Male
+C15769;Michelangelo;82;Male
+C15521;Gauguin;85;Male
+C16403;Vettriano;71;Male
+C16520;Dali;3;Male
+C15695;Rubens;71;Male
+C14520;Rubens;69;Male
+C16191;Botticelli;48;Male
+C13532;Pollock;82;Male
+C13244;Durer;72;Male
+C16050;Michelangelo;88;Male
+C16915;Edward Hopper;96;Male
+C16063;Picasso;96;Male
+C13484;Pollock;20;Male
+C18177;Warhol;87;Male
+C13075;Dali;50;Male
+C13752;Rothko;69;Male
+C18058;Michelangelo;61;Male
+C12724;Degas;83;Male
+C13518;Kandinsky;94;Male
+C15105;Renoir;27;Male
+C12764;Picasso;89;Male
+C14649;Magritte;64;Male
+C17206;Paul Klee;74;Male
+C13475;Michelangelo;22;Male
+C14878;El Greco;75;Male
+C16665;Winslow Homer;6;Male
+C13464;Kahlo;92;Male
+C17879;Manet;31;Male
+C16706;Gauguin;35;Male
+C15589;Dali;74;Male
+C15691;Degas;4;Male
+C13668;Pollock;67;Male
+C15743;Pollock;61;Male
+C17035;Ansel Adams;42;Male
+C13521;Vettriano;41;Male
+C16692;Paul Klee;24;Male
+C14267;Munch;8;Male
+C17051;Monet;13;Male
+C18193;Kandinsky;23;Male
+C14285;Manet;38;Male
+C13033;Winslow Homer;69;Male
+C14373;Seurat;82;Male
+C14407;Renoir;68;Male
+C12977;Raphael;89;Male
+C15578;Manet;39;Male
+C12838;Degas;11;Male
+C16647;Michelangelo;91;Male
+C13710;Bernini;56;Male
+C12766;Rothko;29;Male
+C18056;Klimt;58;Male
+C15750;Raphael;26;Male
+C14704;Pissarro;48;Male
+C13082;Matisse;43;Male
+C17691;Durer;40;Male
+C14528;Kahlo;68;Male
+C17806;Paul Klee;49;Male
+C14056;Renoir;92;Male
+C15679;Rubens;83;Male
+C14533;Cezanne;88;Male
+C15707;Titian;52;Male
+C15970;Chagall;21;Male
+C16106;Renoir;34;Male
+C13930;Joan Miro;94;Male
+C15174;Matisse;74;Male
+C16221;Raphael;78;Male
+C12346;Caravaggio;47;Male
+C15525;Cassatt;39;Male
+C16517;Renoir;58;Male
+C12630;Da Vinci;89;Male
+C16948;Degas;64;Male
+C17138;Durer;4;Male
+C14485;Donatello;61;Male
+C15637;Titian;60;Male
+C12678;Da Vinci;63;Male
+C16511;Renoir;43;Male
+C12586;Seurat;77;Male
+C15356;Vettriano;74;Male
+C14355;Seurat;89;Male
+C17736;Botticelli;81;Male
+C13048;Dali;97;Male
+C13721;Klimt;74;Male
+C18087;Rubens;11;Male
+C17460;Michelangelo;13;Male
+C16360;Renoir;28;Male
+C13462;Degas;99;Male
+C13880;Rubens;81;Male
+C15811;Renoir;23;Male
+C17712;Picasso;63;Male
+C15819;Botticelli;36;Male
+C14214;Manet;23;Male
+C18250;Manet;77;Male
+C13886;Rothko;5;Male
+C13307;Degas;31;Male
+C16780;Rubens;34;Male
+C13417;Caravaggio;27;Male
+C17831;Vincent;17;Male
+C12429;Kandinsky;55;Male
+C15620;Monet;26;Male
+C14720;Manet;33;Male
+C14944;Monet;88;Male
+C15149;Magritte;11;Male
+C14733;Vettriano;58;Male
+C12535;Caravaggio;26;Male
+C15095;Paul Klee;11;Male
+C15435;Michelangelo;81;Male
+C15640;Escher;42;Male
+C18050;Titian;17;Male
+C18036;Winslow Homer;56;Male
+C16793;Monet;51;Male
+C14146;Paul Klee;98;Male
+C16184;Cassatt;8;Male
+C17895;Seurat;29;Male
+C16957;Klimt;52;Male
+C16146;Pissarro;13;Male
+C17538;Munch;38;Male
+C16898;Vincent;99;Male
+C17781;Rubens;6;Male
+C17097;Da Vinci;27;Male
+C14887;Cezanne;81;Male
+C17929;Klimt;86;Male
+C17338;Bernini;8;Male
+C14960;Bernini;72;Male
+C18065;Rembrandt;20;Male
+C14971;Degas;69;Male
+C13460;Monet;7;Male
+C14148;Paul Klee;21;Male
+C17019;Diego Rivera;55;Male
+C17680;Ansel Adams;16;Male
+C15547;Manet;57;Male
+C13958;Donatello;46;Male
+C15392;Matisse;36;Male
+C17244;Warhol;1;Male
+C15127;Donatello;77;Male
+C16579;Degas;15;Male
+C17299;Warhol;11;Male
+C14711;Kandinsky;97;Male
+C13235;Diego Rivera;23;Male
+C17677;Matisse;56;Male
+C16007;Monet;19;Male
+C13448;Kandinsky;38;Male
+C15123;Vincent;32;Male
+C17837;Vettriano;40;Male
+C12584;Donatello;40;Male
+C13121;Paul Klee;51;Male
+C15949;Magritte;15;Male
+C16023;Vettriano;5;Male
+C13488;Rothko;42;Male
+C13527;Escher;51;Male
+C16597;Ansel Adams;67;Male
+C14975;Manet;54;Male
+C12670;Dali;95;Male
+C15134;Vettriano;86;Male
+C16209;Joan Miro;56;Male
+C15808;Rothko;49;Male
+C18069;Picasso;73;Male
+C15022;Kandinsky;29;Male
+C14696;Botticelli;88;Male
+C16960;Dali;29;Male
+C16379;Vettriano;50;Male
+C16621;Monet;25;Male
+C18203;Magritte;51;Male
+C14199;Seurat;97;Male
+C12971;Degas;24;Male
+C16029;Monet;55;Male
+C16986;Seurat;44;Male
+C12650;Munch;79;Male
+C14133;Michelangelo;94;Male
+C14364;Diego Rivera;3;Male
+C16085;Pollock;48;Male
+C16438;Winslow Homer;88;Male
+C13161;Cassatt;81;Male
+C14353;Michelangelo;52;Male
+C14472;Seurat;5;Male
+C12922;Bernini;40;Male
+C14498;Monet;73;Male
+C12690;Vettriano;52;Male
+C16669;Durer;83;Male
+C17082;Diego Rivera;74;Male
+C17365;Dali;40;Male
+C16098;Diego Rivera;50;Male
+C13934;Cassatt;98;Male
+C14603;Bernini;90;Male
+C15837;Da Vinci;41;Male
+C13756;Manet;72;Male
+C14247;Vettriano;88;Male
+C13008;Matisse;31;Male
+C16515;Rubens;70;Male
+C15545;Renoir;42;Male
+C13590;Paul Klee;47;Male
+C16115;Cezanne;60;Male
+C13381;Cezanne;52;Male
+C15150;Paul Klee;82;Male
+C16010;El Greco;44;Male
+C14748;Paul Klee;27;Male
+C18119;Renoir;32;Male
+C14397;Rothko;69;Male
+C17619;Vincent;18;Male
+C14504;Pollock;82;Male
+C16478;Pollock;55;Male
+C12360;Picasso;17;Male
+C12508;Edward Hopper;86;Male
+C14320;Escher;98;Male
+C17491;Escher;22;Male
+C15912;Da Vinci;60;Male
+C14317;Ansel Adams;4;Male
+C15857;Winslow Homer;70;Male
+C12559;Rembrandt;64;Male
+C15079;Donatello;96;Male
+C15006;Rubens;43;Male
+C15376;Escher;68;Male
+C16287;Rembrandt;69;Male
+C14735;Ansel Adams;50;Male
+C15994;Caravaggio;99;Male
+C12795;Picasso;35;Male
+C13817;Joan Miro;96;Male
+C16043;Gauguin;40;Male
+C17165;Renoir;71;Male
+C15862;Vincent;37;Male
+C12355;Bernini;26;Male
+C17262;Ansel Adams;5;Male
+C13754;Klimt;31;Male
+C16904;Paul Klee;92;Male
+C15471;Gauguin;53;Male
+C15596;Botticelli;68;Male
+C14852;Warhol;67;Male
+C13187;Botticelli;24;Male
+C12445;Ansel Adams;13;Male
+C14782;Pollock;16;Male
+C15482;Magritte;17;Male
+C15716;Kandinsky;68;Male
+C17204;Escher;13;Male
+C13538;Dali;70;Male
+C16056;Kandinsky;78;Male
+C15758;Cassatt;19;Male
+C16719;Pissarro;59;Male
+C14193;Cassatt;28;Male
+C15891;Vincent;67;Male
+C14382;Vettriano;78;Male
+C15925;Pollock;15;Male
+C13950;Renoir;67;Male
+C17934;Rothko;32;Male
+C17664;Durer;4;Male
+C17725;Rothko;76;Male
+C13525;Caravaggio;53;Male
+C12500;Caravaggio;43;Male
+C13147;Da Vinci;65;Male
+C17507;Magritte;86;Male
+C14577;Paul Klee;74;Male
+C14340;Klimt;2;Male
+C18263;Titian;60;Male
+C17525;Michelangelo;19;Male
+C16801;Vettriano;97;Male
+C17925;Winslow Homer;72;Male
+C16746;Da Vinci;15;Male
+C13419;Escher;65;Male
+C14261;Rubens;90;Male
+C14627;Edward Hopper;81;Male
+C13594;Diego Rivera;86;Male
+C12401;Rothko;78;Male
+C13512;Kahlo;38;Male
+C16108;Cassatt;13;Male
+C17857;Durer;85;Male
+C14962;Gauguin;18;Male
+C17862;Raphael;83;Male
+C13136;Cassatt;7;Male
+C15462;Michelangelo;14;Male
+C15299;Degas;19;Male
+C14032;Klimt;47;Male
+C13792;Cezanne;89;Male
+C13693;Monet;27;Male
+C12935;Raphael;11;Male
+C13169;Botticelli;16;Male
+C15109;Renoir;14;Male
+C12605;Diego Rivera;89;Male
+C17675;Gauguin;30;Male
+C16757;Pollock;78;Male
+C13037;Winslow Homer;41;Male
+C16542;Kandinsky;67;Male
+C12933;Paul Klee;16;Male
+C14401;Rembrandt;9;Male
+C13000;Picasso;53;Male
+C13985;Kandinsky;11;Male
+C12421;Donatello;45;Male
+C12465;Munch;50;Male
+C14443;Rubens;46;Male
+C13813;Michelangelo;34;Male
+C16229;Vincent;21;Male
+C13301;Pissarro;69;Male
+C15703;Pollock;86;Male
+C14306;Chagall;38;Male
+C15491;Escher;43;Male
+C15574;Renoir;65;Male
+C16065;Matisse;28;Male
+C14544;Donatello;44;Male
+C15156;Chagall;41;Male
+C15327;Rubens;28;Male
+C18074;Rubens;27;Male
+C17613;Picasso;52;Male
+C13952;Munch;67;Male
+C13938;Michelangelo;61;Male
+C15422;Winslow Homer;39;Male
+C17446;Cassatt;43;Male
+C13842;Matisse;48;Male
+C12425;Picasso;44;Male
+C12463;Renoir;77;Male
+C13213;Klimt;32;Male
+C12843;Da Vinci;71;Male
+C12601;Matisse;13;Male
+C12627;Pollock;25;Male
+C14434;Raphael;11;Male
+C15017;Seurat;95;Male
+C13260;Diego Rivera;94;Male
+C13479;Bernini;8;Male
+C13868;Kandinsky;6;Male
+C15181;Cezanne;5;Male
+C16539;Chagall;60;Male
+C16593;Da Vinci;70;Male
+C13851;Manet;45;Male
+C15576;Botticelli;31;Male
+C14049;Michelangelo;41;Male
+C14911;Klimt;25;Male
+C13583;Bernini;98;Male
+C12865;Rembrandt;62;Male
+C14629;Monet;95;Male
+C18230;Escher;28;Male
+C15532;Bernini;47;Male
+C17189;Pollock;38;Male
+C15330;Winslow Homer;92;Male
+C18155;Cassatt;72;Male
+C17536;Rubens;88;Male
+C16979;Cassatt;2;Male
+C12784;Joan Miro;10;Male
+C13026;Bernini;64;Male
+C17235;Renoir;85;Male
+C12432;Vettriano;70;Male
+C13093;Cezanne;70;Male
+C18249;Botticelli;32;Male
+C15651;Joan Miro;44;Male
+C17237;Botticelli;38;Male
+C14818;Manet;90;Male
+C16614;Rembrandt;87;Male
+C14777;Klimt;83;Male
+C16320;Gauguin;33;Male
+C17347;Monet;49;Male
+C17990;Ansel Adams;11;Male
+C13565;Picasso;54;Male
+C16430;Munch;67;Male
+C13695;Winslow Homer;15;Male
+C15734;Degas;75;Male
+C17763;Winslow Homer;80;Male
+C13486;Dali;88;Male
+C15442;Seurat;37;Male
+C13644;Dali;4;Male
+C16913;Durer;33;Male
+C17123;Pissarro;60;Male
+C15121;Kandinsky;94;Male
+C13004;Munch;32;Male
+C12379;Manet;24;Male
+C16171;Dali;49;Male
+C13675;Cassatt;0;Male
+C12562;Joan Miro;15;Male
+C15358;Raphael;14;Male
+C17783;Gauguin;17;Male
+C17787;Rothko;62;Male
+C14593;Ansel Adams;0;Male
+C16322;Seurat;48;Male
+C14461;Joan Miro;46;Male
+C18067;Winslow Homer;64;Male
+C17428;Pissarro;29;Male
+C16292;Edward Hopper;57;Male
+C13363;Seurat;95;Male
+C12739;Klimt;82;Male
+C13239;Escher;64;Male
+C17505;Chagall;17;Male
+C17217;Michelangelo;27;Male
+C16803;Kandinsky;49;Male
+C13246;Diego Rivera;57;Male
+C16872;Pissarro;94;Male
+C17110;Winslow Homer;2;Male
+C13431;Donatello;71;Male
+C14597;Durer;29;Male
+C12399;Donatello;43;Male
+C16955;Degas;53;Male
+C14739;Cassatt;70;Male
+C17961;Renoir;65;Male
+C14896;Caravaggio;8;Male
+C17972;Donatello;16;Male
+C14157;Ansel Adams;5;Male
+C17730;Cassatt;20;Male
+C12902;Degas;4;Male
+C18106;Michelangelo;18;Male
+C15143;Magritte;47;Male
+C13077;Manet;11;Male
+C16670;Matisse;27;Male
+C13233;El Greco;71;Male
+C17631;Manet;70;Male
+C16094;Winslow Homer;31;Male
+C12371;Cassatt;13;Male
+C14548;Vincent;94;Male
+C16133;Monet;59;Male
+C17396;Vincent;18;Male
+C16560;Kandinsky;40;Male
+C15732;Dali;67;Male
+C12748;Gauguin;72;Male
+C16445;Cassatt;3;Male
+C12968;Munch;91;Male
+C17750;Vincent;34;Male
+C13372;Monet;51;Male
+C15497;Escher;55;Male
+C13471;Botticelli;42;Male
+C14625;Donatello;42;Male
+C12430;Winslow Homer;29;Male
+C14737;Cezanne;48;Male
+C12348;Renoir;42;Male
+C16362;Pollock;88;Male
+C13356;Manet;79;Male
+C12836;Edward Hopper;13;Male
+C17871;Bernini;38;Male
+C16070;Manet;28;Male
+C17301;Gauguin;60;Male
+C15093;Winslow Homer;57;Male
+C13482;Dali;27;Male
+C16852;Joan Miro;1;Male
+C13882;Escher;2;Male
+C16551;Pollock;42;Male
+C13477;Raphael;43;Male
+C13558;Rubens;33;Male
+C16900;Rothko;60;Male
+C16573;Kandinsky;50;Male
+C16931;Manet;29;Male
+C15930;Vincent;72;Male
+C15624;Da Vinci;62;Male
+C17754;Donatello;48;Male
+C14100;Titian;88;Male
+C16425;Monet;30;Male
+C15745;Winslow Homer;51;Male
+C17693;El Greco;40;Male
+C17738;Seurat;10;Male
+C17846;Manet;80;Male
+C15550;Klimt;54;Male
+C17884;Kahlo;21;Male
+C12621;Pollock;27;Male
+C16650;Michelangelo;92;Male
+C13673;Donatello;99;Male
+C16463;Klimt;89;Male
+C15389;Chagall;65;Male
+C16717;Warhol;54;Male
+C15800;Donatello;54;Male
+C14667;Seurat;88;Male
+C16584;Matisse;75;Male
+C13194;Vincent;88;Male
+C16126;Chagall;64;Male
+C14191;Donatello;14;Male
+C16003;Joan Miro;94;Male
+C15235;Gauguin;98;Male
+C17361;Kandinsky;93;Male
+C13570;Pollock;30;Male
+C14030;Klimt;0;Male
+C16230;Durer;66;Male
+C18072;Escher;58;Male
+C17899;Munch;71;Male
+C14090;Pissarro;66;Male
+C16810;Caravaggio;82;Male
+C12571;Escher;51;Male
+C17954;Seurat;86;Male
+C13497;Michelangelo;94;Male
+C13572;Rothko;63;Male
+C16612;Donatello;49;Male
+C12623;Paul Klee;56;Male
+C18045;Cassatt;14;Male
+C17415;Escher;79;Male
+C18173;Escher;67;Male
+C16348;Rubens;91;Male
+C13196;Vincent;89;Male
+C13343;Manet;20;Male
+C13686;Edward Hopper;47;Male
+C16850;Paul Klee;71;Male
+C15110;Joan Miro;72;Male
+C15725;Da Vinci;28;Male
+C15590;Botticelli;9;Male
+C13800;Vettriano;73;Male
+C15345;Kahlo;0;Male
+C17774;Seurat;53;Male
+C14795;Vettriano;39;Male
+C17053;Munch;51;Male
+C15129;Degas;19;Male
+C14470;Pollock;73;Male
+C17091;Joan Miro;28;Male
+C16861;Magritte;72;Male
+C16667;Ansel Adams;52;Male
+C15417;Renoir;15;Male
+C17860;Vettriano;87;Male
+C17624;Pollock;85;Male
+C17475;Warhol;73;Male
+C12980;Manet;21;Male
+C16014;Cassatt;91;Male
+C17084;Picasso;86;Male
+C16131;Winslow Homer;5;Male
+C15790;Cassatt;11;Male
+C14218;Kahlo;65;Male
+C17770;Dali;86;Male
+C12353;Bernini;71;Male
+C17697;Raphael;78;Male
+C15428;Diego Rivera;78;Male
+C14023;Caravaggio;80;Male
+C14256;Vettriano;23;Male
+C15473;Donatello;29;Male
+C17891;Bernini;20;Male
+C15255;Rothko;10;Male
+C13006;Durer;2;Male
+C17893;Escher;56;Male
+C14537;Vincent;40;Male
+C16654;Bernini;73;Male
+C15608;Ansel Adams;96;Male
+C12436;Bernini;86;Male
+C17088;Monet;35;Male
+C14638;Pollock;57;Male
+C17042;Vincent;70;Male
+C13859;Manet;94;Male
+C17974;Vincent;2;Male
+C14427;Rubens;40;Male
+C16980;Vettriano;87;Male
+C14676;Diego Rivera;72;Male
+C13420;Rembrandt;51;Male
+C15437;Seurat;21;Male
+C12599;Dali;62;Male
+C13350;Picasso;82;Male
+C14856;Kandinsky;9;Male
+C13282;Vincent;82;Male
+C15165;Picasso;5;Male
+C17790;Rothko;1;Male
+C13183;Caravaggio;52;Male
+C16825;Rembrandt;22;Male
+C14236;Durer;89;Male
+C18142;El Greco;8;Male
+C18265;Renoir;47;Male
+C16005;Munch;98;Male
+C14245;Kandinsky;17;Male
+C13138;Titian;4;Male
+C14270;Winslow Homer;10;Male
+C16553;Klimt;71;Male
+C18117;Ansel Adams;73;Male
+C14050;Michelangelo;12;Male
+C14016;Cezanne;29;Male
+C17176;Pissarro;13;Male
+C17701;Klimt;32;Male
+C15585;Magritte;36;Male
+C18261;Magritte;31;Male
+C15619;Kandinsky;82;Male
+C13833;Da Vinci;89;Male
+C15639;Paul Klee;61;Male
+C15918;Ansel Adams;44;Male
+C14009;Warhol;34;Male
+C17936;Dali;8;Male
+C13314;Seurat;28;Male
+C15475;Cassatt;42;Male
+C18146;Winslow Homer;13;Male
+C14500;Kandinsky;77;Male
+C17194;Matisse;39;Male
+C16168;Klimt;38;Male
+C17716;Seurat;23;Male
+C17387;Da Vinci;99;Male
+C15802;Seurat;10;Male
+C16610;Degas;48;Male
+C13716;Cassatt;96;Male
+C14465;Ansel Adams;20;Male
+C13606;Escher;63;Male
+C12616;Cezanne;65;Male
+C16061;Kahlo;15;Male
+C17266;Renoir;59;Male
+C12474;Diego Rivera;32;Male
+C17330;Edward Hopper;22;Male
+C16751;Degas;61;Male
+C17358;Winslow Homer;27;Male
+C14823;Renoir;10;Male
+C12931;Da Vinci;70;Male
+C12591;Kandinsky;46;Male
+C15727;Escher;27;Male
+C17239;Cassatt;19;Male
+C15369;Caravaggio;27;Male
+C13602;Vincent;60;Male
+C15774;Rothko;71;Male
+C12674;Gauguin;2;Male
+C14573;Bernini;33;Male
+C17154;Cassatt;69;Male
+C15895;Rembrandt;79;Male
+C16186;Vincent;23;Male
+C18241;Diego Rivera;92;Male
+C12937;Magritte;4;Male
+C16739;Pissarro;2;Male
+C16906;Kandinsky;58;Male
+C13402;Monet;10;Male
+C15116;Vincent;37;Male
+C16997;Da Vinci;99;Male
+C16142;Ansel Adams;13;Male
+C16319;Gauguin;54;Male
+C17073;Klimt;37;Male
+C16441;Degas;31;Male
+C15194;Vincent;81;Male
+C16333;Vettriano;64;Male
+C16748;Kandinsky;39;Male
+C17923;Kahlo;26;Male
+C13808;Bernini;14;Male
+C13914;Da Vinci;74;Male
+C15932;Chagall;60;Male
+C16340;Monet;21;Male
+C15448;Monet;36;Male
+C13341;Vettriano;19;Male
+C13893;Klimt;23;Male
+C15275;Monet;17;Male
+C14038;Cassatt;78;Male
+C14298;Raphael;79;Male
+C14904;Gauguin;43;Male
+C13503;Ansel Adams;76;Male
+C16117;Manet;74;Male
+C17448;Picasso;54;Male
+C15877;Vincent;18;Male
+C15000;Durer;77;Male
+C13505;Da Vinci;34;Male
+C16434;Da Vinci;46;Male
+C15996;Chagall;10;Male
+C13798;Pollock;53;Male
+C16249;Manet;77;Male
+C12762;El Greco;4;Male
+C14973;Kahlo;35;Male
+C17307;Escher;15;Male
+C14360;Titian;11;Male
+C14719;Gauguin;31;Male
+C16474;Caravaggio;36;Male
+C16386;Paul Klee;64;Male
+C15433;El Greco;16;Male
+C13581;Ansel Adams;2;Male
+C15541;Caravaggio;28;Male
+C17059;Cezanne;82;Male
+C17455;Monet;73;Male
+C15426;Bernini;0;Male
+C18283;Warhol;0;Male
+C14595;Vincent;87;Male
+C16113;Diego Rivera;92;Male
+C13637;Dali;93;Male
+C17255;Donatello;30;Male
+C17466;Raphael;67;Male
+C15307;Kandinsky;13;Male
+C13725;Winslow Homer;59;Male
+C17071;Diego Rivera;33;Male
+C13736;Raphael;23;Male
+C13592;Dali;55;Male
+C17600;Rubens;99;Male
+C13376;Kahlo;69;Male
+C15219;Pissarro;13;Male
+C15831;Paul Klee;97;Male
+C17383;Chagall;3;Male
+C14142;Manet;28;Male
+C18287;Kandinsky;41;Male
+C13345;Magritte;62;Male
+C15602;Donatello;93;Male
+C12854;Munch;90;Male
+C12717;Degas;77;Male
+C17732;Monet;35;Male
+C14467;Pollock;54;Male
+C12852;Manet;29;Male
+C16216;El Greco;17;Male
+C13495;Warhol;3;Male
+C16698;Da Vinci;5;Male
+C15147;Escher;80;Male
+C15752;Joan Miro;34;Male
+C14948;Kahlo;26;Male
+C16236;Michelangelo;90;Male
+C15992;Degas;14;Male
+C16104;Renoir;1;Male
+C12870;Cassatt;40;Male
+C14395;Munch;0;Male
+C16674;Pollock;93;Male
+C14690;Durer;77;Male
+C12849;El Greco;33;Male
+C14805;Cassatt;56;Male
+C13411;Escher;40;Male
+C15983;Renoir;58;Male
+C13055;Raphael;58;Male
+C17314;Renoir;31;Male
+C17648;Diego Rivera;6;Male
+C15756;Da Vinci;71;Male
+C16395;Monet;15;Male
+C16690;Chagall;23;Male
+C13617;Diego Rivera;4;Male
+C14078;Diego Rivera;60;Male
+C15796;Ansel Adams;84;Male
+C16447;Bernini;53;Male
+C17219;Rothko;15;Male
+C14964;Winslow Homer;25;Male
+C14672;Picasso;6;Male
+C14179;Edward Hopper;15;Male
+C16607;Titian;21;Male
+C18108;Chagall;8;Male
+C15440;Cassatt;58;Male
+C13338;Gauguin;14;Male
+C13611;Rubens;5;Male
+C14535;Michelangelo;18;Male
+C14184;Monet;0;Male
+C12779;Botticelli;30;Male
+C16027;Escher;89;Male
+C17550;Escher;87;Male
+C12388;Edward Hopper;75;Male
+C13455;Picasso;64;Male
+C15785;Escher;30;Male
+C17253;Kahlo;21;Male
+C13127;Raphael;30;Male
+C14551;Seurat;64;Male
+C12708;Gauguin;11;Male
+C15099;Botticelli;63;Male
+C12890;Paul Klee;95;Male
+C14908;Matisse;52;Male
+C16175;Kandinsky;97;Male
+C18133;Botticelli;96;Male
+C17293;Vettriano;24;Male
+C13596;Da Vinci;26;Male
+C16713;Klimt;41;Male
+C17723;Da Vinci;60;Male
+C12733;Matisse;26;Male
+C13875;Kahlo;0;Male
+C17453;El Greco;7;Male
+C13068;Caravaggio;46;Male
+C17147;Bernini;99;Male
+C15611;Escher;38;Male
+C13316;Botticelli;42;Male
+C14449;Titian;19;Male
+C15781;Kandinsky;88;Male
+C15208;Rothko;12;Male
+C14393;Munch;17;Male
+C14005;Paul Klee;70;Male
+C17659;Kahlo;52;Male
+C17747;Dali;72;Male
+C13709;Paul Klee;45;Male
+C13305;Donatello;49;Male
+C14540;Rembrandt;80;Male
+C17644;Manet;40;Male
+C15224;El Greco;29;Male
+C18092;Bernini;9;Male
+C16830;Cassatt;59;Male
+C12502;Seurat;61;Male
+C17374;Vincent;19;Male
+C17367;Pissarro;63;Male
+C15215;Matisse;31;Male
+C17510;Kandinsky;35;Male
+C18245;Caravaggio;1;Male
+C17080;Bernini;16;Male
+C16940;El Greco;74;Male
+C14542;Matisse;48;Male
+C17772;Joan Miro;8;Male
+C18151;Kandinsky;91;Male
+C18276;Munch;50;Male
+C13552;Joan Miro;17;Male
+C16102;Durer;49;Male
+C16429;Bernini;32;Male
+C14692;Bernini;63;Male
+C18139;El Greco;20;Male
+C15567;Titian;14;Male
+C12357;Winslow Homer;19;Male
+C12607;Monet;63;Male
+C14740;Pissarro;16;Male
+C16092;Matisse;60;Male
+C13860;Michelangelo;11;Male
+C14388;Renoir;90;Male
+C16377;Bernini;6;Male
+C16052;Botticelli;11;Male
+C13262;Joan Miro;7;Male
+C15002;Seurat;89;Male
+C13888;Cassatt;73;Male
+C17284;Magritte;64;Male
+C13259;El Greco;9;Male
+C12603;Da Vinci;65;Male
+C13967;Ansel Adams;74;Male
+C15855;Raphael;47;Male
+C13923;Gauguin;78;Male
+C16582;Renoir;20;Male
+C13626;Joan Miro;15;Male
+C14403;Pollock;99;Male
+C13815;Klimt;5;Male
+C17611;Chagall;70;Male
+C12962;Magritte;61;Male
+C14342;Rubens;55;Male
+C17068;Magritte;15;Male
+C15549;Winslow Homer;63;Male
+C14849;Kahlo;96;Male
+C17855;Vettriano;27;Male
+C18179;Klimt;84;Male
+C17376;Chagall;6;Male
+C14722;Donatello;91;Male
+C15853;Rothko;97;Male
+C17282;Renoir;8;Male
+C13994;Diego Rivera;22;Male
+C15468;Ansel Adams;90;Male
+C15712;Gauguin;64;Male
+C13291;Gauguin;53;Male
+C17457;Manet;97;Male
+C12393;Rothko;85;Male
+C13466;Magritte;25;Male
+C16711;Titian;21;Male
+C13116;Seurat;1;Male
+C13110;Gauguin;38;Male
+C16298;Da Vinci;5;Male
+C16984;Rubens;36;Male
+C15381;Rothko;47;Male
+C16261;Pissarro;71;Male
+C14560;Durer;79;Male
+C14670;El Greco;40;Male
+C15341;Caravaggio;67;Male
+C17442;Degas;38;Male
+C13932;Donatello;75;Male
+C12531;Vettriano;30;Male
+C13523;Magritte;34;Male
+C12441;Kandinsky;42;Male
+C15530;Botticelli;29;Male
+C16531;Donatello;21;Male
+C13015;Da Vinci;65;Male
+C15042;Michelangelo;15;Male
+C12867;Pissarro;31;Male
+C18209;Rembrandt;81;Male
+C14171;Da Vinci;83;Male
+C13712;Degas;61;Male
+C13563;Edward Hopper;81;Male
+C13165;Rubens;62;Male
+C13428;Klimt;25;Male
+C14290;Gauguin;81;Male
+C14135;Vettriano;79;Male
+C15552;Pissarro;11;Male
+C14951;Raphael;57;Male
+C18016;Michelangelo;22;Male
+C13718;Renoir;94;Male
+C13013;Picasso;38;Male
+C16643;Rothko;16;Male
+C16656;Pollock;76;Male
+C13587;Escher;73;Male
+C15460;Michelangelo;86;Male
+C15453;Diego Rivera;30;Male
+C13174;Paul Klee;0;Male
+C12757;Durer;15;Male
+C12832;Durer;1;Male
+C15729;Paul Klee;25;Male
+C12597;Winslow Homer;56;Male
+C16766;Munch;73;Male
+C15277;Raphael;48;Male
+C15060;Degas;22;Male
+C18236;Rothko;45;Male
+C14126;Manet;30;Male
+C16814;Magritte;49;Male
+C15189;Degas;75;Male
+C13745;Pollock;36;Male
+C15787;Monet;63;Male
+C13266;El Greco;43;Male
+C15990;Seurat;46;Male
+C15370;Escher;84;Male
+C14339;Gauguin;40;Male
+C13349;Rembrandt;73;Male
+C16528;Matisse;40;Male
+C12643;El Greco;34;Male
+C13370;Seurat;22;Male
+C12995;Manet;49;Male
+C17303;Kandinsky;27;Male
+C14441;Klimt;95;Male
+C13435;Joan Miro;67;Male
+C17859;Chagall;56;Male
+C15615;Titian;81;Male
+C14708;Picasso;19;Male
+C13655;Durer;64;Male
+C15406;El Greco;0;Male
+C13468;Rembrandt;25;Male
+C16685;Michelangelo;69;Male
+C13149;Matisse;20;Male
+C13897;Klimt;29;Male
+C17172;Magritte;12;Male
+C14311;Chagall;11;Male
+C13453;Pissarro;68;Male
+C15103;Winslow Homer;17;Male
+C16416;Matisse;70;Male
+C14913;Edward Hopper;40;Male
+C17288;Botticelli;26;Male
+C17590;Cezanne;71;Male
+C16461;Klimt;83;Male
+C17848;El Greco;39;Male
+C16586;Rubens;51;Male
+C17462;Degas;27;Male
+C16326;Picasso;44;Male
+C15998;Bernini;42;Male
+C16072;Rubens;98;Male
+C13217;Donatello;53;Male
+C12988;Paul Klee;39;Male
+C13510;Vincent;13;Male
+C14496;Renoir;85;Male
+C17905;Donatello;36;Male
+C14850;Paul Klee;75;Male
+C13347;Ansel Adams;90;Male
+C16368;Joan Miro;66;Male
+C16281;Klimt;5;Male
+C12999;Titian;86;Male
+C14687;Joan Miro;55;Male
+C15192;Paul Klee;26;Male
+C17734;Warhol;89;Male
+C15806;El Greco;29;Male
+C13107;El Greco;99;Male
+C13802;Warhol;44;Male
+C17602;Raphael;84;Male
+C14450;Renoir;18;Male
+C17295;Picasso;41;Male
+C16818;Paul Klee;14;Male
+C16971;Magritte;32;Male
+C15367;Picasso;84;Male
+C13516;Titian;46;Male
+C13837;Caravaggio;18;Male
+C17666;El Greco;3;Male
+C14816;Rembrandt;96;Male
+C17877;Klimt;74;Male
+C17824;Gauguin;21;Male
+C17965;Edward Hopper;45;Male
+C15604;Kahlo;93;Male
+C12391;Rothko;11;Male
+C16700;Vincent;21;Male
+C13761;Pissarro;90;Male
+C15059;Cassatt;14;Male
+C14902;Matisse;53;Male
+C16625;El Greco;32;Male
+C16768;Raphael;63;Male
+C17426;Rubens;48;Male
+C17813;Kahlo;42;Male
+C17394;Kahlo;34;Male
+C15789;Michelangelo;19;Male
+C12580;Winslow Homer;38;Male
+C15279;Titian;31;Male
+C18126;Edward Hopper;90;Male
+C17345;Degas;46;Male
+C17503;Degas;85;Male
+C17820;Michelangelo;21;Male
+C17527;Manet;38;Male
+C12713;Matisse;62;Male
+C13774;Paul Klee;41;Male
+C14636;El Greco;22;Male
+C17707;Seurat;25;Male
+C16496;Gauguin;10;Male
+C15721;Degas;23;Male
+C18274;Winslow Homer;23;Male
+C12726;Caravaggio;49;Male
+C13097;Vettriano;93;Male
+C16557;Cezanne;10;Male
+C12504;Vincent;94;Male
+C16423;Pissarro;83;Male
+C16485;Matisse;79;Male
+C13642;Manet;92;Male
+C15529;Gauguin;45;Male
+C12704;Joan Miro;83;Male
+C18278;Rubens;55;Male
+C13060;Bernini;57;Male
+C16054;Raphael;39;Male
+C16836;Escher;10;Male
+C17277;Pissarro;38;Male
+C13491;Bernini;66;Male
+C15969;Dali;55;Male
+C12564;Donatello;47;Male
+C12823;Picasso;64;Male
+C17976;Dali;33;Male
+C14931;Da Vinci;4;Male
+C15312;Degas;42;Male
+C12458;Ansel Adams;42;Male
+C16878;Botticelli;26;Male
+C13684;Vettriano;66;Male
+C12553;Raphael;39;Male
+C13255;Monet;54;Male
+C15260;Magritte;95;Male
+C14232;Magritte;16;Male
+C13473;Pissarro;61;Male
+C15730;El Greco;2;Male
+C13769;Donatello;1;Male
+C15749;Edward Hopper;27;Male
+C16995;Winslow Homer;24;Male
+C12614;Renoir;4;Male
+C16252;Rembrandt;5;Male
+C14890;Escher;82;Male
+C12472;Kandinsky;75;Male
+C13028;Caravaggio;8;Male
+C12782;Kandinsky;5;Male
+C16777;Matisse;97;Male
+C16393;Picasso;31;Male
+C12405;Monet;70;Male
+C12573;Picasso;60;Male
+C17880;Degas;87;Male
+C13318;Edward Hopper;8;Male
+C13439;Renoir;50;Male
+C17596;Picasso;95;Male
+C13514;Manet;90;Male
+C17343;Titian;89;Male
+C13509;Diego Rivera;97;Male
+C14292;Raphael;95;Male
+C14506;Bernini;65;Male
+C17655;Rubens;40;Male
+C17046;Durer;93;Male
+C13536;Picasso;11;Male
+C13947;Bernini;80;Male
+C15163;El Greco;97;Male
+C13806;Matisse;14;Male
+C14438;Magritte;54;Male
+C13280;Durer;53;Male
+C12876;Caravaggio;60;Male
+C14768;Seurat;53;Male
+C17530;Paul Klee;62;Male
+C16344;Ansel Adams;7;Male
+C16448;Durer;28;Male
+C14154;Seurat;31;Male
+C17384;Raphael;46;Male
+C16372;Kandinsky;0;Male
+C14523;Warhol;89;Male
+C16482;Kahlo;70;Male
+C16383;Titian;73;Male
+C14824;Renoir;12;Male
+C12815;Edward Hopper;98;Male
+C14354;Ansel Adams;51;Male
+C13807;Rembrandt;85;Male
+C15722;Pollock;32;Male
+C13339;Michelangelo;14;Male
+C16327;Vincent;48;Male
+C15351;Ansel Adams;19;Male
+C17829;Joan Miro;94;Male
+C17115;Magritte;18;Male
+C16125;Caravaggio;69;Male
+C15290;Pissarro;76;Male
+C14215;Rothko;91;Male
+C17197;Manet;10;Male
+C17913;Degas;59;Male
+C18121;Winslow Homer;76;Male
+C14055;Bernini;0;Male
+C17966;Raphael;32;Male
+C16873;Rubens;93;Male
+C13614;Ansel Adams;27;Male
+C14981;Michelangelo;87;Male
+C12600;Pissarro;41;Male
+C14035;Raphael;20;Male
+C15009;Pollock;51;Male
+C12433;Kandinsky;56;Male
+C17164;Vettriano;17;Male
+C12657;Manet;97;Male
+C15333;Monet;41;Male
+C15874;Ansel Adams;73;Male
+C12754;Ansel Adams;28;Male
+C15898;Rothko;2;Male
+C17504;Da Vinci;43;Male
+C13678;Escher;91;Male
+C16639;Pissarro;44;Male
+C17227;Raphael;62;Male
+C12732;Bernini;78;Male
+C16347;Winslow Homer;6;Male
+C17812;Joan Miro;70;Male
+C14804;Titian;69;Male
+C14231;Picasso;42;Male
+C16400;Rembrandt;16;Male
+C14701;Winslow Homer;60;Male
+C14893;Dali;76;Male
+C13870;Kandinsky;74;Male
+C16996;Rembrandt;21;Male
+C14174;El Greco;56;Male
+C13034;Michelangelo;54;Male
+C16897;Michelangelo;11;Male
+C17977;Degas;4;Male
+C17298;Kahlo;43;Male
+C17739;Warhol;97;Male
+C15717;Rembrandt;80;Male
+C14873;Munch;46;Male
+C17409;Da Vinci;46;Male
+C13166;Kahlo;36;Male
+C15861;Matisse;24;Male
+C15621;Gauguin;16;Male
+C14965;Titian;71;Male
+C15511;Pollock;69;Male
+C13951;Munch;81;Male
+C16479;Rothko;0;Male
+C16053;Manet;28;Male
+C13681;Magritte;3;Male
+C18211;Seurat;32;Male
+C12789;Winslow Homer;79;Male
+C17942;Winslow Homer;32;Male
+C14013;Bernini;9;Male
+C14334;Klimt;91;Male
+C14163;Rothko;26;Male
+C12534;Cassatt;63;Male
+C18011;Dali;23;Male
+C15737;Raphael;10;Male
+C18073;Gauguin;99;Male
+C15320;Renoir;67;Male
+C13449;Edward Hopper;79;Male
+C13814;Warhol;83;Male
+C17403;El Greco;36;Male
+C17896;Renoir;94;Male
+C13492;Rothko;4;Male
+C15388;Vettriano;94;Male
+C17571;Caravaggio;96;Male
+C13298;Bernini;71;Male
+C17229;El Greco;15;Male
+C16367;Raphael;32;Male
+C13104;Paul Klee;38;Male
+C12594;Picasso;13;Male
+C14525;El Greco;90;Male
+C13207;Manet;80;Male
+C13359;Seurat;70;Male
+C15993;Picasso;47;Male
+C12901;Da Vinci;23;Male
+C13740;Paul Klee;29;Male
+C15070;Magritte;45;Male
+C12381;Renoir;18;Male
+C12420;Da Vinci;13;Male
+C13267;Da Vinci;76;Male
+C17830;Escher;17;Male
+C15049;Ansel Adams;94;Male
+C13711;Escher;50;Male
+C18015;Kandinsky;44;Male
+C16419;Manet;0;Male
+C14855;Caravaggio;43;Male
+C16554;Gauguin;49;Male
+C14396;Michelangelo;29;Male
+C14367;Joan Miro;99;Male
+C12721;Magritte;56;Male
+C13784;Paul Klee;75;Male
+C14121;Pollock;39;Male
+C12615;Durer;83;Male
+C14323;Kahlo;98;Male
+C14484;Cezanne;5;Male
+C12769;El Greco;93;Male
+C16965;Seurat;56;Male
+C17500;Manet;38;Male
+C15520;Caravaggio;9;Male
+C14950;Chagall;41;Male
+C18055;Da Vinci;9;Male
+C15609;Winslow Homer;10;Male
+C16352;Klimt;55;Male
+C16020;Rubens;99;Male
+C18215;Gauguin;87;Male
+C12989;Raphael;15;Male
+C16839;Diego Rivera;58;Male
+C12985;Manet;59;Male
+C15452;Ansel Adams;74;Male
+C16837;Chagall;3;Male
+C15108;Picasso;20;Male
+C14046;Pollock;98;Male
+C16099;Paul Klee;70;Male
+C15708;Caravaggio;70;Male
+C16556;Donatello;71;Male
+C15951;Raphael;25;Male
+C14503;Raphael;39;Male
+C16987;Rothko;11;Male
+C12611;Escher;23;Male
+C16268;Durer;60;Male
+C13735;Titian;41;Male
+C14769;Paul Klee;97;Male
+C12426;Degas;86;Male
+C18095;Pollock;10;Male
+C16884;Rembrandt;0;Male
+C12781;Seurat;24;Male
+C15016;Durer;14;Male
+C15353;Kandinsky;85;Male
+C12453;Kahlo;0;Male
+C14446;Bernini;54;Male
+C17092;Winslow Homer;89;Male
+C15386;Botticelli;49;Male
+C16239;Titian;71;Male
+C18084;Winslow Homer;16;Male
+C13058;Manet;10;Male
+C12398;Rembrandt;86;Male
+C17001;Botticelli;64;Male
+C15830;Dali;94;Male
+C15014;Vincent;76;Male
+C13782;Raphael;90;Male
+C14529;Pissarro;13;Male
+C12811;Vincent;14;Male
+C14176;Rothko;41;Male
+C17795;Caravaggio;59;Male
+C14271;Manet;65;Male
+C12778;Munch;57;Male
+C15894;El Greco;62;Male
+C14105;Seurat;50;Male
+C13276;Kandinsky;40;Male
+C15797;Picasso;74;Male
+C16990;Cezanne;14;Male
+C12718;Manet;93;Male
+C14057;Vincent;11;Male
+C12817;Michelangelo;72;Male
+C14842;Renoir;53;Male
+C16024;Dali;64;Male
+C17100;Michelangelo;48;Male
+C17306;Monet;58;Male
+C13243;Seurat;46;Male
+C14428;Magritte;77;Male
+C18231;Ansel Adams;8;Male
+C16404;Botticelli;43;Male
+C17397;Paul Klee;8;Male
+C16266;Vettriano;3;Male
+C14019;Botticelli;53;Male
+C17496;Paul Klee;72;Male
+C17654;Pissarro;7;Male
+C12590;Michelangelo;48;Male
+C14208;Degas;67;Male
+C16930;Munch;12;Male
+C15654;Munch;11;Male
+C12589;Renoir;34;Male
+C13447;Monet;78;Male
+C13265;Warhol;66;Male
+C16413;Donatello;96;Male
+C17144;Chagall;38;Male
+C12424;Warhol;73;Male
+C14424;Klimt;42;Male
+C17230;Magritte;5;Male
+C17656;Donatello;15;Male
+C14622;Escher;23;Male
+C17447;Caravaggio;94;Male
+C17382;Renoir;73;Male
+C15948;Rembrandt;24;Male
+C12413;Diego Rivera;99;Male
+C15263;Chagall;9;Male
+C14543;Edward Hopper;43;Male
+C15416;Cassatt;13;Male
+C17502;Degas;78;Male
+C15856;Botticelli;70;Male
+C16354;Titian;82;Male
+C12480;Raphael;78;Male
+C15308;Picasso;48;Male
+C16493;Durer;35;Male
+C17049;Kandinsky;75;Male
+C15803;El Greco;78;Male
+C14389;Monet;23;Male
+C18130;Vettriano;54;Male
+C18101;Renoir;87;Male
+C13045;Kandinsky;62;Male
+C13638;Winslow Homer;62;Male
+C15041;Gauguin;1;Male
+C18185;Ansel Adams;29;Male
+C16679;Durer;19;Male
+C13021;Manet;42;Male
+C15216;Pollock;22;Male
+C16055;Rothko;15;Male
+C12697;Gauguin;40;Male
+C12758;Kandinsky;4;Male
+C12372;Michelangelo;77;Male
+C14554;Pollock;17;Male
+C17614;Pollock;97;Male
+C14413;Caravaggio;55;Male
+C17119;Durer;9;Male
+C13629;Pissarro;96;Male
+C18240;Cezanne;32;Male
+C12987;Kandinsky;32;Male
+C15427;Pollock;98;Male
+C17935;Dali;90;Male
+C17854;Rubens;41;Male
+C17117;Diego Rivera;40;Male
+C15393;Caravaggio;50;Male
+C12826;Kandinsky;45;Male
+C12446;Picasso;4;Male
+C12895;Degas;29;Male
+C18202;Rubens;64;Male
+C13618;Picasso;80;Male
+C15836;Paul Klee;40;Male
+C17634;Raphael;1;Male
+C14259;Michelangelo;46;Male
+C12734;Manet;17;Male
+C16211;Bernini;60;Male
+C13113;Gauguin;4;Male
+C15674;Caravaggio;10;Male
+C17706;Ansel Adams;28;Male
+C17131;Cassatt;89;Male
+C17885;Titian;61;Male
+C13304;Degas;31;Male
+C16712;Caravaggio;81;Male
+C14549;Raphael;40;Male
+C16048;Magritte;22;Male
+C17861;Rembrandt;6;Male
+C17975;Seurat;6;Male
+C16358;Rembrandt;22;Male
+C16378;Seurat;73;Male
+C13005;Bernini;92;Male
+C17469;Kandinsky;60;Male
+C17670;Monet;14;Male
+C12666;Renoir;98;Male
+C16392;Kahlo;65;Male
+C13470;Rothko;97;Male
+C16323;Escher;24;Male
+C13692;Pollock;23;Male
+C16066;Chagall;7;Male
+C14790;Kahlo;11;Male
+C17597;Cezanne;90;Male
+C16817;Ansel Adams;94;Male
+C18086;Rothko;29;Male
+C14206;Vincent;40;Male
+C15643;Paul Klee;60;Male
+C15867;Raphael;50;Male
+C15450;Kahlo;59;Male
+C16705;Gauguin;86;Male
+C17278;Kahlo;85;Male
+C13027;Munch;78;Male
+C17085;El Greco;90;Male
+C15551;Munch;73;Male
+C16208;Botticelli;21;Male
+C15973;Winslow Homer;95;Male
+C16589;Diego Rivera;61;Male
+C17267;Escher;87;Male
+C17911;Kandinsky;67;Male
+C13340;Cassatt;1;Male
+C14352;Michelangelo;34;Male
+C14891;Ansel Adams;48;Male
+C15319;Klimt;19;Male
+C14666;Pissarro;57;Male
+C17843;Rembrandt;75;Male
+C15748;Winslow Homer;41;Male
+C15061;Dali;6;Male
+C17636;Michelangelo;30;Male
+C13296;Warhol;62;Male
+C13726;Vettriano;23;Male
+C15513;Pollock;42;Male
+C14691;Cassatt;62;Male
+C14576;Caravaggio;64;Male
+C17348;Degas;69;Male
+C17405;Kahlo;96;Male
+C18033;Renoir;7;Male
+C16169;Bernini;91;Male
+C13982;Monet;67;Male
+C13294;Diego Rivera;81;Male
+C15517;Winslow Homer;59;Male
+C14972;Pollock;34;Male
+C14141;Paul Klee;29;Male
+C12620;Michelangelo;62;Male
+C17412;Vincent;14;Male
+C15706;Kahlo;61;Male
+C13148;Pissarro;0;Male
+C14619;Cassatt;73;Male
+C13157;Kandinsky;99;Male
+C17203;Manet;99;Male
+C12695;Degas;51;Male
+C14314;Escher;52;Male
+C15069;Kandinsky;87;Male
+C13085;Degas;28;Male
+C13812;Picasso;15;Male
+C16338;Rubens;20;Male
+C15739;Renoir;2;Male
+C17416;Klimt;62;Male
+C13919;Gauguin;5;Male
+C17045;Ansel Adams;82;Male
+C14578;Dali;94;Male
+C12688;Pissarro;3;Male
+C13384;Cassatt;42;Male
+C15454;Kandinsky;7;Male
+C17764;Bernini;86;Male
+C13845;Raphael;84;Male
+C14002;Renoir;18;Male
+C15665;Vincent;52;Male
+C12530;Vincent;4;Male
+C14088;Kahlo;56;Male
+C14800;Matisse;37;Male
+C12642;Magritte;57;Male
+C17733;Durer;0;Male
+C13971;Raphael;31;Male
+C13092;Edward Hopper;78;Male
+C14462;Dali;74;Male
+C15032;Ansel Adams;21;Male
+C13146;Durer;56;Male
+C13366;Gauguin;73;Male
+C12909;Paul Klee;98;Male
+C13311;Durer;46;Male
+C14044;Chagall;59;Male
+C14156;Bernini;45;Male
+C14598;Renoir;84;Male
+C16956;Diego Rivera;98;Male
+C17243;Cassatt;36;Male
+C12828;Gauguin;67;Male
+C15153;Seurat;90;Male
+C16921;Degas;65;Male
+C15728;Rubens;64;Male
+C15740;Ansel Adams;18;Male
+C13939;Rubens;25;Male
+C16846;Bernini;72;Male
+C14880;Michelangelo;90;Male
+C13591;Kandinsky;8;Male
+C14633;Winslow Homer;99;Male
+C12521;Kahlo;71;Male
+C15904;Renoir;14;Male
+C17793;Michelangelo;27;Male
+C17513;Vettriano;51;Male
+C13122;Klimt;17;Male
+C18006;Winslow Homer;34;Male
+C13731;Bernini;37;Male
+C17874;Diego Rivera;71;Male
+C14198;Edward Hopper;80;Male
+C14048;Vettriano;74;Male
+C15625;Botticelli;82;Male
+C14644;Manet;57;Male
+C15397;Ansel Adams;76;Male
+C15900;Pissarro;30;Male
+C16583;Donatello;68;Male
+C12484;Bernini;92;Male
+C18217;Kahlo;15;Male
+C16723;Edward Hopper;47;Male
+C15241;Durer;3;Male
+C14150;Rubens;35;Male
+C15063;Rembrandt;44;Male
+C17841;Winslow Homer;71;Male
+C17986;Warhol;80;Male
+C15210;Renoir;19;Male
+C13441;Klimt;49;Male
+C15810;Pollock;19;Male
+C17858;Pollock;0;Male
+C17432;Escher;73;Male
+C16040;Titian;38;Male
+C16282;Joan Miro;82;Male
+C13467;Raphael;67;Male
+C14116;Pollock;30;Male
+C15179;El Greco;12;Male
+C17779;Ansel Adams;63;Male
+C13647;Matisse;3;Male
+C13867;Kandinsky;43;Male
+C14741;Joan Miro;51;Male
+C13065;Pissarro;84;Male
+C17997;Magritte;33;Male
+C14242;Vincent;35;Male
+C13728;Raphael;64;Male
+C14747;Edward Hopper;19;Male
+C16776;Caravaggio;28;Male
+C17175;Botticelli;64;Male
+C17618;Caravaggio;18;Male
+C13232;Magritte;55;Male
+C13184;Degas;45;Male
+C12653;Vincent;51;Male
+C12785;Kahlo;80;Male
+C16943;Da Vinci;36;Male
+C15078;Munch;40;Male
+C17364;Rubens;7;Male
+C13850;Michelangelo;64;Male
+C13324;El Greco;64;Male
+C14143;Seurat;41;Male
+C12712;Da Vinci;84;Male
+C16442;Seurat;84;Male
+C17630;Vincent;77;Male
+C15562;Da Vinci;26;Male
+C13803;Bernini;54;Male
+C17391;Bernini;26;Male
+C16648;Manet;31;Male
+C13173;Kandinsky;21;Male
+C13425;Durer;33;Male
+C13771;Gauguin;54;Male
+C18129;Durer;27;Male
+C15823;Rembrandt;58;Male
+C15528;Titian;24;Male
+C14512;Paul Klee;16;Male
+C14514;Escher;83;Male
+C14912;Donatello;88;Male
+C16457;Cezanne;73;Male
+C16718;Da Vinci;92;Male
+C13436;Escher;29;Male
+C16000;El Greco;85;Male
+C17694;Kahlo;91;Male
+C17179;Botticelli;91;Male
+C12851;Durer;32;Male
+C13560;Durer;55;Male
+C16127;Magritte;20;Male
+C17272;Warhol;43;Male
+C15678;Rubens;14;Male
+C17711;Cassatt;9;Male
+C15681;Monet;95;Male
+C15940;Renoir;46;Male
+C15854;Rubens;47;Male
+C16440;Da Vinci;44;Male
+C17315;Titian;78;Male
+C16824;Manet;95;Male
+C13874;Paul Klee;82;Male
+C12864;Degas;40;Male
+C14349;Rothko;81;Male
+C14248;Diego Rivera;39;Male
+C17120;Diego Rivera;86;Male
+C16093;Picasso;79;Male
+C15975;Joan Miro;6;Male
+C12545;Dali;49;Male
+C14499;Da Vinci;69;Male
+C12631;Picasso;13;Male
+C15922;Picasso;1;Male
+C15863;Manet;90;Male
+C13049;Ansel Adams;86;Male
+C14703;Gauguin;17;Male
+C14930;Rembrandt;69;Male
+C16138;Pollock;75;Male
+C14442;Matisse;26;Male
+C17331;Diego Rivera;8;Male
+C15593;Manet;57;Male
+C13072;Joan Miro;51;Male
+C17809;Renoir;79;Male
+C12790;Cassatt;76;Male
+C13856;Ansel Adams;45;Male
+C15104;Cassatt;84;Male
+C13496;Kandinsky;8;Male
+C16161;Donatello;84;Male
+C15799;Pollock;89;Male
+C12738;Winslow Homer;30;Male
+C14501;Vincent;33;Male
+C12888;Degas;91;Male
+C17980;Manet;3;Male
+C16499;Diego Rivera;1;Male
+C15025;Vincent;72;Male
+C12673;Diego Rivera;15;Male
+C13865;Seurat;34;Male
+C16967;Da Vinci;98;Male
+C13483;Gauguin;98;Male
+C17094;Edward Hopper;29;Male
+C12945;Kandinsky;34;Male
+C18176;El Greco;12;Male
+C17490;Monet;43;Male
+C17892;Chagall;95;Male
+C13548;Pissarro;39;Male
+C16149;Bernini;76;Male
+C16468;Durer;61;Male
+C13841;Degas;89;Male
+C17742;Cassatt;71;Male
+C16079;Magritte;30;Male
+C13656;Warhol;95;Male
+C15881;Ansel Adams;53;Male
+C14653;Rembrandt;11;Male
+C13931;Da Vinci;82;Male
+C15122;Escher;6;Male
+C12833;Gauguin;50;Male
+C16361;Diego Rivera;15;Male
+C18088;Renoir;56;Male
+C12763;Magritte;67;Male
+C12866;Warhol;93;Male
+C18174;Titian;58;Male
+C14646;Botticelli;57;Male
+C14628;Rothko;36;Male
+C12668;Diego Rivera;91;Male
+C13667;Da Vinci;41;Male
+C14080;Pollock;44;Male
+C16516;Magritte;49;Male
+C16637;Vincent;46;Male
+C17375;Gauguin;20;Male
+C17612;Caravaggio;53;Male
+C13379;Escher;55;Male
+C12617;Escher;23;Male
+C12370;Pissarro;89;Male
+C18282;Rubens;20;Male
+C17904;Vincent;55;Male
+C12837;Durer;93;Male
+C17472;Edward Hopper;65;Male
+C14570;Winslow Homer;78;Male
+C12910;Vincent;8;Male
+C14127;Da Vinci;61;Male
+C13955;Ansel Adams;99;Male
+C12516;Pissarro;32;Male
+C14112;Rembrandt;71;Male
+C18222;Monet;13;Male
+C14819;Klimt;53;Male
+C17133;Durer;5;Male
+C18138;Da Vinci;1;Male
+C15865;Joan Miro;83;Male
+C13980;Vincent;79;Male
+C13515;El Greco;23;Male
+C15610;Kahlo;3;Male
+C15500;Klimt;3;Male
+C18042;Pissarro;65;Male
+C17894;Kandinsky;78;Male
+C14840;Munch;6;Male
+C12639;Winslow Homer;25;Male
+C12943;Monet;22;Male
+C13162;Durer;49;Male
+C16178;Diego Rivera;43;Male
+C14125;Dali;82;Male
+C15269;Winslow Homer;3;Male
+C15258;Titian;57;Male
+C14305;Titian;9;Male
+C16073;Chagall;89;Male
+C12868;Rothko;80;Male
+C13911;Caravaggio;29;Male
+C17018;Pollock;90;Male
+C12981;Botticelli;34;Male
+C14291;Cassatt;0;Male
+C15535;Paul Klee;96;Male
+C16992;Pollock;56;Male
+C18059;Da Vinci;15;Male
+C17041;Rothko;97;Male
+C14439;Kahlo;34;Male
+C15007;Klimt;73;Male
+C18071;Seurat;11;Male
+C14875;Winslow Homer;57;Male
+C16594;Seurat;94;Male
+C15281;Bernini;90;Male
+C16769;Rubens;9;Male
+C17867;Escher;11;Male
+C17483;El Greco;20;Male
+C12406;Magritte;80;Male
+C17968;Warhol;22;Male
+C15124;Raphael;18;Male
+C12646;Vincent;4;Male
+C13344;Pollock;71;Male
+C13317;Magritte;3;Male
+C13519;Manet;88;Male
+C17245;Vettriano;51;Male
+C15630;Winslow Homer;99;Male
+C18200;Cezanne;66;Male
+C14420;Picasso;64;Male
+C12970;Rubens;67;Male
+C14651;Ansel Adams;89;Male
+C13737;Joan Miro;83;Male
+C17832;Dali;81;Male
+C18110;Bernini;66;Male
+C15472;Chagall;72;Male
+C15292;Escher;82;Male
+C15067;Durer;12;Male
+C18114;Renoir;14;Male
+C16954;Seurat;0;Male
+C17647;Joan Miro;84;Male
+C17083;Degas;61;Male
+C13364;Ansel Adams;28;Male
+C13139;Degas;68;Male
+C14815;Pissarro;56;Male
+C13645;Renoir;26;Male
+C13636;Rothko;19;Male
+C17898;Magritte;87;Male
+C14251;El Greco;53;Male
+C15801;Cassatt;84;Male
+C17506;Winslow Homer;53;Male
+C17511;Degas;42;Male
+C16792;Michelangelo;98;Male
+C15010;Winslow Homer;54;Male
+C16806;Titian;57;Male
+C12626;Rubens;1;Male
+C16642;El Greco;30;Male
+C12967;Paul Klee;89;Male
+C16084;Monet;28;Male
+C17919;Degas;88;Male
+C18154;Joan Miro;66;Male
+C15649;Magritte;95;Male
+C12705;Escher;98;Male
+C16680;Munch;54;Male
+C13575;Rubens;28;Male
+C16529;Picasso;46;Male
+C12659;Gauguin;24;Male
+C17827;Rubens;68;Male
+C16587;Pissarro;58;Male
+C16963;Paul Klee;80;Male
+C14149;Seurat;73;Male
+C12475;Winslow Homer;8;Male
+C17212;Edward Hopper;8;Male
+C13182;El Greco;51;Male
+C15214;Rothko;74;Male
+C13261;Vettriano;49;Male
+C18172;Cassatt;67;Male
+C15889;Warhol;94;Male
+C17337;Magritte;63;Male
+C18183;Renoir;11;Male
+C13043;Warhol;67;Male
+C15087;Rembrandt;47;Male
+C13607;Rothko;47;Male
+C12891;Rembrandt;56;Male
+C16918;Joan Miro;44;Male
+C12442;Picasso;49;Male
+C17520;Bernini;32;Male
+C15164;Monet;62;Male
+C16835;Klimt;30;Male
+C12518;Bernini;39;Male
+C17434;Munch;37;Male
+C14662;Monet;49;Male
+C13584;Manet;67;Male
+C18251;Dali;43;Male
+C12842;Rothko;18;Male
+C16659;Cassatt;76;Male
+C13382;Rembrandt;22;Male
+C16790;Winslow Homer;9;Male
+C15036;Kandinsky;34;Male
+C15531;Seurat;59;Male
+C16011;Michelangelo;25;Male
+C12857;Degas;44;Male
+C12468;Degas;39;Male
+C14932;Matisse;16;Male
+C12356;Monet;3;Male
+C16303;Raphael;71;Male
+C13933;Monet;43;Male
+C17078;Joan Miro;16;Male
+C15870;El Greco;5;Male
+C17672;Da Vinci;49;Male
+C17737;Chagall;22;Male
+C17290;Pollock;71;Male
+C17863;Matisse;79;Male
+C12473;Pissarro;70;Male
+C14196;Renoir;69;Male
+C17955;Picasso;71;Male
+C14725;Degas;36;Male
+C15065;Paul Klee;74;Male
+C14408;Da Vinci;34;Male
+C15757;Raphael;61;Male
+C16462;Donatello;71;Male
+C13603;Magritte;40;Male
+C14550;Degas;33;Male
+C17038;Munch;9;Male
+C17805;Matisse;8;Male
+C14664;Chagall;33;Male
+C13210;Klimt;91;Male
+C12990;Vincent;72;Male
+C15458;Matisse;15;Male
+C14053;Donatello;32;Male
+C17050;Rembrandt;42;Male
+C14293;Cassatt;86;Male
+C14329;El Greco;96;Male
+C13355;Winslow Homer;57;Male
+C15814;Paul Klee;90;Male
+C17450;Edward Hopper;61;Male
+C17696;El Greco;45;Male
+C17410;Donatello;49;Male
+C17526;Munch;8;Male
+C13706;Cassatt;45;Male
+C18226;Escher;29;Male
+C13908;Gauguin;84;Male
+C14583;Cezanne;36;Male
+C17887;Rothko;33;Male
+C16682;Dali;73;Male
+C16929;Vettriano;87;Male
+C13937;El Greco;17;Male
+C17591;Raphael;79;Male
+C13032;Klimt;61;Male
+C15469;Dali;18;Male
+C15443;Diego Rivera;89;Male
+C18170;Renoir;23;Male
+C13272;Cezanne;80;Male
+C16101;Manet;26;Male
+C15005;Degas;98;Male
+C13755;Escher;85;Male
+C17014;Cassatt;78;Male
+C13047;Kandinsky;48;Male
+C12550;Kahlo;49;Male
+C13513;Michelangelo;13;Male
+C13601;Rothko;69;Male
+C15160;Da Vinci;13;Male
+C14536;Donatello;98;Male
+C13258;Rothko;50;Male
+C13061;Rembrandt;58;Male
+C15544;Joan Miro;78;Male
+C16688;Paul Klee;9;Male
+C15254;Seurat;70;Male
+C13975;Rubens;21;Male
+C16110;Matisse;73;Male
+C13070;Da Vinci;0;Male
+C16727;Rothko;47;Male
+C16961;El Greco;99;Male
+C13652;Diego Rivera;31;Male
+C15601;Titian;6;Male
+C13643;Manet;75;Male
+C13159;Winslow Homer;77;Male
+C17238;Matisse;88;Male
+C13649;Warhol;52;Male
+C13120;Ansel Adams;80;Male
+C13577;Vettriano;79;Male
+C14079;Michelangelo;16;Male
+C13014;Vincent;38;Male
+C12583;Picasso;86;Male
+C15157;Degas;51;Male
+C16022;Michelangelo;76;Male
+C15661;Donatello;57;Male
+C13351;Chagall;61;Male
+C14422;Pissarro;36;Male
+C14961;Rubens;57;Male
+C17377;Michelangelo;21;Male
+C17449;Kandinsky;83;Male
+C14796;Durer;78;Male
+C15038;Chagall;62;Male
+C17058;Rothko;82;Male
+C14068;Paul Klee;70;Male
+C15395;Rubens;20;Male
+C15689;Magritte;20;Male
+C12882;Winslow Homer;52;Male
+C14565;Cassatt;72;Male
+C18219;Picasso;9;Male
+C12808;Klimt;31;Male
+C15218;Edward Hopper;76;Male
+C17937;Ansel Adams;19;Male
+C17939;Pollock;4;Male
+C14659;El Greco;89;Male
+C14075;Klimt;30;Male
+C15245;Paul Klee;37;Male
+C15719;Manet;15;Male
+C14219;Rothko;91;Male
+C17461;El Greco;1;Male
+C12950;Michelangelo;74;Male
+C16828;Seurat;91;Male
+C13126;Da Vinci;29;Male
+C17218;Dali;50;Male
+C16626;Monet;20;Male
+C18147;Paul Klee;7;Male
+C15384;Seurat;29;Male
+C18190;Escher;89;Male
+C16826;Klimt;88;Male
+C12464;Diego Rivera;38;Male
+C12507;Raphael;7;Male
+C16279;Monet;53;Male
+C16932;Renoir;54;Male
+C14853;El Greco;23;Male
+C17720;Seurat;37;Male
+C13517;Renoir;19;Male
+C12840;Winslow Homer;24;Male
+C12633;Seurat;84;Male
+C16732;Renoir;71;Male
+C12930;Rothko;12;Male
+C17489;Matisse;97;Male
+C14222;Dali;96;Male
+C15773;Klimt;55;Male
+C16017;Bernini;84;Male
+C16716;Dali;93;Male
+C12794;Dali;11;Male
+C14073;Escher;6;Male
+C14390;Picasso;82;Male
+C12701;Paul Klee;25;Male
+C12455;Picasso;50;Male
+C13599;Magritte;54;Male
+C13984;Pollock;81;Male
+C18082;Gauguin;0;Male
+C16424;Donatello;52;Male
+C12925;Titian;92;Male
+C18268;Vettriano;48;Male
+C15238;Cezanne;48;Male
+C16693;Raphael;55;Male
+C14772;Edward Hopper;3;Male
+C15906;Vincent;43;Male
+C15054;Bernini;28;Male
+C13890;Escher;89;Male
+C12587;El Greco;95;Male
+C13395;Gauguin;15;Male
+C14967;Escher;87;Male
+C18112;Matisse;92;Male
+C13621;Vincent;84;Male
+C15201;Titian;73;Male
+C16644;Kahlo;90;Male
+C13285;Degas;73;Male
+C16666;Da Vinci;90;Male
+C17883;Kahlo;3;Male
+C16820;Raphael;43;Male
+C16497;Joan Miro;97;Male
+C16473;Titian;26;Male
+C15980;Matisse;3;Male
+C12886;Donatello;97;Male
+C13292;Titian;0;Male
+C12552;Paul Klee;71;Male
+C15977;Caravaggio;61;Male
+C15780;Klimt;25;Male
+C16206;Cassatt;76;Male
+C13995;Botticelli;87;Male
+C14798;Klimt;20;Male
+C14868;Paul Klee;83;Male
+C13153;Warhol;14;Male
+C13926;Kahlo;10;Male
+C15047;Botticelli;28;Male
+C15100;Paul Klee;11;Male
+C16233;Picasso;73;Male
+C13544;Paul Klee;77;Male
+C15526;Degas;51;Male
+C14479;Raphael;51;Male
+C17690;El Greco;76;Male
+C15766;Renoir;24;Male
+C17436;Magritte;2;Male
+C13236;Gauguin;65;Male
+C15203;Manet;73;Male
+C17580;Manet;98;Male
+C17960;Winslow Homer;96;Male
+C12505;Raphael;90;Male
+C14976;Kahlo;40;Male
+C12770;Cassatt;78;Male
+C14547;Botticelli;11;Male
+C12415;Gauguin;97;Male
+C14581;Pollock;61;Male
+C15182;Picasso;74;Male
+C14851;Diego Rivera;74;Male
+C16134;Raphael;11;Male
+C16558;Kandinsky;96;Male
+C13029;Ansel Adams;20;Male
+C14132;Degas;31;Male
+C14237;Klimt;44;Male
+C13898;Joan Miro;67;Male
+C16552;Ansel Adams;1;Male
+C14000;Raphael;69;Male
+C13199;Kahlo;47;Male
+C16800;Pollock;50;Male
+C16200;Renoir;75;Male
+C16848;Botticelli;94;Male
+C16224;Paul Klee;76;Male
+C13456;Warhol;19;Male
+C15782;Raphael;43;Male
+C16574;Matisse;69;Male
+C17373;Magritte;90;Male
+C16808;Munch;28;Male
+C14060;Seurat;11;Male
+C12824;Michelangelo;94;Male
+C17090;Da Vinci;80;Male
+C12602;Pollock;26;Male
+C14419;Cassatt;34;Male
+C17470;Picasso;15;Male
+C17652;Edward Hopper;76;Male
+C16914;Pissarro;96;Male
+C13777;Da Vinci;98;Male
+C17991;Paul Klee;90;Male
+C18262;Da Vinci;8;Male
+C16774;Degas;65;Male
+C15744;Vincent;88;Male
+C16950;Rembrandt;9;Male
+C16480;Magritte;94;Male
+C15106;Vincent;86;Male
+C15436;Rubens;16;Male
+C13504;Matisse;84;Male
+C17148;Rothko;83;Male
+C13168;Klimt;49;Male
+C14466;Warhol;27;Male
+C14697;Da Vinci;93;Male
+C14688;Renoir;40;Male
+C17979;Titian;12;Male
+C18167;Renoir;21;Male
+C18017;Durer;71;Male
+C15335;Joan Miro;83;Male
+C17160;Warhol;70;Male
+C17205;Rubens;92;Male
+C17221;Bernini;84;Male
+C13917;Bernini;57;Male
+C17535;Donatello;88;Male
+C13373;Joan Miro;16;Male
+C15584;Winslow Homer;28;Male
+C17788;Pollock;41;Male
+C17579;Kahlo;19;Male
+C18141;Raphael;98;Male
+C18242;Escher;99;Male
+C15478;El Greco;18;Male
+C16369;Diego Rivera;98;Male
+C13658;Kandinsky;47;Male
+C15227;Picasso;46;Male
+C13452;Joan Miro;75;Male
+C14712;Michelangelo;11;Male
+C14022;Winslow Homer;37;Male
+C15199;Pissarro;36;Male
+C17760;Ansel Adams;23;Male
+C15144;Titian;75;Male
+C14518;Pissarro;32;Male
+C17515;Renoir;32;Male
+C16141;Magritte;28;Male
+C16750;Winslow Homer;64;Male
+C13823;Renoir;63;Male
+C15850;El Greco;88;Male
+C14213;Magritte;53;Male
+C14626;Kahlo;22;Male
+C15449;Paul Klee;19;Male
+C14947;Ansel Adams;29;Male
+C15360;El Greco;0;Male
+C15326;Caravaggio;46;Male
+C12750;Edward Hopper;38;Male
+C14785;Diego Rivera;60;Male
+C16657;Diego Rivera;31;Male
+C16356;Caravaggio;40;Male
+C12431;Michelangelo;46;Male
+C13487;Kahlo;46;Male
+C13348;Munch;27;Male
+C17140;Donatello;0;Male
+C12660;Diego Rivera;21;Male
+C14837;Donatello;75;Male
+C13786;Paul Klee;78;Male
+C14495;Caravaggio;24;Male
+C13894;Seurat;24;Male
+C12680;Diego Rivera;2;Male
+C17926;Manet;30;Male
+C17180;Bernini;48;Male
+C15957;Klimt;31;Male
+C13663;Pissarro;78;Male
+C15045;Dali;14;Male
+C17744;Pollock;26;Male
+C15582;Monet;11;Male
+C16309;Kandinsky;48;Male
+C13247;Bernini;65;Male
+C18068;Klimt;13;Male
+C16899;Raphael;36;Male
+C16114;Kahlo;61;Male
+C17171;Kandinsky;75;Male
+C13131;Rubens;34;Male
+C15083;Diego Rivera;35;Male
+C15119;Magritte;50;Male
+C15917;Michelangelo;4;Male
+C13739;Durer;3;Male
+C12952;Klimt;32;Male
+C17265;Diego Rivera;87;Male
+C18080;Rubens;93;Male
+C17362;El Greco;25;Male
+C15852;Rothko;33;Male
+C16617;Diego Rivera;9;Male
+C13500;Pissarro;34;Male
+C12820;Kahlo;20;Male
+C13753;Vincent;74;Male
+C17676;Winslow Homer;89;Male
+C17481;Renoir;49;Male
+C16880;Gauguin;97;Male
+C15733;Michelangelo;26;Male
+C14309;Rubens;55;Male
+C15775;Matisse;93;Male
+C12604;Bernini;52;Male
+C13481;Bernini;55;Male
+C18273;Renoir;71;Male
+C18156;Vincent;23;Male
+C13106;Warhol;0;Male
+C14440;Rothko;18;Male
+C18224;Donatello;98;Male
+C18246;Donatello;81;Male
+C12637;Kahlo;48;Male
+C13650;Klimt;50;Male
+C13474;Raphael;73;Male
+C15573;Diego Rivera;26;Male
+C16262;Pollock;60;Male
+C15504;Da Vinci;93;Male
+C15232;Bernini;60;Male
+C16611;Monet;70;Male
+C17427;Raphael;65;Male
+C16761;Da Vinci;86;Male
+C13320;Kahlo;59;Male
+C14338;Manet;27;Male
+C18079;Pollock;70;Male
+C18105;Kahlo;50;Male
+C17030;Magritte;82;Male
+C17498;Winslow Homer;46;Male
+C12613;Titian;61;Male
+C17566;Durer;19;Male
+C15142;Botticelli;30;Male
+C15700;Bernini;15;Male
+C13791;Raphael;98;Male
+C13124;Ansel Adams;12;Male
+C13186;Vincent;63;Male
+C17425;Pissarro;16;Male
+C16013;Renoir;39;Male
+C13571;Kahlo;94;Male
+C16495;Munch;53;Male
+C14699;Vettriano;61;Male
+C18037;Klimt;20;Male
+C12462;Botticelli;92;Male
+C17517;Pissarro;12;Male
+C13171;Pollock;77;Male
+C17940;Bernini;21;Male
+C12743;Winslow Homer;40;Male
+C15805;Manet;16;Male
+C16226;Vettriano;26;Male
+C17685;Kahlo;23;Male
+C14916;Paul Klee;10;Male
+C17146;Seurat;85;Male
+C15694;Raphael;94;Male
+C14406;Degas;84;Male
+C14152;Winslow Homer;8;Male
+C18189;Diego Rivera;12;Male
+C16855;Kahlo;53;Male
+C15030;Winslow Homer;56;Male
+C15652;Joan Miro;81;Male
+C17430;Seurat;32;Male
+C16215;Cassatt;56;Male
+C14295;Matisse;97;Male
+C17623;Klimt;39;Male
+C12523;Bernini;89;Male
+C16109;Pissarro;44;Male
+C15090;Ansel Adams;82;Male
+C16062;Vincent;55;Male
+C16525;Munch;31;Male
+C14387;Dali;48;Male
+C17573;Monet;17;Male
+C14327;Pissarro;62;Male
+C15230;Durer;98;Male
+C18093;Diego Rivera;77;Male
+C13579;Durer;78;Male
+C16275;El Greco;66;Male
+C16624;Diego Rivera;69;Male
+C17731;Degas;12;Male
+C15599;El Greco;64;Male
+C14530;Pissarro;72;Male
+C15447;Kandinsky;1;Male
+C16116;Pollock;11;Male
+C12707;Pollock;59;Male
+C15243;Pollock;10;Male
+C16668;Vincent;33;Male
+C12503;Cassatt;73;Male
+C14844;Seurat;64;Male
+C18149;Edward Hopper;22;Male
+C18004;Chagall;64;Male
+C15195;Rembrandt;31;Male
+C14862;Cassatt;54;Male
+C15184;Pollock;97;Male
+C17601;Kandinsky;95;Male
+C15098;Kandinsky;63;Male
+C14657;Vettriano;21;Male
+C15348;Seurat;14;Male
+C16057;Paul Klee;8;Male
+C13832;Winslow Homer;39;Male
+C15399;Dali;78;Male
+C12822;Paul Klee;30;Male
+C16947;Dali;32;Male
+C16596;Ansel Adams;96;Male
+C12532;Joan Miro;89;Male
+C15942;Chagall;53;Male
+C14006;Gauguin;78;Male
+C16725;Pollock;55;Male
+C15249;Manet;47;Male
+C16389;Diego Rivera;51;Male
+C13720;Picasso;25;Male
+C15223;Kandinsky;78;Male
+C17289;Cezanne;49;Male
+C16019;Warhol;93;Male
+C17560;Kandinsky;49;Male
+C17616;Dali;4;Male
+C13458;Michelangelo;41;Male
+C17438;Ansel Adams;88;Male
+C16105;Pollock;50;Male
+C17771;Warhol;5;Male
+C12578;Warhol;92;Male
+C15146;Botticelli;88;Male
+C15111;Manet;33;Male
+C15986;Winslow Homer;8;Male
+C14552;Cassatt;37;Male
+C17254;Joan Miro;90;Male
+C13694;Titian;15;Male
+C17650;Gauguin;71;Male
+C15676;Michelangelo;98;Male
+C16910;Manet;84;Male
+C16598;Rothko;68;Male
+C14714;Bernini;70;Male
+C17010;Kandinsky;53;Male
+C17458;Titian;58;Male
+C17609;Caravaggio;93;Male
+C17931;Seurat;1;Male
+C12727;Seurat;85;Male
+C13223;Manet;77;Male
+C15883;Cassatt;71;Male
+C17700;Winslow Homer;19;Male
+C14404;Renoir;50;Male
+C17340;Magritte;88;Male
+C17236;Manet;73;Male
+C13999;Kandinsky;91;Male
+C15568;Renoir;32;Male
+C17816;Chagall;27;Male
+C17274;Seurat;92;Male
+C14165;Seurat;14;Male
+C15445;Bernini;80;Male
+C13476;Kahlo;33;Male
+C12567;Warhol;1;Male
+C15432;Renoir;68;Male
+C17287;Degas;22;Male
+C12417;Matisse;86;Male
+C18048;Rubens;15;Male
+C14262;Kandinsky;85;Male
+C17643;Cassatt;71;Male
+C12527;Cassatt;38;Male
+C16422;Botticelli;45;Male
+C13256;Klimt;64;Male
+C13142;Pollock;46;Male
+C15382;Bernini;81;Male
+C18259;Raphael;16;Male
+C13557;Kahlo;75;Male
+C17126;Michelangelo;87;Male
+C13135;Cassatt;98;Male
+C17964;Cassatt;46;Male
+C12648;Warhol;62;Male
+C17995;Matisse;51;Male
+C15346;Caravaggio;8;Male
+C17850;Bernini;23;Male
+C17999;Kahlo;69;Male
+C13016;Paul Klee;96;Male
+C16969;Kahlo;52;Male
+C14754;Pollock;15;Male
+C15984;Chagall;56;Male
+C14859;Pissarro;52;Male
+C14114;Magritte;74;Male
+C16257;Raphael;5;Male
+C15355;Durer;29;Male
+C17584;El Greco;77;Male
+C13568;Michelangelo;60;Male
+C14037;Magritte;79;Male
+C16561;Matisse;6;Male
+C12428;Dali;48;Male
+C16505;Michelangelo;0;Male
+C16523;Klimt;8;Male
+C16350;Magritte;2;Male
+C14684;Escher;87;Male
+C16398;Klimt;38;Male
+C13838;Warhol;79;Male
+C17878;Pissarro;75;Male
+C18220;Bernini;78;Male
+C17344;Ansel Adams;69;Male
+C14138;Matisse;89;Male
+C12662;Michelangelo;82;Male
+C14639;Gauguin;85;Male
+C14860;Vettriano;71;Male
+C15524;Dali;3;Male
+C14426;Rubens;71;Male
+C17881;Rubens;69;Male
+C14297;Botticelli;48;Male
+C12725;Pollock;82;Male
+C18143;Durer;72;Male
+C14257;Michelangelo;88;Male
+C17708;Edward Hopper;96;Male
+C13078;Picasso;96;Male
+C14921;Pollock;20;Male
+C17379;Warhol;87;Male
+C18280;Dali;50;Male
+C15092;Rothko;69;Male
+C17629;Michelangelo;61;Male
+C14475;Degas;83;Male
+C16341;Kandinsky;94;Male
+C12422;Renoir;27;Male
+C18127;Picasso;89;Male
+C15605;Magritte;64;Male
+C16763;Paul Klee;74;Male
+C16550;Michelangelo;22;Male
+C14453;El Greco;75;Male
+C13203;Winslow Homer;6;Male
+C15364;Kahlo;92;Male
+C16602;Manet;31;Male
+C14567;Gauguin;35;Male
+C15827;Dali;74;Male
+C12574;Degas;4;Male
+C17669;Pollock;67;Male
+C14107;Pollock;61;Male
+C13946;Ansel Adams;42;Male
+C13708;Vettriano;41;Male
+C17034;Paul Klee;24;Male
+C14572;Munch;8;Male
+C16318;Monet;13;Male
+C14716;Kandinsky;23;Male
+C15933;Manet;38;Male
+C16875;Winslow Homer;69;Male
+C13962;Seurat;82;Male
+C12347;Renoir;68;Male
+C18118;Raphael;89;Male
+C13685;Manet;39;Male
+C14693;Degas;11;Male
+C15159;Michelangelo;91;Male
+C13719;Bernini;56;Male
+C14918;Rothko;29;Male
+C13522;Klimt;58;Male
+C15270;Raphael;26;Male
+C17557;Pissarro;48;Male
+C12365;Matisse;43;Male
+C13430;Durer;40;Male
+C15058;Kahlo;68;Male
+C14004;Paul Klee;49;Male
+C16172;Renoir;92;Male
+C14062;Rubens;83;Male
+C12561;Cezanne;88;Male
+C13854;Titian;52;Male
+C17333;Chagall;21;Male
+C12514;Renoir;34;Male
+C12635;Joan Miro;94;Male
+C14220;Matisse;74;Male
+C13003;Raphael;78;Male
+C13876;Caravaggio;47;Male
+C16510;Cassatt;39;Male
+C12354;Renoir;58;Male
+C14145;Da Vinci;89;Male
+C18099;Degas;64;Male
+C12974;Durer;4;Male
+C18237;Donatello;61;Male
+C16042;Titian;60;Male
+C16235;Da Vinci;63;Male
+C14282;Renoir;43;Male
+C16466;Seurat;77;Male
+C12994;Vettriano;74;Male
+C17128;Seurat;89;Male
+C17667;Botticelli;81;Male
+C15298;Dali;97;Male
+C12512;Klimt;74;Male
+C12628;Rubens;11;Male
+C16097;Michelangelo;13;Male
+C14905;Renoir;28;Male
+C17928;Degas;99;Male
+C16325;Rubens;81;Male
+C16185;Renoir;23;Male
+C16198;Picasso;63;Male
+C12873;Botticelli;36;Male
+C13988;Manet;23;Male
+C17542;Manet;77;Male
+C16471;Rothko;5;Male
+C17531;Degas;31;Male
+C13799;Rubens;34;Male
+C17791;Caravaggio;27;Male
+C12936;Vincent;17;Male
+C16745;Kandinsky;55;Male
+C15344;Monet;26;Male
+C14040;Manet;33;Male
+C12497;Monet;88;Male
+C14321;Magritte;11;Male
+C14958;Vettriano;58;Male
+C15502;Caravaggio;26;Male
+C16242;Paul Klee;11;Male
+C17797;Michelangelo;81;Male
+C15759;Escher;42;Male
+C13520;Titian;17;Male
+C12756;Winslow Homer;56;Male
+C15311;Monet;51;Male
+C16271;Paul Klee;98;Male
+C13715;Cassatt;8;Male
+C13881;Seurat;29;Male
+C17043;Klimt;52;Male
+C12749;Pissarro;13;Male
+C12664;Munch;38;Male
+C13319;Vincent;99;Male
+C18136;Rubens;6;Male
+C15489;Da Vinci;27;Male
+C13993;Cezanne;81;Male
+C14806;Klimt;86;Male
+C12976;Bernini;8;Male
+C16620;Bernini;72;Male
+C17724;Rembrandt;20;Male
+C12921;Degas;69;Male
+C17359;Monet;7;Male
+C15832;Paul Klee;21;Male
+C17069;Diego Rivera;55;Male
+C15607;Ansel Adams;16;Male
+C16376;Manet;57;Male
+C13742;Donatello;46;Male
+C15764;Matisse;36;Male
+C17519;Warhol;1;Male
+C17836;Donatello;77;Male
+C17702;Degas;15;Male
+C18228;Warhol;11;Male
+C17065;Kandinsky;97;Male
+C14082;Diego Rivera;23;Male
+C16183;Matisse;56;Male
+C16181;Monet;19;Male
+C16811;Kandinsky;38;Male
+C16532;Vincent;32;Male
+C14109;Vettriano;40;Male
+C16989;Donatello;40;Male
+C16174;Paul Klee;51;Male
+C12679;Magritte;15;Male
+C14813;Vettriano;5;Male
+C14066;Rothko;42;Male
+C17870;Escher;51;Male
+C13038;Ansel Adams;67;Male
+C16107;Manet;54;Male
+C17096;Dali;95;Male
+C16949;Vettriano;86;Male
+C12448;Joan Miro;56;Male
+C16655;Rothko;49;Male
+C12451;Picasso;73;Male
+C17027;Kandinsky;29;Male
+C14415;Botticelli;88;Male
+C14015;Dali;29;Male
+C13759;Vettriano;50;Male
+C16204;Monet;25;Male
+C17924;Magritte;51;Male
+C13108;Seurat;97;Male
+C17443;Degas;24;Male
+C12558;Monet;55;Male
+C16147;Seurat;44;Male
+C15920;Munch;79;Male
+C14178;Michelangelo;94;Male
+C13117;Diego Rivera;3;Male
+C17719;Pollock;48;Male
+C16729;Winslow Homer;88;Male
+C18022;Cassatt;81;Male
+C16619;Michelangelo;52;Male
+C16071;Seurat;5;Male
+C13979;Bernini;40;Male
+C12938;Monet;73;Male
+C16213;Vettriano;52;Male
+C14679;Durer;83;Male
+C13744;Diego Rivera;74;Male
+C14934;Dali;40;Male
+C13418;Diego Rivera;50;Male
+C14903;Cassatt;98;Male
+C13632;Bernini;90;Male
+C17890;Da Vinci;41;Male
+C17678;Manet;72;Male
+C13546;Vettriano;88;Male
+C13278;Matisse;31;Male
+C16545;Rubens;70;Male
+C16866;Renoir;42;Male
+C14738;Paul Klee;47;Male
+C17339;Cezanne;60;Male
+C13405;Cezanne;52;Male
+C14538;Paul Klee;82;Male
+C15939;El Greco;44;Male
+C16477;Paul Klee;27;Male
+C16796;Renoir;32;Male
+C16387;Rothko;69;Male
+C16402;Vincent;18;Male
+C18008;Pollock;82;Male
+C13562;Pollock;55;Male
+C14400;Picasso;17;Male
+C17562;Edward Hopper;86;Male
+C15690;Escher;98;Male
+C15539;Escher;22;Male
+C14828;Da Vinci;60;Male
+C13827;Ansel Adams;4;Male
+C16008;Winslow Homer;70;Male
+C16433;Rembrandt;64;Male
+C12350;Donatello;96;Male
+C13801;Rubens;43;Male
+C12736;Escher;68;Male
+C17625;Rembrandt;69;Male
+C15267;Ansel Adams;50;Male
+C12488;Caravaggio;99;Male
+C14587;Picasso;35;Male
+C13863;Joan Miro;96;Male
+C17869;Gauguin;40;Male
+C15557;Renoir;71;Male
+C14710;Vincent;37;Male
+C17173;Bernini;26;Male
+C16570;Ansel Adams;5;Male
+C12716;Klimt;31;Male
+C18053;Paul Klee;92;Male
+C17047;Gauguin;53;Male
+C16332;Botticelli;68;Male
+C14307;Warhol;67;Male
+C13270;Botticelli;24;Male
+C14541;Ansel Adams;13;Male
+C17957;Pollock;16;Male
+C15696;Magritte;17;Male
+C17263;Kandinsky;68;Male
+C17223;Escher;13;Male
+C14411;Dali;70;Male
+C12875;Kandinsky;78;Male
+C17588;Cassatt;19;Male
+C16059;Pissarro;59;Male
+C13892;Cassatt;28;Male
+C15834;Vincent;67;Male
+C14569;Vettriano;78;Male
+C15027;Pollock;15;Male
+C18062;Renoir;67;Male
+C12877;Rothko;32;Male
+C18109;Durer;4;Male
+C13375;Rothko;76;Male
+C15186;Caravaggio;53;Male
+C15953;Caravaggio;43;Male
+C17360;Da Vinci;65;Male
+C14077;Magritte;86;Male
+C16163;Paul Klee;74;Male
+C14431;Klimt;2;Male
+C16903;Titian;60;Male
+C13001;Michelangelo;19;Male
+C16628;Vettriano;97;Male
+C17193;Winslow Homer;72;Male
+C15050;Da Vinci;15;Male
+C17951;Escher;65;Male
+C15175;Rubens;90;Male
+C16752;Edward Hopper;81;Male
+C14631;Diego Rivera;86;Male
+C16945;Rothko;78;Male
+C15414;Kahlo;38;Male
+C17368;Cassatt;13;Male
+C17603;Durer;85;Male
+C16567;Gauguin;18;Male
+C17799;Raphael;83;Male
+C13924;Cassatt;7;Male
+C14383;Michelangelo;14;Male
+C15506;Degas;19;Male
+C17371;Klimt;47;Male
+C12493;Cezanne;89;Male
+C13627;Monet;27;Male
+C15252;Raphael;11;Male
+C13805;Botticelli;16;Male
+C14312;Renoir;14;Male
+C13502;Diego Rivera;89;Male
+C14381;Gauguin;30;Male
+C17135;Pollock;78;Male
+C17524;Winslow Homer;41;Male
+C12714;Kandinsky;67;Male
+C12916;Paul Klee;16;Male
+C13018;Rembrandt;9;Male
+C16006;Picasso;53;Male
+C13494;Kandinsky;11;Male
+C15755;Donatello;45;Male
+C14673;Munch;50;Male
+C17582;Rubens;46;Male
+C17775;Michelangelo;34;Male
+C18097;Vincent;21;Male
+C16842;Pissarro;69;Male
+C16721;Pollock;86;Male
+C18194;Chagall;38;Male
+C14794;Escher;43;Male
+C12651;Renoir;65;Male
+C15407;Matisse;28;Male
+C16978;Donatello;44;Male
+C15274;Chagall;41;Male
+C12352;Rubens;28;Male
+C15793;Rubens;27;Male
+C13102;Picasso;52;Male
+C15133;Munch;67;Male
+C15289;Michelangelo;61;Male
+C16767;Winslow Homer;39;Male
+C18235;Cassatt;43;Male
+C13531;Matisse;48;Male
+C15315;Picasso;44;Male
+C17757;Renoir;77;Male
+C16103;Klimt;32;Male
+C18257;Da Vinci;71;Male
+C13885;Matisse;13;Male
+C15197;Pollock;25;Male
+C15498;Raphael;11;Male
+C15638;Seurat;95;Male
+C16431;Diego Rivera;94;Male
+C15869;Bernini;8;Male
+C14457;Kandinsky;6;Male
+C13869;Cezanne;5;Male
+C13810;Chagall;60;Male
+C15366;Da Vinci;70;Male
+C12871;Manet;45;Male
+C12624;Botticelli;31;Male
+C15212;Michelangelo;41;Male
+C18181;Klimt;25;Male
+C13410;Bernini;98;Male
+C13216;Rembrandt;62;Male
+C16912;Monet;95;Male
+C14817;Escher;28;Male
+C14978;Bernini;47;Male
+C17722;Pollock;38;Male
+C17962;Winslow Homer;92;Male
+C14491;Cassatt;72;Male
+C14998;Rubens;88;Male
+C12929;Cassatt;2;Male
+C15553;Joan Miro;10;Male
+C16240;Bernini;64;Male
+C13322;Renoir;85;Male
+C13829;Vettriano;70;Male
+C14130;Cezanne;70;Male
+C16255;Botticelli;32;Male
+C18213;Joan Miro;44;Male
+C16222;Botticelli;38;Male
+C14332;Manet;90;Male
+C17946;Rembrandt;87;Male
+C18233;Klimt;83;Male
+C15148;Gauguin;33;Male
+C15724;Monet;49;Male
+C12963;Ansel Adams;11;Male
+C12435;Picasso;54;Male
+C16253;Munch;67;Male
+C15021;Winslow Homer;15;Male
+C16789;Degas;75;Male
+C14729;Winslow Homer;80;Male
+C14620;Dali;88;Male
+C13362;Seurat;37;Male
+C14871;Dali;4;Male
+C14886;Durer;33;Male
+C13090;Pissarro;60;Male
+C17735;Kandinsky;94;Male
+C17201;Munch;32;Male
+C13229;Manet;24;Male
+C16136;Dali;49;Male
+C15746;Cassatt;0;Male
+C14240;Joan Miro;15;Male
+C18277;Raphael;14;Male
+C14226;Gauguin;17;Male
+C12592;Rothko;62;Male
+C13263;Ansel Adams;0;Male
+C14233;Seurat;48;Male
+C15429;Joan Miro;46;Male
+C17715;Winslow Homer;64;Male
+C14709;Pissarro;29;Male
+C14024;Edward Hopper;57;Male
+C12444;Seurat;95;Male
+C13238;Klimt;82;Male
+C17908;Escher;64;Male
+C17186;Chagall;17;Male
+C16091;Michelangelo;27;Male
+C12792;Kandinsky;49;Male
+C16385;Diego Rivera;57;Male
+C17386;Pissarro;94;Male
+C15272;Winslow Homer;2;Male
+C16080;Donatello;71;Male
+C17838;Durer;29;Male
+C14882;Donatello;43;Male
+C17528;Degas;53;Male
+C16895;Cassatt;70;Male
+C16428;Renoir;65;Male
+C16460;Caravaggio;8;Male
+C14099;Donatello;16;Male
+C15018;Ansel Adams;5;Male
+C15537;Cassatt;20;Male
+C17313;Degas;4;Male
+C15023;Michelangelo;18;Male
+C13816;Magritte;47;Male
+C16653;Manet;11;Male
+C17852;Matisse;27;Male
+C15618;El Greco;71;Male
+C17856;Manet;70;Male
+C17540;Winslow Homer;31;Male
+C14897;Cassatt;13;Male
+C17984;Vincent;94;Male
+C14675;Monet;59;Male
+C15612;Vincent;18;Male
+C17250;Kandinsky;40;Male
+C13177;Dali;67;Male
+C14299;Gauguin;72;Male
+C14239;Cassatt;3;Male
+C17414;Munch;91;Male
+C15120;Vincent;34;Male
+C13634;Monet;51;Male
+C12622;Escher;55;Male
+C15720;Botticelli;42;Male
+C13227;Donatello;42;Male
+C18150;Winslow Homer;29;Male
+C17948;Cezanne;48;Male
+C13067;Renoir;42;Male
+C17302;Pollock;88;Male
+C14954;Manet;79;Male
+C12855;Edward Hopper;13;Male
+C16923;Bernini;38;Male
+C16248;Manet;28;Male
+C15885;Gauguin;60;Male
+C16484;Winslow Homer;57;Male
+C14527;Dali;27;Male
+C13151;Joan Miro;1;Male
+C13922;Escher;2;Male
+C12686;Pollock;42;Male
+C16527;Raphael;43;Male
+C15571;Rubens;33;Male
+C18161;Rothko;60;Male
+C14211;Kandinsky;50;Male
+C15579;Manet;29;Male
+C12884;Vincent;72;Male
+C13564;Da Vinci;62;Male
+C15221;Donatello;48;Male
+C13539;Titian;88;Male
+C14286;Monet;30;Male
+C13012;Winslow Homer;51;Male
+C16026;El Greco;40;Male
+C13030;Seurat;10;Male
+C13610;Manet;80;Male
+C13566;Klimt;54;Male
+C18019;Kahlo;21;Male
+C12510;Pollock;27;Male
+C13089;Michelangelo;92;Male
+C16633;Donatello;99;Male
+C13429;Klimt;89;Male
+C12541;Chagall;65;Male
+C13960;Warhol;54;Male
+C15795;Donatello;54;Male
+C16284;Seurat;88;Male
+C15533;Matisse;75;Male
+C17548;Vincent;88;Male
+C15115;Chagall;64;Male
+C12581;Donatello;14;Male
+C16549;Joan Miro;94;Male
+C12965;Gauguin;98;Male
+C12479;Kandinsky;93;Male
+C13283;Pollock;30;Male
+C15687;Klimt;0;Male
+C16374;Durer;66;Male
+C15306;Escher;58;Male
+C12853;Munch;71;Male
+C16260;Pissarro;66;Male
+C16295;Caravaggio;82;Male
+C17621;Escher;51;Male
+C12752;Seurat;86;Male
+C14592;Michelangelo;94;Male
+C17191;Rothko;63;Male
+C17076;Donatello;49;Male
+C13780;Paul Klee;56;Male
+C13959;Cassatt;14;Male
+C16509;Escher;79;Male
+C15692;Escher;67;Male
+C18192;Rubens;91;Male
+C17698;Vincent;89;Male
+C14246;Manet;20;Male
+C15786;Edward Hopper;47;Male
+C15205;Paul Klee;71;Male
+C14460;Joan Miro;72;Male
+C15089;Da Vinci;28;Male
+C15632;Botticelli;9;Male
+C15342;Vettriano;73;Male
+C16464;Kahlo;0;Male
+C15919;Seurat;53;Male
+C15540;Vettriano;39;Male
+C17900;Munch;51;Male
+C16370;Degas;19;Male
+C15287;Pollock;73;Male
+C14745;Joan Miro;28;Male
+C16569;Magritte;72;Male
+C16189;Ansel Adams;52;Male
+C16503;Renoir;15;Male
+C14589;Vettriano;87;Male
+C17768;Pollock;85;Male
+C15128;Warhol;73;Male
+C17537;Manet;21;Male
+C12729;Cassatt;91;Male
+C16037;Picasso;86;Male
+C17649;Winslow Homer;5;Male
+C14923;Cassatt;11;Male
+C16536;Kahlo;65;Male
+C16765;Dali;86;Male
+C13081;Bernini;71;Male
+C15971;Raphael;78;Male
+C16349;Diego Rivera;78;Male
+C12923;Caravaggio;80;Male
+C12723;Vettriano;23;Male
+C13023;Donatello;29;Male
+C15261;Bernini;20;Male
+C18198;Rothko;10;Male
+C13209;Durer;2;Male
+C14264;Escher;56;Male
+C13704;Vincent;40;Male
+C15463;Bernini;73;Male
+C15935;Ansel Adams;96;Male
+C14888;Bernini;86;Male
+C18064;Monet;35;Male
+C15555;Pollock;57;Male
+C16697;Vincent;70;Male
+C17317;Manet;94;Male
+C13388;Vincent;2;Male
+C16112;Rubens;40;Male
+C17663;Vettriano;87;Male
+C16411;Diego Rivera;72;Male
+C16686;Rembrandt;51;Male
+C16859;Seurat;21;Male
+C14480;Dali;62;Male
+C14820;Picasso;82;Male
+C13669;Kandinsky;9;Male
+C17025;Vincent;82;Male
+C17234;Picasso;5;Male
+C16426;Rothko;1;Male
+C16781;Caravaggio;52;Male
+C13269;Rembrandt;22;Male
+C16015;Durer;89;Male
+C16891;El Greco;8;Male
+C16491;Renoir;47;Male
+C15256;Munch;98;Male
+C14952;Kandinsky;17;Male
+C14608;Titian;4;Male
+C13434;Winslow Homer;10;Male
+C17162;Klimt;71;Male
+C15753;Ansel Adams;73;Male
+C16743;Michelangelo;12;Male
+C14301;Cezanne;29;Male
+C13416;Pissarro;13;Male
+C15117;Klimt;32;Male
+C13193;Magritte;36;Male
+C18178;Magritte;31;Male
+C17920;Kandinsky;82;Male
+C13368;Da Vinci;89;Male
+C14895;Paul Klee;61;Male
+C16187;Ansel Adams;44;Male
+C16794;Warhol;34;Male
+C18013;Dali;8;Male
+C14051;Seurat;28;Male
+C12956;Cassatt;42;Male
+C16363;Winslow Homer;13;Male
+C12457;Kandinsky;77;Male
+C13670;Matisse;39;Male
+C14776;Klimt;38;Male
+C13489;Seurat;23;Male
+C12598;Da Vinci;99;Male
+C14987;Seurat;10;Male
+C15841;Degas;48;Male
+C15845;Cassatt;96;Male
+C17492;Ansel Adams;20;Male
+C13160;Escher;63;Male
+C16709;Cezanne;65;Male
+C12947;Kahlo;15;Male
+C15410;Renoir;59;Male
+C15467;Diego Rivera;32;Male
+C15667;Edward Hopper;22;Male
+C16293;Degas;61;Male
+C13357;Winslow Homer;27;Male
+C16145;Renoir;10;Male
+C15265;Da Vinci;70;Male
+C16851;Kandinsky;46;Male
+C13069;Escher;27;Male
+C14185;Cassatt;19;Male
+C17759;Caravaggio;27;Male
+C13137;Vincent;60;Male
+C16747;Rothko;71;Male
+C15522;Gauguin;2;Male
+C13551;Bernini;33;Male
+C18024;Cassatt;69;Male
+C18066;Rembrandt;79;Male
+C14585;Vincent;23;Male
+C15135;Diego Rivera;92;Male
+C17692;Magritte;4;Male
+C12596;Pissarro;2;Male
+C14350;Kandinsky;58;Male
+C13052;Monet;10;Male
+C14789;Vincent;37;Male
+C14723;Da Vinci;99;Male
+C13630;Ansel Adams;13;Male
+C14345;Gauguin;54;Male
+C13904;Klimt;37;Male
+C16444;Degas;31;Male
+C14778;Vincent;81;Male
+C16446;Vettriano;64;Male
+C15322;Kandinsky;39;Male
+C17122;Kahlo;26;Male
+C15988;Bernini;14;Male
+C14624;Da Vinci;74;Male
+C16563;Chagall;60;Male
+C13973;Monet;21;Male
+C14866;Monet;36;Male
+C12572;Vettriano;19;Male
+C13188;Klimt;23;Male
+C15704;Monet;17;Male
+C16190;Cassatt;78;Male
+C12358;Raphael;79;Male
+C14792;Gauguin;43;Male
+C12491;Ansel Adams;76;Male
+C14110;Manet;74;Male
+C13050;Picasso;54;Male
+C16985;Vincent;18;Male
+C12363;Durer;77;Male
+C13427;Da Vinci;34;Male
+C14974;Da Vinci;46;Male
+C14341;Chagall;10;Male
+C14288;Pollock;53;Male
+C14204;Manet;77;Male
+C14534;El Greco;4;Male
+C17153;Kahlo;35;Male
+C13508;Escher;15;Male
+C13230;Titian;11;Male
+C15809;Gauguin;31;Male
+C15465;Caravaggio;36;Male
+C15858;Paul Klee;64;Male
+C13849;El Greco;16;Male
+C14600;Ansel Adams;2;Male
+C14235;Caravaggio;28;Male
+C15180;Cezanne;82;Male
+C12802;Monet;73;Male
+C16565;Bernini;0;Male
+C15791;Warhol;0;Male
+C14039;Vincent;87;Male
+C13450;Diego Rivera;92;Male
+C14020;Dali;93;Male
+C14594;Donatello;30;Male
+C18204;Raphael;67;Male
+C13328;Kandinsky;13;Male
+C12408;Winslow Homer;59;Male
+C15074;Diego Rivera;33;Male
+C16086;Raphael;23;Male
+C16156;Dali;55;Male
+C15713;Rubens;99;Male
+C16778;Kahlo;69;Male
+C16415;Pissarro;13;Male
+C17311;Paul Klee;97;Male
+C17988;Chagall;3;Male
+C17786;Manet;28;Male
+C15944;Kandinsky;41;Male
+C14129;Magritte;62;Male
+C16934;Donatello;93;Male
+C16244;Munch;90;Male
+C16734;Degas;77;Male
+C16770;Monet;35;Male
+C18075;Pollock;54;Male
+C12619;Manet;29;Male
+C15829;El Greco;17;Male
+C16488;Warhol;3;Male
+C12565;Da Vinci;5;Male
+C14857;Escher;80;Male
+C13858;Joan Miro;34;Male
+C13762;Kahlo;26;Male
+C13221;Michelangelo;90;Male
+C13940;Degas;14;Male
+C16893;Renoir;1;Male
+C17423;Cassatt;40;Male
+C15603;Munch;0;Male
+C17849;Pollock;93;Male
+C15043;Durer;77;Male
+C17142;El Greco;33;Male
+C14606;Cassatt;56;Male
+C14752;Escher;40;Male
+C15247;Renoir;58;Male
+C16033;Raphael;58;Male
+C15937;Renoir;31;Male
+C13717;Diego Rivera;6;Male
+C13506;Da Vinci;71;Male
+C16121;Monet;15;Male
+C14770;Chagall;23;Male
+C12682;Diego Rivera;4;Male
+C12949;Diego Rivera;60;Male
+C15139;Ansel Adams;84;Male
+C14437;Bernini;53;Male
+C14451;Rothko;15;Male
+C13144;Winslow Homer;25;Male
+C16406;Picasso;6;Male
+C12367;Edward Hopper;15;Male
+C12509;Titian;21;Male
+C15955;Chagall;8;Male
+C12349;Cassatt;58;Male
+C15236;Gauguin;14;Male
+C17063;Rubens;5;Male
+C14910;Michelangelo;18;Male
+C17555;Monet;0;Male
+C14532;Botticelli;30;Male
+C15113;Escher;89;Male
+C12585;Escher;87;Male
+C14765;Edward Hopper;75;Male
+C15645;Picasso;64;Male
+C12839;Escher;30;Male
+C15494;Kahlo;21;Male
+C16927;Raphael;30;Male
+C14167;Seurat;64;Male
+C16451;Gauguin;11;Male
+C16321;Botticelli;63;Male
+C13212;Paul Klee;95;Male
+C14064;Matisse;52;Male
+C14655;Kandinsky;97;Male
+C15034;Botticelli;96;Male
+C13524;Vettriano;24;Male
+C16150;Da Vinci;26;Male
+C16330;Klimt;41;Male
+C14936;Da Vinci;60;Male
+C13672;Matisse;26;Male
+C16152;Kahlo;0;Male
+C15296;El Greco;7;Male
+C12798;Caravaggio;46;Male
+C16305;Bernini;99;Male
+C13948;Escher;38;Male
+C16518;Botticelli;42;Male
+C12569;Titian;19;Male
+C17388;Kandinsky;88;Male
+C15807;Rothko;12;Male
+C16316;Munch;17;Male
+C12912;Paul Klee;70;Male
+C17256;Kahlo;52;Male
+C17522;Dali;72;Male
+C15636;Paul Klee;45;Male
+C18040;Donatello;49;Male
+C14705;Rembrandt;80;Male
+C15634;Manet;40;Male
+C16976;El Greco;29;Male
+C13485;Bernini;9;Male
+C15421;Cassatt;59;Male
+C15483;Seurat;61;Male
+C12747;Vincent;19;Male
+C16581;Pissarro;63;Male
+C14385;Matisse;31;Male
+C17454;Kandinsky;35;Male
+C18260;Caravaggio;1;Male
+C17320;Bernini;16;Male
+C13991;El Greco;74;Male
+C16684;Matisse;48;Male
+C13098;Joan Miro;8;Male
+C15168;Kandinsky;91;Male
+C13722;Munch;50;Male
+C14477;Joan Miro;17;Male
+C17551;Durer;49;Male
+C12402;Bernini;32;Male
+C14161;Bernini;63;Male
+C14189;El Greco;20;Male
+C16738;Titian;14;Male
+C15825;Winslow Homer;19;Male
+C16710;Monet;63;Male
+C13308;Pissarro;16;Male
+C17346;Matisse;60;Male
+C14448;Michelangelo;11;Male
+C14680;Renoir;90;Male
+C14482;Bernini;6;Male
+C14493;Botticelli;11;Male
+C15304;Joan Miro;7;Male
+C13397;Seurat;89;Male
+C16143;Cassatt;73;Male
+C16714;Magritte;64;Male
+C16660;El Greco;9;Male
+C17906;Da Vinci;65;Male
+C13809;Ansel Adams;74;Male
+C17658;Raphael;47;Male
+C12691;Gauguin;78;Male
+C13928;Renoir;20;Male
+C15456;Joan Miro;15;Male
+C14093;Pollock;99;Male
+C12501;Klimt;5;Male
+C13421;Chagall;70;Male
+C15492;Magritte;61;Male
+C13878;Rubens;55;Male
+C14158;Magritte;15;Male
+C15508;Winslow Homer;63;Male
+C17456;Kahlo;96;Male
+C15768;Vettriano;27;Male
+C15412;Klimt;84;Male
+C17351;Chagall;6;Male
+C15373;Donatello;91;Male
+C13760;Rothko;97;Male
+C12536;Renoir;8;Male
+C13588;Diego Rivera;22;Male
+C16758;Ansel Adams;90;Male
+C13414;Gauguin;64;Male
+C14963;Gauguin;53;Male
+C12471;Manet;97;Male
+C17324;Rothko;85;Male
+C17159;Magritte;25;Male
+C15193;Titian;21;Male
+C16031;Seurat;1;Male
+C18169;Gauguin;38;Male
+C16730;Da Vinci;5;Male
+C14561;Rubens;36;Male
+C12383;Rothko;47;Male
+C14497;Pissarro;71;Male
+C16217;Durer;79;Male
+C17157;El Greco;40;Male
+C18125;Caravaggio;67;Male
+C15821;Degas;38;Male
+C16475;Donatello;75;Male
+C14505;Vettriano;30;Male
+C16756;Magritte;34;Male
+C13573;Kandinsky;42;Male
+C15171;Botticelli;29;Male
+C13593;Donatello;21;Male
+C18116;Da Vinci;65;Male
+C17139;Michelangelo;15;Male
+C16936;Pissarro;31;Male
+C14758;Rembrandt;81;Male
+C17166;Da Vinci;83;Male
+C17029;Degas;61;Male
+C13403;Edward Hopper;81;Male
+C12644;Rubens;62;Male
+C14642;Klimt;25;Male
+C15313;Gauguin;81;Male
+C15658;Vettriano;79;Male
+C15838;Pissarro;11;Male
+C14147;Raphael;57;Male
+C16813;Michelangelo;22;Male
+C16998;Renoir;94;Male
+C17429;Picasso;38;Male
+C14059;Rothko;16;Male
+C17595;Pollock;76;Male
+C13623;Escher;73;Male
+C12703;Michelangelo;86;Male
+C15434;Diego Rivera;30;Male
+C16938;Paul Klee;0;Male
+C13883;Durer;15;Male
+C15234;Durer;1;Male
+C12361;Paul Klee;25;Male
+C15276;Winslow Homer;56;Male
+C17593;Munch;73;Male
+C16882;Raphael;48;Male
+C17111;Degas;22;Male
+C12693;Rothko;45;Male
+C17007;Manet;30;Male
+C17214;Magritte;49;Male
+C13140;Degas;75;Male
+C15380;Pollock;36;Male
+C13953;Monet;63;Male
+C18077;El Greco;43;Male
+C15485;Seurat;46;Male
+C18196;Escher;84;Male
+C14985;Gauguin;40;Male
+C13690;Rembrandt;73;Male
+C14901;Matisse;40;Male
+C16455;El Greco;34;Male
+C17353;Seurat;22;Male
+C17252;Manet;49;Male
+C15405;Kandinsky;27;Male
+C17777;Klimt;95;Male
+C12477;Joan Miro;67;Male
+C16343;Chagall;56;Male
+C17553;Titian;81;Male
+C18044;Picasso;19;Male
+C17865;Durer;64;Male
+C14280;El Greco;0;Male
+C16909;Rembrandt;25;Male
+C13889;Michelangelo;69;Male
+C15597;Matisse;20;Male
+C14071;Klimt;29;Male
+C16983;Magritte;12;Male
+C12390;Chagall;11;Male
+C15438;Pissarro;68;Male
+C13887;Winslow Homer;17;Male
+C16123;Matisse;70;Male
+C14277;Edward Hopper;40;Male
+C14273;Botticelli;26;Male
+C17674;Cezanne;71;Male
+C17508;Klimt;83;Male
+C13313;El Greco;39;Male
+C12787;Rubens;51;Male
+C14682;Degas;27;Male
+C18255;Picasso;44;Male
+C16572;Bernini;42;Male
+C13748;Rubens;98;Male
+C13533;Donatello;53;Male
+C13133;Paul Klee;39;Male
+C16365;Vincent;13;Male
+C12897;Renoir;85;Male
+C17746;Donatello;36;Male
+C14101;Paul Klee;75;Male
+C13083;Ansel Adams;90;Male
+C15812;Joan Miro;66;Male
+C15762;Klimt;5;Male
+C17061;Titian;86;Male
+C14473;Joan Miro;55;Male
+C17081;Paul Klee;26;Male
+C17704;Warhol;89;Male
+C15052;El Greco;29;Male
+C18145;El Greco;99;Male
+C12640;Warhol;44;Male
+C15623;Raphael;84;Male
+C14756;Renoir;18;Male
+C16907;Picasso;41;Male
+C18165;Paul Klee;14;Male
+C13300;Magritte;32;Male
+C17188;Picasso;84;Male
+C16905;Titian;46;Male
+C12709;Caravaggio;18;Male
+C15368;El Greco;3;Male
+C13821;Rembrandt;96;Male
+C12576;Klimt;74;Male
+C12556;Gauguin;21;Male
+C14031;Edward Hopper;45;Male
+C12893;Kahlo;93;Male
+C15641;Rothko;11;Male
+C18239;Vincent;21;Male
+C16916;Pissarro;90;Male
+C13689;Cassatt;14;Male
+C14970;Matisse;53;Male
+C15577;El Greco;32;Male
+C15081;Raphael;63;Male
+C18123;Rubens;48;Male
+C17357;Kahlo;42;Male
+C16877;Kahlo;34;Male
+C16754;Michelangelo;19;Male
+C12831;Winslow Homer;38;Male
+C15872;Titian;31;Male
+C16170;Edward Hopper;90;Male
+C16345;Degas;46;Male
+C12783;Degas;85;Male
+C12684;Michelangelo;21;Male
+C13900;Manet;38;Male
+C14660;Matisse;62;Male
+C16833;Paul Klee;41;Male
+C16671;El Greco;22;Male
+C15663;Seurat;25;Male
+C14217;Gauguin;10;Male
+C17124;Degas;23;Male
+C15076;Winslow Homer;23;Male
+C18035;Caravaggio;49;Male
+C15656;Vettriano;93;Male
+C13986;Cezanne;10;Male
+C17917;Vincent;94;Male
+C12394;Pissarro;83;Male
+C12772;Matisse;79;Male
+C14194;Manet;92;Male
+C13555;Gauguin;45;Male
+C14730;Joan Miro;83;Male
+C12547;Rubens;55;Male
+C17247;Bernini;57;Male
+C14907;Raphael;39;Male
+C13461;Escher;10;Male
+C18158;Pissarro;38;Male
+C16952;Bernini;66;Male
+C17463;Dali;55;Male
+C14727;Donatello;47;Male
+C15339;Picasso;64;Male
+C17973;Dali;33;Male
+C13249;Da Vinci;4;Male
+C16701;Degas;42;Male
+C14284;Ansel Adams;42;Male
+C15683;Botticelli;26;Male
+C15423;Vettriano;66;Male
+C17155;Raphael;39;Male
+C13155;Monet;54;Male
+C12378;Magritte;95;Male
+C16613;Magritte;16;Male
+C14459;Pissarro;61;Male
+C13245;El Greco;2;Male
+C17054;Donatello;1;Male
+C17564;Edward Hopper;27;Male
+C18248;Winslow Homer;24;Male
+C12710;Renoir;4;Male
+C15777;Rembrandt;5;Male
+C12374;Escher;82;Male
+C17102;Kandinsky;75;Male
+C17728;Caravaggio;8;Male
+C13225;Kandinsky;5;Male
+C15096;Matisse;97;Male
+C13391;Picasso;31;Male
+C14808;Monet;70;Male
+C13751;Picasso;60;Male
+C15225;Degas;87;Male
+C17052;Edward Hopper;8;Male
+C14488;Renoir;50;Male
+C17232;Picasso;95;Male
+C14732;Manet;90;Male
+C17070;Titian;89;Male
+C13302;Diego Rivera;97;Male
+C13654;Raphael;95;Male
+C16202;Bernini;65;Male
+C13094;Rubens;40;Male
+C13764;Durer;93;Male
+C14929;Picasso;11;Male
+C15379;Bernini;80;Male
+C14356;El Greco;97;Male
+C15012;Matisse;14;Male
+C13700;Magritte;54;Male
+C14507;Durer;53;Male
+C13115;Caravaggio;60;Male
+C16394;Seurat;53;Male
+C16592;Paul Klee;62;Male
+C12879;Ansel Adams;7;Male
+C17418;Bernini;65;Male
+C14224;Pissarro;34;Male
+C14761;Magritte;49;Male
+C13218;Durer;64;Male
+C15300;Escher;62;Male
+C14640;Bernini;93;Male
+C12538;Magritte;50;Male
+C14336;Joan Miro;96;Male
+C15843;Cassatt;93;Male
+C12437;Titian;13;Male
+C12844;Kahlo;87;Male
+C16871;Caravaggio;64;Male
+C16600;Dali;26;Male
+C16297;Dali;30;Male
+C17889;Michelangelo;40;Male
+C16804;Degas;69;Male
+C15670;Warhol;29;Male
+C15669;Klimt;94;Male
+C15847;Botticelli;76;Male
+C15140;Picasso;31;Male

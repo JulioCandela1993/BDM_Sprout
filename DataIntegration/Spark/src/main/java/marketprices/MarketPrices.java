@@ -17,7 +17,7 @@ public class MarketPrices {
     public static String marketPriceCalculation(JavaSparkContext ctx) {
         String out = "Let's-a go!";
 
-        JavaRDD<String> categoryNode = ctx.textFile("fixedData/CategoryNode.csv");
+        JavaRDD<String> categoryNode = ctx.textFile("src/main/resources/fixedData/category_node.csv");
         JavaRDD<String> listProducts = ctx.textFile("src/main/resources/ListProducts.txt");
         JavaRDD<String> municipalities = ctx.textFile("src/main/resources/MunicipalitiesBarcelona.txt");
         JavaRDD<String> animal = ctx.textFile("src/main/resources/market-prices-animal-products.csv");
@@ -25,6 +25,10 @@ public class MarketPrices {
         JavaRDD<String> fruit = ctx.textFile("src/main/resources/market-prices-fruit-products.csv");
         JavaRDD<String> vegetable = ctx.textFile("src/main/resources/market-prices-vegetable-products.csv");
         JavaRDD<String> vegetal = ctx.textFile("src/main/resources/market-prices-vegetal-products.csv");
+        JavaRDD<String> orders = ctx.textFile("src/main/resources/Online_Retail.csv");
+
+        JavaRDD<String> orderRDD = orders.filter(t -> !t.contains("InvoiceNo") && !t.split(",")[6].equals(""));
+
 
         JavaRDD<String> allPrices = animal.union(dairy).union(fruit).union(vegetable).union(vegetal);
         JavaRDD<String> allPricesFiltered = allPrices
@@ -47,9 +51,19 @@ public class MarketPrices {
                     else return b;
                 });
         JavaPairRDD<String,Tuple2<Tuple2<String,Double>,String>> latestPriceWithID = latestPrice.join(productIDCache);
-        JavaRDD<String> productNode = latestPriceWithID.map(t -> t._2._2+";"+t._1+";"+t._2._1._2);
-        JavaRDD<String> headerProductNode = ctx.parallelize(Arrays.asList(":ID;nameproduct:string;marketpriceEU:double"));
+        JavaPairRDD<String,String> productNodeMarketPrice = latestPriceWithID.mapToPair(
+                t -> new Tuple2<String,String>(t._2._2,t._2._2+";"+t._1+";"+t._2._1._2));
 
+        JavaPairRDD<String,String> productNodeBig = orderRDD.mapToPair(l -> new Tuple2<String,String>(l.split(",")[1]
+                , l.split(",")[2]))
+                .distinct()
+                .reduceByKey((x,s) -> x.isEmpty() || x.length()== 0 ? s : x)
+                .mapToPair(f-> new Tuple2<String,String>("P" + f._1,  "P" + f._1+";" +f._2+";0"));
+
+        JavaRDD<String> productNode = productNodeBig.leftOuterJoin(productNodeMarketPrice)
+                .map(f-> f._2._2.orElse(f._2._1));
+
+        JavaRDD<String> headerProductNode = ctx.parallelize(Arrays.asList(":ID;nameproduct:string;marketpriceEU:double"));
         headerProductNode.union(productNode).repartition(1).saveAsTextFile("src/main/resources/productNode");
 
         // price_in_date edge
@@ -65,7 +79,7 @@ public class MarketPrices {
                 .mapToPair(t -> new Tuple2<>(t.split(",")[2], "P"+t.split(",")[0]));
         JavaPairRDD<String,String> categoryID = categoryNode
                 .filter(t -> !t.contains("categoryname"))
-                .mapToPair(t -> new Tuple2<>(t.split(";")[1], "P"+t.split(";")[0]));
+                .mapToPair(t -> new Tuple2<>(t.split(";")[1], t.split(";")[0]));
         JavaPairRDD<String,Tuple2<String,String>> productCategoryJoin = productID_Category.join(categoryID);
         JavaRDD<String> belongsToEdge = productCategoryJoin.map(t -> t._2._1+";"+t._2._2);
         JavaRDD<String> headerBelongsToEdge = ctx.parallelize(Arrays.asList(":START_ID;:END_ID"));
