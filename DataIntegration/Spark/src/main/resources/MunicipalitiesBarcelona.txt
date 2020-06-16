@@ -1,0 +1,312 @@
+Municipality,Comarca,Province
+Abrera,Baix Llobregat,Barcelona
+Aguilar de Segarra,Bages,Barcelona
+Aiguafreda,Vallès Oriental,Barcelona
+Alella,Maresme,Barcelona
+Alpens,Osona,Barcelona
+L'Ametlla del Vallès,Vallès Oriental,Barcelona
+Arenys de Mar,Maresme,Barcelona
+Arenys de Munt,Maresme,Barcelona
+Argençola,Anoia,Barcelona
+Argentona,Maresme,Barcelona
+Artés,Bages,Barcelona
+Avià,Berguedà,Barcelona
+Avinyó,Bages,Barcelona
+Avinyonet del Penedès,Alt Penedès,Barcelona
+Badalona,Barcelonès,Barcelona
+Badia del Vallès,Vallès Occidental,Barcelona
+Bagà,Berguedà,Barcelona
+Balenyà,Osona,Barcelona
+Balsareny,Bages,Barcelona
+Barberà del Vallès,Vallès Occidental,Barcelona
+Barcelona,Barcelonès,Barcelona
+Begues,Baix Llobregat,Barcelona
+Bellprat,Anoia,Barcelona
+Berga,Berguedà,Barcelona
+Bigues i Riells,Vallès Oriental,Barcelona
+Borredà,Berguedà,Barcelona
+El Bruc,Anoia,Barcelona
+El Brull,Osona,Barcelona
+Les Cabanyes,Alt Penedès,Barcelona
+Cabrera d'Anoia,Anoia,Barcelona
+Cabrera de Mar,Maresme,Barcelona
+Cabrils,Maresme,Barcelona
+Calaf,Anoia,Barcelona
+Calders,Moianès,Barcelona
+Caldes d'Estrac,Maresme,Barcelona
+Caldes de Montbui,Vallès Oriental,Barcelona
+Calella,Maresme,Barcelona
+Calldetenes,Osona,Barcelona
+Callús,Bages,Barcelona
+Calonge de Segarra,Anoia,Barcelona
+Campins,Vallès Oriental,Barcelona
+Canet de Mar,Maresme,Barcelona
+Canovelles,Vallès Oriental,Barcelona
+Cànoves i Samalús,Vallès Oriental,Barcelona
+Canyelles,Garraf,Barcelona
+Capellades,Anoia,Barcelona
+Capolat,Berguedà,Barcelona
+Cardedeu,Vallès Oriental,Barcelona
+Cardona,Bages,Barcelona
+Carme,Anoia,Barcelona
+Casserres,Berguedà,Barcelona
+Castell de l'Areny,Berguedà,Barcelona
+Castellar de n'Hug,Berguedà,Barcelona
+Castellar del Riu,Berguedà,Barcelona
+Castellar del Vallès,Vallès Occidental,Barcelona
+Castellbell i el Vilar,Bages,Barcelona
+Castellbisbal,Vallès Occidental,Barcelona
+Castellcir,Moianès,Barcelona
+Castelldefels,Baix Llobregat,Barcelona
+Castellet i la Gornal,Alt Penedès,Barcelona
+Castellfollit de Riubregós,Anoia,Barcelona
+Castellfollit del Boix,Bages,Barcelona
+Castellgalí,Bages,Barcelona
+Castellnou de Bages,Bages,Barcelona
+Castellolí,Anoia,Barcelona
+Castellterçol,Moianès,Barcelona
+Castellví de la Marca,Alt Penedès,Barcelona
+Castellví de Rosanes,Baix Llobregat,Barcelona
+Centelles,Osona,Barcelona
+Cercs,Berguedà,Barcelona
+Cerdanyola del Vallès,Vallès Occidental,Barcelona
+Cervelló,Baix Llobregat,Barcelona
+Collbató,Baix Llobregat,Barcelona
+Collsuspina,Moianès,Barcelona
+Copons,Anoia,Barcelona
+Corbera de Llobregat,Baix Llobregat,Barcelona
+Cornellà de Llobregat,Baix Llobregat,Barcelona
+Cubelles,Garraf,Barcelona
+Dosrius,Maresme,Barcelona
+Esparreguera,Baix Llobregat,Barcelona
+Esplugues de Llobregat,Baix Llobregat,Barcelona
+L'Espunyola,Berguedà,Barcelona
+L'Esquirol,Osona,Barcelona
+L'Estany,Moianès,Barcelona
+Figaró-Montmany,Vallès Oriental,Barcelona
+Fígols,Berguedà,Barcelona
+Fogars de la Selva,Selva,Barcelona
+Fogars de Montclús,Vallès Oriental,Barcelona
+Folgueroles,Osona,Barcelona
+Fonollosa,Bages,Barcelona
+Font-rubí,Alt Penedès,Barcelona
+Les Franqueses del Vallès,Vallès Oriental,Barcelona
+Gaià,Bages,Barcelona
+Gallifa,Vallès Occidental,Barcelona
+La Garriga,Vallès Oriental,Barcelona
+Gavà,Baix Llobregat,Barcelona
+Gelida,Alt Penedès,Barcelona
+Gironella,Berguedà,Barcelona
+Gisclareny,Berguedà,Barcelona
+La Granada,Alt Penedès,Barcelona
+Granera,Moianès,Barcelona
+Granollers,Vallès Oriental,Barcelona
+Gualba,Vallès Oriental,Barcelona
+Guardiola de Berguedà,Berguedà,Barcelona
+Gurb,Osona,Barcelona
+L'Hospitalet de Llobregat,Barcelonès,Barcelona
+Els Hostalets de Pierola,Anoia,Barcelona
+Igualada,Anoia,Barcelona
+Jorba,Anoia,Barcelona
+La Llacuna,Anoia,Barcelona
+La Llagosta,Vallès Oriental,Barcelona
+Lliçà d'Amunt,Vallès Oriental,Barcelona
+Lliçà de Vall,Vallès Oriental,Barcelona
+Llinars del Vallès,Vallès Oriental,Barcelona
+Lluçà,Osona,Barcelona
+Malgrat de Mar,Maresme,Barcelona
+Malla,Osona,Barcelona
+Manlleu,Osona,Barcelona
+Manresa,Bages,Barcelona
+Marganell,Bages,Barcelona
+Martorell,Baix Llobregat,Barcelona
+Martorelles,Vallès Oriental,Barcelona
+Les Masies de Roda,Osona,Barcelona
+Les Masies de Voltregà,Osona,Barcelona
+El Masnou,Maresme,Barcelona
+Masquefa,Anoia,Barcelona
+Matadepera,Vallès Occidental,Barcelona
+Mataró,Maresme,Barcelona
+Mediona,Alt Penedès,Barcelona
+Moià,Moianès,Barcelona
+Molins de Rei,Baix Llobregat,Barcelona
+Mollet del Vallès,Vallès Oriental,Barcelona
+Monistrol de Calders,Moianès,Barcelona
+Monistrol de Montserrat,Bages,Barcelona
+Montcada i Reixac,Vallès Occidental,Barcelona
+Montclar,Berguedà,Barcelona
+Montesquiu,Osona,Barcelona
+Montgat,Maresme,Barcelona
+Montmajor,Berguedà,Barcelona
+Montmaneu,Anoia,Barcelona
+Montmeló,Vallès Oriental,Barcelona
+Montornès del Vallès,Vallès Oriental,Barcelona
+Montseny,Vallès Oriental,Barcelona
+Muntanyola,Osona,Barcelona
+Mura,Bages,Barcelona
+Navarcles,Bages,Barcelona
+Navàs,Bages,Barcelona
+La Nou de Berguedà,Berguedà,Barcelona
+Òdena,Anoia,Barcelona
+Olèrdola,Alt Penedès,Barcelona
+Olesa de Bonesvalls,Alt Penedès,Barcelona
+Olesa de Montserrat,Baix Llobregat,Barcelona
+Olivella,Garraf,Barcelona
+Olost,Osona,Barcelona
+Olvan,Berguedà,Barcelona
+Orís,Osona,Barcelona
+Oristà,Osona,Barcelona
+Orpí,Anoia,Barcelona
+Òrrius,Maresme,Barcelona
+Pacs del Penedès,Alt Penedès,Barcelona
+Palafolls,Maresme,Barcelona
+Palau-solità i Plegamans,Vallès Occidental,Barcelona
+Pallejà,Baix Llobregat,Barcelona
+La Palma de Cervelló,Baix Llobregat,Barcelona
+El Papiol,Baix Llobregat,Barcelona
+Parets del Vallès,Vallès Oriental,Barcelona
+Perafita,Osona,Barcelona
+Piera,Anoia,Barcelona
+Pineda de Mar,Maresme,Barcelona
+El Pla del Penedès,Alt Penedès,Barcelona
+La Pobla de Claramunt,Anoia,Barcelona
+La Pobla de Lillet,Berguedà,Barcelona
+Polinyà,Vallès Occidental,Barcelona
+El Pont de Vilomara i Rocafort,Bages,Barcelona
+Pontons,Alt Penedès,Barcelona
+El Prat de Llobregat,Baix Llobregat,Barcelona
+Prats de Lluçanès,Osona,Barcelona
+Els Prats de Rei,Anoia,Barcelona
+Premià de Dalt,Maresme,Barcelona
+Premià de Mar,Maresme,Barcelona
+Puig-reig,Berguedà,Barcelona
+Puigdàlber,Alt Penedès,Barcelona
+Pujalt,Anoia,Barcelona
+La Quar,Berguedà,Barcelona
+Rajadell,Bages,Barcelona
+Rellinars,Vallès Occidental,Barcelona
+Ripollet,Vallès Occidental,Barcelona
+La Roca del Vallès,Vallès Oriental,Barcelona
+Roda de Ter,Osona,Barcelona
+Rubí,Vallès Occidental,Barcelona
+Rubió,Anoia,Barcelona
+Rupit i Pruit,Osona,Barcelona
+Sabadell,Vallès Occidental,Barcelona
+Sagàs,Berguedà,Barcelona
+Saldes,Berguedà,Barcelona
+Sallent,Bages,Barcelona
+Sant Adrià de Besòs,Barcelonès,Barcelona
+Sant Agustí de Lluçanès,Osona,Barcelona
+Sant Andreu de la Barca,Baix Llobregat,Barcelona
+Sant Andreu de Llavaneres,Maresme,Barcelona
+Sant Antoni de Vilamajor,Vallès Oriental,Barcelona
+Sant Bartomeu del Grau,Osona,Barcelona
+Sant Boi de Llobregat,Baix Llobregat,Barcelona
+Sant Boi de Lluçanès,Osona,Barcelona
+Sant Cebrià de Vallalta,Maresme,Barcelona
+Sant Celoni,Vallès Oriental,Barcelona
+Sant Climent de Llobregat,Baix Llobregat,Barcelona
+Sant Cugat del Vallès,Vallès Occidental,Barcelona
+Sant Cugat Sesgarrigues,Alt Penedès,Barcelona
+Sant Esteve de Palautordera,Vallès Oriental,Barcelona
+Sant Esteve Sesrovires,Baix Llobregat,Barcelona
+Sant Feliu de Codines,Vallès Oriental,Barcelona
+Sant Feliu de Llobregat,Baix Llobregat,Barcelona
+Sant Feliu Sasserra,Bages,Barcelona
+Sant Fost de Campsentelles,Vallès Oriental,Barcelona
+Sant Fruitós de Bages,Bages,Barcelona
+Sant Hipòlit de Voltregà,Osona,Barcelona
+Sant Iscle de Vallalta,Maresme,Barcelona
+Sant Jaume de Frontanyà,Berguedà,Barcelona
+Sant Joan de Vilatorrada,Bages,Barcelona
+Sant Joan Despí,Baix Llobregat,Barcelona
+Sant Julià de Cerdanyola,Berguedà,Barcelona
+Sant Julià de Vilatorta,Osona,Barcelona
+Sant Just Desvern,Baix Llobregat,Barcelona
+Sant Llorenç d'Hortons,Alt Penedès,Barcelona
+Sant Llorenç Savall,Vallès Occidental,Barcelona
+Sant Martí d'Albars,Osona,Barcelona
+Sant Martí de Centelles,Osona,Barcelona
+Sant Martí de Tous,Anoia,Barcelona
+Sant Martí Sarroca,Alt Penedès,Barcelona
+Sant Martí Sesgueioles,Anoia,Barcelona
+Sant Mateu de Bages,Bages,Barcelona
+Sant Pere de Ribes,Garraf,Barcelona
+Sant Pere de Riudebitlles,Alt Penedès,Barcelona
+Sant Pere de Torelló,Osona,Barcelona
+Sant Pere de Vilamajor,Vallès Oriental,Barcelona
+Sant Pere Sallavinera,Anoia,Barcelona
+Sant Pol de Mar,Maresme,Barcelona
+Sant Quintí de Mediona,Alt Penedès,Barcelona
+Sant Quirze de Besora,Osona,Barcelona
+Sant Quirze del Vallès,Vallès Occidental,Barcelona
+Sant Quirze Safaja,Moianès,Barcelona
+Sant Sadurní d'Anoia,Alt Penedès,Barcelona
+Sant Sadurní d'Osormort,Osona,Barcelona
+Sant Salvador de Guardiola,Bages,Barcelona
+Sant Vicenç de Castellet,Bages,Barcelona
+Sant Vicenç de Montalt,Maresme,Barcelona
+Sant Vicenç de Torelló,Osona,Barcelona
+Sant Vicenç dels Horts,Baix Llobregat,Barcelona
+Santa Cecília de Voltregà,Osona,Barcelona
+Santa Coloma de Cervelló,Baix Llobregat,Barcelona
+Santa Coloma de Gramenet,Barcelonès,Barcelona
+Santa Eugènia de Berga,Osona,Barcelona
+Santa Eulàlia de Riuprimer,Osona,Barcelona
+Santa Eulàlia de Ronçana,Vallès Oriental,Barcelona
+Santa Fe del Penedès,Alt Penedès,Barcelona
+Santa Margarida de Montbui,Anoia,Barcelona
+Santa Margarida i els Monjos,Alt Penedès,Barcelona
+Santa Maria d'Oló,Moianès,Barcelona
+Santa Maria de Besora,Osona,Barcelona
+Santa Maria de Martorelles,Vallès Oriental,Barcelona
+Santa Maria de Merlès,Berguedà,Barcelona
+Santa Maria de Miralles,Anoia,Barcelona
+Santa Maria de Palautordera,Vallès Oriental,Barcelona
+Santa Perpètua de Mogoda,Vallès Occidental,Barcelona
+Santa Susanna,Maresme,Barcelona
+Santpedor,Bages,Barcelona
+Sentmenat,Vallès Occidental,Barcelona
+Seva,Osona,Barcelona
+Sitges,Garraf,Barcelona
+Sobremunt,Osona,Barcelona
+Sora,Osona,Barcelona
+Subirats,Alt Penedès,Barcelona
+Súria,Bages,Barcelona
+Tagamanent,Vallès Oriental,Barcelona
+Talamanca,Bages,Barcelona
+Taradell,Osona,Barcelona
+Tavèrnoles,Osona,Barcelona
+Tavertet,Osona,Barcelona
+Teià,Maresme,Barcelona
+Terrassa,Vallès Occidental,Barcelona
+Tiana,Maresme,Barcelona
+Tona,Osona,Barcelona
+Tordera,Maresme,Barcelona
+Torelló,Osona,Barcelona
+La Torre de Claramunt,Anoia,Barcelona
+Torrelavit,Alt Penedès,Barcelona
+Torrelles de Foix,Alt Penedès,Barcelona
+Torrelles de Llobregat,Baix Llobregat,Barcelona
+Ullastrell,Vallès Occidental,Barcelona
+Vacarisses,Vallès Occidental,Barcelona
+Vallbona d'Anoia,Anoia,Barcelona
+Vallcebre,Berguedà,Barcelona
+Vallgorguina,Vallès Oriental,Barcelona
+Vallirana,Baix Llobregat,Barcelona
+Vallromanes,Vallès Oriental,Barcelona
+Veciana,Anoia,Barcelona
+Vic,Osona,Barcelona
+Vilada,Berguedà,Barcelona
+Viladecans,Baix Llobregat,Barcelona
+Viladecavalls,Vallès Occidental,Barcelona
+Vilafranca del Penedès,Alt Penedès,Barcelona
+Vilalba Sasserra,Vallès Oriental,Barcelona
+Vilanova de Sau,Osona,Barcelona
+Vilanova del Camí,Anoia,Barcelona
+Vilanova del Vallès,Vallès Oriental,Barcelona
+Vilanova i la Geltrú,Garraf,Barcelona
+Vilassar de Dalt,Maresme,Barcelona
+Vilassar de Mar,Maresme,Barcelona
+Vilobí del Penedès,Alt Penedès,Barcelona
+Viver i Serrateix,Berguedà,Barcelona

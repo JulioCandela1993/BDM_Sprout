@@ -1,0 +1,51 @@
+:ID;farmername:string;location:string;experience:int
+F0;Monet;Cabrera d'Anoia;3
+F1;Warhol;Sant Llorenç Savall;3
+F2;Vettriano;Figaró-Montmany;3
+F3;Cassatt;Santa Maria de Palautordera;4
+F4;Donatello;Canyelles;3
+F5;Gauguin;Olvan;8
+F6;Escher;Badia del Vallès;2
+F7;Vincent;Monistrol de Montserrat;0
+F8;Durer;Sant Sadurní d'Anoia;2
+F9;Kahlo;Capolat;2
+F10;Ansel Adams;Santa Fe del Penedès;0
+F11;Durer;Les Masies de Voltregà;0
+F12;Rembrandt;Cabrera d'Anoia;3
+F13;Dali;Sant Llorenç Savall;3
+F14;Paul Klee;Figaró-Montmany;3
+F15;Michelangelo;Santa Maria de Palautordera;4
+F16;Botticelli;Canyelles;3
+F17;Klimt;Olvan;8
+F18;Cezanne;Badia del Vallès;2
+F19;Durer;Monistrol de Montserrat;0
+F20;Kahlo;Sant Sadurní d'Anoia;2
+F21;Escher;Capolat;2
+F22;Da Vinci;Santa Fe del Penedès;0
+F23;Pollock;Les Masies de Voltregà;0
+F24;Magritte;La Llagosta;2
+F25;Raphael;Cabrera d'Anoia;3
+F26;Escher;Sant Llorenç Savall;3
+F27;Diego Rivera;Figaró-Montmany;3
+F28;Escher;Santa Maria de Palautordera;4
+F29;El Greco;Canyelles;3
+F30;Joan Miro;Olvan;8
+F31;Manet;Badia del Vallès;2
+F32;Cezanne;Monistrol de Montserrat;0
+F33;Kandinsky;Sant Sadurní d'Anoia;2
+F34;Edward Hopper;Capolat;2
+F35;Picasso;Santa Fe del Penedès;0
+F36;Kandinsky;Les Masies de Voltregà;0
+F37;Pollock;Cabrera d'Anoia;3
+F38;Raphael;Sant Llorenç Savall;3
+F39;Manet;Figaró-Montmany;3
+F40;Edward Hopper;Santa Maria de Palautordera;4
+F41;Rubens;Canyelles;3
+F42;Paul Klee;Olvan;8
+F43;Escher;Badia del Vallès;2
+F44;Titian;Monistrol de Montserrat;0
+F45;Dali;Sant Sadurní d'Anoia;2
+F46;Rubens;Capolat;2
+F47;Donatello;Santa Fe del Penedès;0
+F48;Kahlo;Les Masies de Voltregà;0
+F49;Degas;La Llagosta;2

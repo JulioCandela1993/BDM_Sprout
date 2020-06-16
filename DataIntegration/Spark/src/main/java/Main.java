@@ -4,7 +4,8 @@ import exercise_2.Exercise_2;
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaSparkContext;
 import transactions.OnlineOrders;
-
+import marketprices.MarketPrices;
+import customerfeedback.CustomerFeedback;
 
 public class Main {
 	
@@ -15,17 +16,17 @@ public class Main {
         JavaSparkContext ctx = new JavaSparkContext(conf);
 		
 		if (args.length < 1) {
-			throw new Exception("Wrong number of parameters, usage: (exercise1,exercise2)");
+			throw new Exception("Wrong number of parameters, usage: (orders,mkt,feedback)");
 		}
 
 		if (args[0].equals("orders")) {
             System.out.println(OnlineOrders.transformOrders(ctx));
-        }
-		else if (args[0].equals("exercise2")) {
-		    System.out.println(Exercise_2.happinessRanking(ctx));
-        }
-		else {
-			throw new Exception("Wrong number of exercise");
+        }else if (args[0].equals("mkt")) {
+			System.out.println(MarketPrices.marketPriceCalculation(ctx));
+		}else if (args[0].equals("feedback")) {
+			System.out.println(CustomerFeedback.generateCustomerFeedbackFile(ctx));
+		}		else {
+			throw new Exception("Wrong argument name");
 		}
 	}
 }
