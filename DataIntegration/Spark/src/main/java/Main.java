@@ -1,6 +1,5 @@
 import java.util.Arrays;
 
-import exercise_2.Exercise_2;
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaSparkContext;
 import transactions.OnlineOrders;
