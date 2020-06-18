@@ -4,8 +4,8 @@ from elasticsearch import Elasticsearch
 uri = "bolt://localhost:7687"
 driver = GraphDatabase.driver(uri, auth=("neo4j", "neo"))
 es = Elasticsearch(
-        cloud_id="bdm_sdm_test2:ZXVyb3BlLXdlc3QxLmdjcC5jbG91ZC5lcy5pbyQ1MzJhYmEwMmUyY2I0NDRlOTdhNTE3NmU5ODEyODdmZSQxNjNlZTIzOWYyNDI0Y2E0OTU0YmQ0MGU0Yjk2YzU3Ng==",
-        http_auth=("elastic", "Ta5MiyyJBclJxwuv0bbeFWXr"),
+        cloud_id="bdm_sdm_test2:ZXVyb3BlLXdlc3QxLmdjcC5jbG91ZC5lcy5pbyQwNDY5NjU0MTkyYjY0MTgwYjYwZWFkNjM3NjlkYmUzYiQ5NGFlMDgzZDA2NjI0MDkzYWUxNWIzZDQwMWY5MWY2NA==",
+        http_auth=("elastic", "Nn0UZWuHWM2pBxVSMTKQQd99"),
 )
 def delete_all(tx):
     tx.run("match (n) with n DETACH DELETE n; ")
@@ -67,12 +67,12 @@ with driver.session() as session:
 
     # Query feedbacks from the user from ElasticSearch
     query_body = {"query": {"bool": {"must": {"match": {"userid": userID}}}}}
-    feedbacks = es.search(index="cust_index")
+    feedbacks = es.search(index="cust_index_hung", body=query_body)
 
     # Filter out products with negative feedbacks
     for feedback in feedbacks['hits']['hits']:
         if(feedback['_source']['sentAnalysis']=='NEGATIVE'):
-            listRecommendedProducts.pop(str(feedback['_source']['productid']), None)
+            listRecommendedProducts.pop(feedback['_source']['productid'], None)
 
     print(listRecommendedProducts)
 
