@@ -38,22 +38,37 @@ public class Elastic {
                 "532aba02e2cb444e97a5176e981287fe.europe-west1.gcp.cloud.es.io", 9243, "https"))
                 .setHttpClientConfigCallback(httpClientBuilder -> httpClientBuilder.setDefaultCredentialsProvider(credentialsProvider));
 
+        System.out.println("Yes");
+
         RestHighLevelClient client = new RestHighLevelClient(builder);
 
-        Map<String,Object> map = new HashMap<>();
-        //You can convert any Object.
-        map.put("name", "kimchy");
-        map.put("userId", "trying out Elasticsearch");
+        System.out.println("Yes");
 
-        String json = new ObjectMapper().writeValueAsString(map);
+        CreateIndexRequest request = new CreateIndexRequest("feedback_web");
+        request.settings(Settings.builder()
+                .put("index.number_of_shards", 1)
+                .put("index.number_of_replicas", 2)
+        );
+        Map<String, Object> messagetext = new HashMap<>();
+        messagetext.put("type", "text");
+        Map<String, Object> messagedate = new HashMap<>();
+        messagedate.put("type", "date");
+        Map<String, Object> messagelong = new HashMap<>();
+        messagelong.put("type", "long");
+        Map<String, Object> properties = new HashMap<>();
 
-        IndexRequest request = new IndexRequest("users");
-        request.id("12337");
-        request.source(json, XContentType.JSON);
-        IndexResponse indexResponse = client.index(request, RequestOptions.DEFAULT);
-        System.out.println("response id: "+indexResponse.getId());
+        properties.put("date", messagedate);
+        properties.put("userid", messagetext);
+        properties.put("productid", messagetext);
+        properties.put("rating", messagelong);
+        properties.put("sentAnalysis", messagetext);
 
-        client.close();
+        Map<String, Object> mapping = new HashMap<>();
+        mapping.put("properties", properties);
+        request.mapping(mapping);
+        CreateIndexResponse indexResponse = client.indices().create(request, RequestOptions.DEFAULT);
+        System.out.println("response id: "+indexResponse.index());
+
 
     }
 
