@@ -9,6 +9,6 @@
 
 ![Model](GraphAnalysis/GraphDesign.PNG)
 
-##Proof of Concept
+## Proof of Concept
 
-![Model](GraphAnalysis/PoC.PNG)
+![Model](PoC.PNG)
