@@ -19,7 +19,6 @@ import java.io.FileWriter;
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 
@@ -29,12 +28,6 @@ public class Main {
     static String HADOOP_COMMON_PATH = "C:\\Users\\Valdemar\\Documents\\Maestria\\ERASMUS\\España\\UPC\\3_BDM\\Project\\SDM_Sprout\\DataIntegration\\SparkStreaming\\src\\main\\resources\\winutils";
 
     public static void main(String[] args) throws Exception {
-//        String stringToParse = "{\"customerid\":\"Valde\",\"productid\":\"12345\",\"rating\":5,\"about\":\"This is the way\",\"product\":\"Apples\"}";
-//        JSONParser parser = new JSONParser();
-//        JSONObject json = (JSONObject) parser.parse(stringToParse);
-//        // get a String from the JSON object
-//        String firstName = (String) json.get("customerid");
-//        System.out.println("The first name is: " + firstName);
 
         System.setProperty("hadoop.home.dir", HADOOP_COMMON_PATH);
         SparkConf conf = new SparkConf().setAppName("SparkStreamingTraining").setMaster("local[*]");
@@ -91,8 +84,6 @@ public class Main {
             return new Tuple4<>(1,new Tuple4<>(t._2._1(),t._2._2(),t._2._3(),t._2._5()), positiveScore, negativeScore);
         });
 
-//        analysis.print();
-
         JavaDStream<String> result = analysis.map(t -> {
             String classLabel = "";
 
@@ -108,7 +99,6 @@ public class Main {
             String date = dtf.format(now);
 
             String output = "{\"date\":\""+date+"\",\"userid\":"+t._2()._1()+",\"productid\":"+t._2()._2()+",\"rating\":"+t._2()._3()+",\"sentAnalysis\":\""+classLabel+"\"}";
-            //{"date":"2020-06-01","userid":16527,"productid":20622,"rating":4,"sentAnalysis":"NEUTRAL"}
 
             return output;
         });
@@ -124,14 +114,6 @@ public class Main {
                 fr.close();
             }
         });
-
-
-//        stream.map(_.value).foreachRDD(rdd => {
-//                rdd.foreach(println)
-//        if (!rdd.isEmpty()) {
-//            rdd.toDF("value").coalesce(1).write.mode(SaveMode.Append).save("C:/data/spark/")
-//            // rdd.saveAsTextFile("C:/data/spark/")
-//        }
 
         jsc.start();              // Start the computation
         jsc.awaitTermination();   // Wait for the computation to terminate
