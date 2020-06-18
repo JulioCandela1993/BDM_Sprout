@@ -32,10 +32,7 @@ import java.io.FileWriter;
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class Main {
 
@@ -120,8 +117,10 @@ public class Main {
             else
                 classLabel="NEUTRAL";
 
+            Random rand = new Random();
+
             DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy-MM-dd");
-            LocalDateTime now = LocalDateTime.now();
+            LocalDateTime now = LocalDateTime.now();//.minusDays(rand.nextInt(10));
             String date = dtf.format(now);
 
             String output = "{\"date\":\""+date+"\",\"userid\":"+t._2()._1()+",\"productid\":"+t._2()._2()+",\"rating\":"+t._2()._3()+",\"sentAnalysis\":\""+classLabel+"\"}";
@@ -129,10 +128,10 @@ public class Main {
 
             final CredentialsProvider credentialsProvider =new BasicCredentialsProvider();
             credentialsProvider.setCredentials(AuthScope.ANY,
-                    new UsernamePasswordCredentials("elastic", "Ta5MiyyJBclJxwuv0bbeFWXr"));
+                    new UsernamePasswordCredentials("elastic", "AmFWN6MOtCWSDmqiOljKm4TA"));
 
             RestClientBuilder builder = RestClient.builder(new HttpHost(
-                    "532aba02e2cb444e97a5176e981287fe.europe-west1.gcp.cloud.es.io", 9243, "https"))
+                    "b0fe863172b24fc793f34d35683b658e.europe-west1.gcp.cloud.es.io", 9243, "https"))
                     .setHttpClientConfigCallback(httpClientBuilder -> httpClientBuilder.setDefaultCredentialsProvider(credentialsProvider));
 
             RestHighLevelClient client = new RestHighLevelClient(builder);

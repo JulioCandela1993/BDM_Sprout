@@ -32,10 +32,10 @@ public class Elastic {
 
         final CredentialsProvider credentialsProvider =new BasicCredentialsProvider();
         credentialsProvider.setCredentials(AuthScope.ANY,
-                new UsernamePasswordCredentials("elastic", "Ta5MiyyJBclJxwuv0bbeFWXr"));
+                new UsernamePasswordCredentials("elastic", "AmFWN6MOtCWSDmqiOljKm4TA"));
 
         RestClientBuilder builder = RestClient.builder(new HttpHost(
-                "532aba02e2cb444e97a5176e981287fe.europe-west1.gcp.cloud.es.io", 9243, "https"))
+                "b0fe863172b24fc793f34d35683b658e.europe-west1.gcp.cloud.es.io", 9243, "https"))
                 .setHttpClientConfigCallback(httpClientBuilder -> httpClientBuilder.setDefaultCredentialsProvider(credentialsProvider));
 
         System.out.println("Yes");
@@ -50,7 +50,7 @@ public class Elastic {
                 .put("index.number_of_replicas", 2)
         );
         Map<String, Object> messagetext = new HashMap<>();
-        messagetext.put("type", "text");
+        messagetext.put("type", "string");
         Map<String, Object> messagedate = new HashMap<>();
         messagedate.put("type", "date");
         Map<String, Object> messagelong = new HashMap<>();

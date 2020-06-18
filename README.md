@@ -1,5 +1,14 @@
-# SPROUT - BDM Project
+# SPROUT - BDM SDM Project
+
+
+## Final Architecture
+
+![Model](architecture.PNG)
 
 ## Applying Graph Analytics with Neo4j
 
-![Model](GraphDesign.PNG)
+![Model](GraphAnalysis/GraphDesign.PNG)
+
+##Proof of Concept
+
+![Model](GraphAnalysis/PoC.PNG)
