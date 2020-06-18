@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import random
 
-os.chdir("G:\\Documentos\\MasterDegree\\BDMA\\Classes\\UPC\\SDM\\Project\\DataIntegration")
+# os.chdir("G:\\Documentos\\MasterDegree\\BDMA\\Classes\\UPC\\SDM\\Project\\DataIntegration")
 
 
 
@@ -28,13 +28,13 @@ product_db_name = [i[1:] for i in product_db["nameproduct:string"]]
 
 while(True):
     product = product_db.sample()
-    product_db_id = product[":ID"].to_string(index=False).strip()
+    product_db_id = product[":ID"].to_string(index=False).strip()[1:]
     product_db_name = product["nameproduct:string"].to_string(index=False).strip()
     customer = random.choice(customer_db_id)
-    rating = random.randint(1,5) + 1
+    rating = random.randint(1,5)
     about = f"{product_db_name} is"
     for i in range(3, random.randint(3,20)):
         about += " " + random.choice(words)[0]
-    json_string = f"customerid:'{customer}', productid:'{product_db_id}', rating: {rating}, about:'{about}'"
+    json_string = f"\"customerid\":\"{customer}\", \"productid\":\"{product_db_id}\", \"rating\": {rating}, \"about\":\"{about}\", \"product\":\"{product_db_name}\""
     os.system("echo "+"{"+json_string+"}")
     time.sleep(1)
