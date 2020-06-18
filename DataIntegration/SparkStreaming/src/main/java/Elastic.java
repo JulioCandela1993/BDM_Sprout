@@ -35,7 +35,7 @@ public class Elastic {
                 new UsernamePasswordCredentials("elastic", "AmFWN6MOtCWSDmqiOljKm4TA"));
 
         RestClientBuilder builder = RestClient.builder(new HttpHost(
-                "b0fe863172b24fc793f34d35683b658e.europe-west1.gcp.cloud.es.io", 9243, "https"))
+                "b*******************************************.io", 9243, "https"))
                 .setHttpClientConfigCallback(httpClientBuilder -> httpClientBuilder.setDefaultCredentialsProvider(credentialsProvider));
 
         System.out.println("Yes");
