@@ -14,7 +14,7 @@ import java.util.Arrays;
 
 public class Main {
 
-    static String HADOOP_COMMON_PATH = "C:\\Users\\Valdemar\\Documents\\Maestria\\ERASMUS\\España\\UPC\\3_BDM\\Lab6\\Lab06-Training_Java\\src\\main\\resources\\winutils";
+    static String HADOOP_COMMON_PATH = "G:\\Documentos\\MasterDegree\\BDMA\\Classes\\UPC\\SDM\\Project\\DataIntegration\\SparkStreaming\\src\\main\\resources\\winutils";
 
     public static void main(String[] args) throws Exception {
         System.setProperty("hadoop.home.dir", HADOOP_COMMON_PATH);
